@@ -199,6 +199,18 @@
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "Personal"
+    },
+    "Personal Example 2": {
+      "Texture": "rbxassetid://17006178754",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Credits": "Personal"
+    },
+    "Personal Example 3": {
+      "Texture": "rbxassetid://17006178754",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Credits": "Personal"
     }
   },
   "Other": {
