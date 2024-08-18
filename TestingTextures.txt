@@ -1,5 +1,5 @@
 {
-  "purpl3_: {
+  "purpl3_": {
       "Strike": {
       "Texture": "rbxassetid://15441646481",
       "Type": "4x4",
