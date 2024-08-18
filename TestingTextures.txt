@@ -1,192 +1,192 @@
 {
   "purpl3_": {
-      "Strike": {
+    "Strike": {
       "Texture": "rbxassetid://15441646481",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Water Rush": {
+    "Water Rush": {
       "Texture": "rbxassetid://15441459165",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Orbiting": {
+    "Orbiting": {
       "Texture": "rbxassetid://15442214293",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Water Rush 2": {
+    "Water Rush 2": {
       "Texture": "rbxassetid://15441534794",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Strike 2": {
+    "Strike 2": {
       "Texture": "rbxassetid://15441225436",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Water Orb": {
+    "Water Orb": {
       "Texture": "rbxassetid://15442173441",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Tendrils": {
+    "Tendrils": {
       "Texture": "rbxassetid://15441205775",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Zigzag": {
+    "Zigzag": {
       "Texture": "rbxassetid://15441900753",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Spinning Circle": {
+    "Spinning Circle": {
       "Texture": "rbxassetid://15442080545",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Three Slashes": {
+    "Three Slashes": {
       "Texture": "rbxassetid://15441195021",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Slash": {
+    "Slash": {
       "Texture": "rbxassetid://15441174402",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Hit": {
+    "Hit": {
       "Texture": "rbxassetid://15442057794",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Zigzag 2": {
+    "Zigzag 2": {
       "Texture": "rbxassetid://15435019950",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Strike 3": {
+    "Strike 3": {
       "Texture": "rbxassetid://15434990762",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Hit 2": {
+    "Hit 2": {
       "Texture": "rbxassetid://15442005571",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Seperation": {
+    "Seperation": {
       "Texture": "rbxassetid://15442260232",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Slash 2": {
+    "Slash 2": {
       "Texture": "rbxassetid://15434968908",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Slash 3": {
+    "Slash 3": {
       "Texture": "rbxassetid://15434940423",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Eye Opening": {
+    "Eye Opening": {
       "Texture": "rbxassetid://15441333797",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Burst": {
+    "Burst": {
       "Texture": "rbxassetid://15442232437",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning Tendrils": {
+    "Lightning Tendrils": {
       "Texture": "rbxassetid://15924029758",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning Tendril": {
+    "Lightning Tendril": {
       "Texture": "rbxassetid://15923960174",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning Strike": {
+    "Lightning Strike": {
       "Texture": "rbxassetid://15923930072",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning Zigzag": {
+    "Lightning Zigzag": {
       "Texture": "rbxassetid://15923888277",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning Tendrils 2": {
+    "Lightning Tendrils 2": {
       "Texture": "rbxassetid://15923272267",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning Strike 2": {
+    "Lightning Strike 2": {
       "Texture": "rbxassetid://15923184309",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning Strike 3": {
+    "Lightning Strike 3": {
       "Texture": "rbxassetid://15923017416",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Lightning": {
+    "Lightning": {
       "Texture": "rbxassetid://15922928385",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Stylized Dust": {
+    "Stylized Dust": {
       "Texture": "rbxassetid://17551627147",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Stylized Strike": {
+    "Stylized Strike": {
       "Texture": "rbxassetid://17551589693",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Stylized Explosion": {
+    "Stylized Explosion": {
       "Texture": "rbxassetid://17551560355",
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "@purpl3_"
     },
-      "Stylized Explosion 2": {
+    "Stylized Explosion 2": {
       "Texture": "rbxassetid://17551525124",
       "Type": "4x4",
       "Resolution": "1024",
