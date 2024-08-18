@@ -193,26 +193,6 @@
       "Credits": "@purpl3_"
     }
   },
-  "Personal": {
-    "Personal Example": {
-      "Texture": "rbxassetid://17006178754",
-      "Type": "4x4",
-      "Resolution": "1024",
-      "Credits": "Personal"
-    },
-    "Personal Example 2": {
-      "Texture": "rbxassetid://17006178754",
-      "Type": "4x4",
-      "Resolution": "1024",
-      "Credits": "Personal"
-    },
-    "Personal Example 3": {
-      "Texture": "rbxassetid://17006178754",
-      "Type": "4x4",
-      "Resolution": "1024",
-      "Credits": "Personal"
-    }
-  },
   "Other": {
     "Other22": {
       "Texture": "rbxassetid://17006178754",
