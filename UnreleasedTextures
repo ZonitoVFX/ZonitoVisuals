@@ -4366,6 +4366,354 @@
       "Type": "Static",
       "Resolution": "512",
       "Credits": "?"
+    },
+    "Beam70": {
+      "Texture": "rbxassetid://139668072107467",
+      "Type": "Static",
+      "Resolution": "529",
+      "Credits": "?"
+    },
+    "Beam71": {
+          "Texture": "rbxassetid://77616649590028",
+          "Type": "Static",
+          "Resolution": "604",
+          "Credits": "?"
+    },
+    "Beam72": {
+          "Texture": "rbxassetid://123729088029604",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam73": {
+          "Texture": "rbxassetid://88888763013044",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam74": {
+          "Texture": "rbxassetid://89444331714664",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam75": {
+          "Texture": "rbxassetid://118613370531472",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam76": {
+          "Texture": "rbxassetid://123968405401263",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Beam77": {
+          "Texture": "rbxassetid://102846212358727",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam78": {
+          "Texture": "rbxassetid://114847799228007",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam79": {
+          "Texture": "rbxassetid://128022764849916",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Beam80": {
+          "Texture": "rbxassetid://97726000250996",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Beam81": {
+          "Texture": "rbxassetid://113083314207224",
+          "Type": "Static",
+          "Resolution": "210",
+          "Credits": "?"
+    },
+    "Beam82": {
+          "Texture": "rbxassetid://118222722924836",
+          "Type": "Static",
+          "Resolution": "512",
+          "Credits": "?"
+    },
+    "Beam83": {
+          "Texture": "rbxassetid://86583175913235",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam84": {
+          "Texture": "rbxassetid://124753331461910",
+          "Type": "Static",
+          "Resolution": "120",
+          "Credits": "?"
+    },
+    "Beam85": {
+          "Texture": "rbxassetid://91249987483622",
+          "Type": "Static",
+          "Resolution": "120",
+          "Credits": "?"
+    },
+    "Beam86": {
+          "Texture": "rbxassetid://82129102639045",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Beam87": {
+          "Texture": "rbxassetid://138916818203143",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam88": {
+          "Texture": "rbxassetid://133860736415104",
+          "Type": "Static",
+          "Resolution": "512",
+          "Credits": "?"
+    },
+    "Beam89": {
+          "Texture": "rbxassetid://83108983635987",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam90": {
+          "Texture": "rbxassetid://89185242534188",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam91": {
+          "Texture": "rbxassetid://86749440197584",
+          "Type": "Static",
+          "Resolution": "626",
+          "Credits": "?"
+    },
+    "Beam92": {
+          "Texture": "rbxassetid://129857196781413",
+          "Type": "Static",
+          "Resolution": "626",
+          "Credits": "?"
+    },
+    "Beam93": {
+          "Texture": "rbxassetid://87258503610772",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam94": {
+          "Texture": "rbxassetid://76397637545058",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam95": {
+          "Texture": "rbxassetid://96775955783383",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam96": {
+          "Texture": "rbxassetid://83228511204990",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Beam97": {
+          "Texture": "rbxassetid://77189927291566",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam98": {
+          "Texture": "rbxassetid://94119288615470",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam99": {
+          "Texture": "rbxassetid://98992318100320",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam100": {
+          "Texture": "rbxassetid://85772363699785",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam101": {
+          "Texture": "rbxassetid://125449362531870",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam102": {
+          "Texture": "rbxassetid://77697894692017",
+          "Type": "Static",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Beam103": {
+          "Texture": "rbxassetid://140736544863244",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam104": {
+          "Texture": "rbxassetid://101491851007643",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam105": {
+          "Texture": "rbxassetid://112629787601025",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam106": {
+          "Texture": "rbxassetid://81955922678015",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam107": {
+          "Texture": "rbxassetid://93019719651495",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam108": {
+          "Texture": "rbxassetid://110272524184089",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam109": {
+          "Texture": "rbxassetid://105185967968678",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam110": {
+          "Texture": "rbxassetid://101504542890894",
+          "Type": "Static",
+          "Resolution": "120",
+          "Credits": "?"
+    },
+    "Beam111": {
+          "Texture": "rbxassetid://134727529722190",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam112": {
+          "Texture": "rbxassetid://79057479408673",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam113": {
+          "Texture": "rbxassetid://137097904100100",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam114": {
+          "Texture": "rbxassetid://110245787189599",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam115": {
+          "Texture": "rbxassetid://125603075630254",
+          "Type": "Static",
+          "Resolution": "512",
+          "Credits": "?"
+    },
+    "Beam116": {
+          "Texture": "rbxassetid://118741503383946",
+          "Type": "Static",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Beam117": {
+          "Texture": "rbxassetid://72969225620485",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Beam118": {
+          "Texture": "rbxassetid://71693355161247",
+          "Type": "Static",
+          "Resolution": "601",
+          "Credits": "?"
+    },
+    "Beam119": {
+          "Texture": "rbxassetid://112506020137102",
+          "Type": "Static",
+          "Resolution": "142",
+          "Credits": "?"
+    },
+    "Beam120": {
+          "Texture": "rbxassetid://70464235210468",
+          "Type": "Static",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Beam121": {
+          "Texture": "rbxassetid://72634192915798",
+          "Type": "Static",
+          "Resolution": "301",
+          "Credits": "?"
+    },
+    "Beam122": {
+          "Texture": "rbxassetid://107746228303534",
+          "Type": "Static",
+          "Resolution": "512",
+          "Credits": "?"
+    },
+    "Beam123": {
+          "Texture": "rbxassetid://103707760574120",
+          "Type": "Static",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Beam124": {
+          "Texture": "rbxassetid://136624058127139",
+          "Type": "Static",
+          "Resolution": "301",
+          "Credits": "?"
+    },
+    "Beam125": {
+          "Texture": "rbxassetid://105481683942363",
+          "Type": "Static",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Beam126": {
+          "Texture": "rbxassetid://137611877477988",
+          "Type": "Static",
+          "Resolution": "301",
+          "Credits": "?"
+    },
+    "Beam127": {
+          "Texture": "rbxassetid://77138300891135",
+          "Type": "Static",
+          "Resolution": "256",
+          "Credits": "?"
     }
   }
 }
