@@ -1249,6 +1249,48 @@
       "Type": "Static",
       "Resolution": "512",
       "Credits": "?"
+    },
+    "Rock1": {
+          "Texture": "rbxassetid://86836351190415",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Rock2": {
+          "Texture": "rbxassetid://80630556091638",
+          "Type": "Static",
+          "Resolution": "604",
+          "Credits": "?"
+    }, 
+    "Rock3": {
+          "Texture": "rbxassetid://129208717139526",
+          "Type": "Static",
+          "Resolution": "183",
+          "Credits": "?"
+    },
+    "Rock4": {
+          "Texture": "rbxassetid://126637935635367",
+          "Type": "8x8",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Rock5": {
+          "Texture": "rbxassetid://75669596262274",
+          "Type": "8x8",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Rock6": {
+          "Texture": "rbxassetid://85403020583447",
+          "Type": "2x2",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Rock7": {
+          "Texture": "rbxassetid://79644177937304",
+          "Type": "2x2",
+          "Resolution": "256",
+          "Credits": "?"
     }
   },
   "Personal": [],
