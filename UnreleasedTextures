@@ -107,12 +107,6 @@
           "Type": "Static",
           "Resolution": "232",
           "Credits": "?"
-    },
-    "Ground19": {
-          "Texture": "rbxassetid://139810168309226",
-          "Type": "8x8",
-          "Resolution": "1024",
-          "Credits": "?"
     }
   },
   "Flares": {
@@ -2951,7 +2945,7 @@
     },
     "Star6": {
       "Texture": "rbxassetid://17062447216",
-      "Type": "4x4",
+      "Type": "8x8",
       "Resolution": "512",
       "Credits": "?"
     },
