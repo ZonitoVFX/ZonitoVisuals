@@ -4708,6 +4708,19 @@
           "Type": "Static",
           "Resolution": "256",
           "Credits": "?"
+    },
+
+    "Beam127": {
+          "Texture": "rbxassetid://135482100082072",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Beam128": {
+          "Texture": "rbxassetid://76693188644317",
+          "Type": "Static",
+          "Resolution": "232",
+          "Credits": "?"
     }
   }
 }
