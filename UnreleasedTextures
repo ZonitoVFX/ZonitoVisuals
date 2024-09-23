@@ -1,4 +1,145 @@
 {
+  "Flares": {
+    "Flares1": { 
+      "Texture": "rbxassetid://102627867105014",
+      "Type": "Static",
+      "Resolution": "420",
+      "Credits": "?"
+    },
+    "Flares2": { 
+          "Texture": "rbxassetid://113293726367596",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Flares3": { 
+          "Texture": "rbxassetid://96806560443322",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Flares4": { 
+          "Texture": "rbxassetid://95806229513165",
+          "Type": "2x2",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Flares5": { 
+          "Texture": "rbxassetid://119141303167945",
+          "Type": "2x2",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Flares6": { 
+          "Texture": "rbxassetid://104341005874564",
+          "Type": "Static",
+          "Resolution": "512",
+          "Credits": "?"
+    },
+    
+    "Flares7": { 
+          "Texture": "rbxassetid://111194721072706",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+    "Flares8": { 
+          "Texture": "rbxassetid://107202748597502",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Flares9": { 
+          "Texture": "rbxassetid://137638481942283",
+          "Type": "Static",
+          "Resolution": "512",
+          "Credits": "?"
+    },
+    "Flares10": { 
+          "Texture": "rbxassetid://76762837282815",
+          "Type": "Static",
+          "Resolution": "512",
+          "Credits": "?"
+    },
+    "Flares11": { 
+          "Texture": "rbxassetid://73357998514538",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Flares12": { 
+          "Texture": "rbxassetid://86170160520422",
+          "Type": "Static",
+          "Resolution": "128",
+          "Credits": "?"
+    },
+    "Flares13": { 
+          "Texture": "rbxassetid://78118852379955",
+          "Type": "Static",
+          "Resolution": "601",
+          "Credits": "?"
+    },
+    "Flares14": { 
+          "Texture": "rbxassetid://100867860580185",
+          "Type": "Static",
+          "Resolution": "601",
+          "Credits": "?"
+    },
+    "Flares15": { 
+          "Texture": "rbxassetid://133759777933744",
+          "Type": "Static",
+          "Resolution": "601",
+          "Credits": "?"
+    },
+    "Rainbow1": {
+          "Texture": "rbxassetid://98325976360706",
+          "Type": "Static",
+          "Resolution": "487",
+          "Credits": "?"
+    },
+    "Rainbow2": {
+          "Texture": "rbxassetid://138111953688137",
+          "Type": "Static",
+          "Resolution": "601",
+          "Credits": "?"
+    }, 
+    "Rainbow3": {
+          "Texture": "rbxassetid://85664013418740",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Rainbow4": {
+          "Texture": "rbxassetid://86314095034017",
+          "Type": "Static",
+          "Resolution": "604",
+          "Credits": "?"
+    },
+    "Rainbow5": {
+          "Texture": "rbxassetid://126685678214657",
+          "Type": "Static",
+          "Resolution": "420",
+          "Credits": "?"
+    },
+    "Rainbow6": {
+          "Texture": "rbxassetid://96288653875185",
+          "Type": "Static",
+          "Resolution": "256",
+          "Credits": "?"
+    },
+    "Rainbow7": {
+          "Texture": "rbxassetid://114940807331211",
+          "Type": "Static",
+          "Resolution": "1024",
+          "Credits": "?"
+    },
+  "Rainbow8": {
+     "Texture": "rbxassetid://88218984883624",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Credits": "?"
+    }
+  },
   "purpl3_": {
     "Strike": {
       "Texture": "rbxassetid://15441646481",
