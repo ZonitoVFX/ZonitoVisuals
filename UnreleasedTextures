@@ -2553,6 +2553,12 @@
       "Type"      : "4x4"                     ,
       "Resolution": "512"                     ,
       "Credits"   : "?"
+    },
+    "Water50": {
+      "Texture"   : "rbxassetid://76951334461630",
+      "Type"      : "4x4"                        ,
+      "Resolution": "2048"                       ,
+      "Credits"   : "?"
     }
   },
   "Lightning": {
