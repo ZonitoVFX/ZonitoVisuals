@@ -501,6 +501,42 @@
       "Type"      : "Static"                     ,
       "Resolution": "1024"                       ,
       "Credits"   : "?"
+    },
+    "Rainbow9": {
+      "Texture"   : "rbxassetid://75291700184033",
+      "Type"      : "Static"                     ,
+      "Resolution": "256"                        ,
+      "Credits"   : "?"
+    },
+    "Flare24": {
+      "Texture"   : "rbxassetid://113694846257284",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "Flare25": {
+      "Texture"   : "rbxassetid://90032528747821",
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Credits"   : "?"
+    },
+    "Flare26": {
+      "Texture"   : "rbxassetid://72198464154007",
+      "Type"      : "Static"                     ,
+      "Resolution": "1280"                       ,
+      "Credits"   : "?"
+    },
+    "Flare27": {
+      "Texture"   : "rbxassetid://86050781839978",
+      "Type"      : "Static"                     ,
+      "Resolution": "2048"                       ,
+      "Credits"   : "?"
+    },
+    "Flare28": {
+      "Texture"   : "rbxassetid://122881636456623",
+      "Type"      : "Static"                      ,
+      "Resolution": "2000"                        ,
+      "Credits"   : "?"
     }
   },
   "purpl3_": {
