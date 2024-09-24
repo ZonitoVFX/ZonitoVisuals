@@ -3008,6 +3008,84 @@
       "Type"      : "4x4"                     ,
       "Resolution": "1024"                    ,
       "Credits"   : "?"
+    },
+    "Slash22": {
+      "Texture"   : "rbxassetid://121148164489745",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Slash23": {
+      "Texture"   : "rbxassetid://109190615782079",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Slash24": {
+      "Texture"   : "rbxassetid://113078518155504",
+      "Type"      : "4x4"                         ,
+      "Resolution": "4096"                        ,
+      "Credits"   : "?"
+    },
+    "Slash25": {
+      "Texture"   : "rbxassetid://138307887351883",
+      "Type"      : "4x4"                         ,
+      "Resolution": "2048"                        ,
+      "Credits"   : "?"
+    },
+    "Slash26": {
+      "Texture"   : "rbxassetid://118101158436772",
+      "Type"      : "4x4"                         ,
+      "Resolution": "2048"                        ,
+      "Credits"   : "?"
+    },
+    "Slash27": {
+      "Texture"   : "rbxassetid://83869898921645",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Slash28": {
+      "Texture"   : "rbxassetid://99925185052573",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Slash29": {
+      "Texture"   : "rbxassetid://95760739419304",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Slash30": {
+      "Texture"   : "rbxassetid://95760739419304",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Slash31": {
+      "Texture"   : "rbxassetid://91842381194398",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Slash32": {
+      "Texture"   : "rbxassetid://109119355334757",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Slash33": {
+      "Texture"   : "rbxassetid://129396511735929",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Slash34": {
+      "Texture"   : "rbxassetid://78267222277920",
+      "Type"      : "4x4"                        ,
+      "Resolution": "2048"                       ,
+      "Credits"   : "?"
     }
   },
   "Crescents": {
