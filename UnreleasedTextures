@@ -920,18 +920,6 @@
       "Resolution": "374",
       "Credits": "?"
     },
-    "Other79": {
-      "Texture": "rbxassetid://79332989046002",
-      "Type": "Static",
-      "Resolution": "601",
-      "Credits": "?"
-    },
-    "Other80": {
-      "Texture": "rbxassetid://106876997672794",
-      "Type": "Static",
-      "Resolution": "420",
-      "Credits": "?"
-    },
     "Other81": {
       "Texture": "rbxassetid://96676669720648",
       "Type": "Static",
@@ -4885,6 +4873,18 @@
       "Texture": "rbxassetid://135482100082072",
       "Type": "Static",
       "Resolution": "1024",
+      "Credits": "?"
+    },
+    "Beam129": {
+      "Texture": "rbxassetid://79332989046002",
+      "Type": "Static",
+      "Resolution": "601",
+      "Credits": "?"
+    },
+    "Beam130": {
+      "Texture": "rbxassetid://106876997672794",
+      "Type": "Static",
+      "Resolution": "420",
       "Credits": "?"
     },
     "Beam128": {
