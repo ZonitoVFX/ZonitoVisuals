@@ -36,12 +36,6 @@
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
-    "Grid7": {
-      "Texture"   : "rbxassetid://135749348190290",
-      "Type"      : "Static"                      ,
-      "Resolution": "384"                         ,
-      "Credits"   : "?"
-    },
     "Grid8": {
       "Texture"   : "rbxassetid://102825105630718",
       "Type"      : "Static"                      ,
