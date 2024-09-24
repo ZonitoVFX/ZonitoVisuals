@@ -3905,6 +3905,30 @@
       "Type"      : "4x4"                        ,
       "Resolution": "512"                        ,
       "Credits"   : "?"
+    },
+    "Fire122": {
+      "Texture"   : "rbxassetid://80165282873828",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Fire123": {
+      "Texture"   : "rbxassetid://96626727980511",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Fire124": {
+      "Texture"   : "rbxassetid://109839180247874",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Fire125": {
+      "Texture"   : "rbxassetid://122954463046434",
+      "Type"      : "4x4"                         ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
     }
   },
   "Circles": {
