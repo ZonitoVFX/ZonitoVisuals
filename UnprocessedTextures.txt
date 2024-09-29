@@ -736,12 +736,6 @@
       "Resolution": "420"                        ,
       "Credits"   : "?"
     },
-    "Ground27": {
-      "Texture"   : "rbxassetid://80680642884594",
-      "Type"      : "Static"                     ,
-      "Resolution": "256"                        ,
-      "Credits"   : "?"
-    },
     "Ground28": {
       "Texture"   : "rbxassetid://123214658790614",
       "Type"      : "Static"                      ,
@@ -1762,6 +1756,300 @@
       "Texture"   : "rbxassetid://128777435897814",
       "Type"      : "Static"                      ,
       "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Firework": {
+      "Texture"   : "rbxassetid://98788923842276",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Effect": {
+      "Texture"   : "rbxassetid://130988588879110",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Slash": {
+      "Texture"   : "rbxassetid://73681504572363",
+      "Type"      : "4x4"                        ,
+      "Resolution": "4096"                       ,
+      "Credits"   : "?"
+    },
+    "Squares": {
+      "Texture"   : "rbxassetid://85934232161511",
+      "Type"      : "4x4"                        ,
+      "Resolution": "4096"                       ,
+      "Credits"   : "?"
+    },
+    "Fade_Ripple": {
+      "Texture"   : "rbxassetid://87125701219836",
+      "Type"      : "8x8"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Waterfall": {
+      "Texture"   : "rbxassetid://126392276167103",
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Credits"   : "?"
+    },
+    "Diamond": {
+      "Texture"   : "rbxassetid://139815902179972",
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Curse_Explosion": {
+      "Texture"   : "rbxassetid://132836821099963",
+      "Type"      : "8x8"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Dbz_Aura": {
+      "Texture"   : "rbxassetid://100372125086427",
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Heart_Flipbook": {
+      "Texture"   : "rbxassetid://136244099631576",
+      "Type"      : "8x8"                         ,
+      "Resolution": "2048"                        ,
+      "Credits"   : "?"
+    },
+    "Snowflake": {
+      "Texture"   : "rbxassetid://87559021239332",
+      "Type"      : "8x8"                        ,
+      "Resolution": "4096"                       ,
+      "Credits"   : "?"
+    },
+    "Rotation": {
+      "Texture"   : "rbxassetid://89858051297519",
+      "Type"      : "4x4"                        ,
+      "Resolution": "4096"                       ,
+      "Credits"   : "?"
+    },
+    "Hatem": {
+      "Texture"   : "rbxassetid://85181445696005",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1402"                       ,
+      "Credits"   : "?"
+    },
+    "Moon": {
+      "Texture"   : "rbxassetid://139081714168155",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "My_jjk_texture": {
+      "Texture"   : "rbxassetid://124359042766194",
+      "Type"      : "8x8"                         ,
+      "Resolution": "2048"                        ,
+      "Credits"   : "?"
+    },
+    "ssjb2": {
+      "Texture"   : "rbxassetid://104658816640121",
+      "Type"      : "2x2"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "ssj_flipbook_final": {
+      "Texture"   : "rbxassetid://114948141332295",
+      "Type"      : "2x2"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Goku_First_Blue": {
+      "Texture"   : "rbxassetid://136630279733031",
+      "Type"      : "2x2"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "ssblue3": {
+      "Texture"   : "rbxassetid://129005073229780",
+      "Type"      : "2x2"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "ssb1": {
+      "Texture"   : "rbxassetid://126545274077290",
+      "Type"      : "2x2"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "snowflake": {
+      "Texture"   : "rbxassetid://111463968547579",
+      "Type"      : "Static"                      ,
+      "Resolution": "360"                         ,
+      "Credits"   : "?"
+    },
+    "Curse_Energy__Maybe_00000": {
+      "Texture"   : "rbxassetid://140506941463921",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "12": {
+      "Texture"   : "rbxassetid://124779729086745",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "no": {
+      "Texture"   : "rbxassetid://139537068536932",
+      "Type"      : "4x4"                         ,
+      "Resolution": "4096"                        ,
+      "Credits"   : "?"
+    },
+    "mid": {
+      "Texture"   : "rbxassetid://124670957420319",
+      "Type"      : "4x4"                         ,
+      "Resolution": "4096"                        ,
+      "Credits"   : "?"
+    },
+    "Epic_White_Nosir": {
+      "Texture"   : "rbxassetid://139114369925128",
+      "Type"      : "4x4"                         ,
+      "Resolution": "4096"                        ,
+      "Credits"   : "?"
+    },
+    "Image1": {
+      "Texture"   : "rbxassetid://107208953701225",
+      "Type"      : "4x4"                         ,
+      "Resolution": "4096"                        ,
+      "Credits"   : "?"
+    },
+    "Sande": {
+      "Texture"   : "rbxassetid://76208133171645",
+      "Type"      : "8x8"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "11": {
+      "Texture"   : "rbxassetid://123194807277238",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "10": {
+      "Texture"   : "rbxassetid://127819988209717",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "9": {
+      "Texture"   : "rbxassetid://125641241789183",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "7": {
+      "Texture"   : "rbxassetid://77506113203554",
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Credits"   : "?"
+    },
+    "6": {
+      "Texture"   : "rbxassetid://83667033932759",
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Credits"   : "?"
+    },
+    "5": {
+      "Texture"   : "rbxassetid://75688846869594",
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Credits"   : "?"
+    },
+    "new1": {
+      "Texture"   : "rbxassetid://139748286814178",
+      "Type"      : "8x8"                         ,
+      "Resolution": "2048"                        ,
+      "Credits"   : "?"
+    },
+    "3": {
+      "Texture"   : "rbxassetid://74852054961139",
+      "Type"      : "8x8"                        ,
+      "Resolution": "2048"                       ,
+      "Credits"   : "?"
+    },
+    "2": {
+      "Texture"   : "rbxassetid://125627415267513",
+      "Type"      : "8x8"                         ,
+      "Resolution": "2048"                        ,
+      "Credits"   : "?"
+    },
+    "Comp_2": {
+      "Texture"   : "rbxassetid://135240981665802",
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "pt1_circ3": {
+      "Texture"   : "rbxassetid://96813665081707",
+      "Type"      : "Static"                     ,
+      "Resolution": "1630"                       ,
+      "Credits"   : "?"
+    },
+    "CameraOutlay": {
+      "Texture"   : "rbxassetid://115860892288579",
+      "Type"      : "Static"                      ,
+      "Resolution": "1920"                        ,
+      "Credits"   : "?"
+    },
+    "1": {
+      "Texture"   : "rbxassetid://84019705611024",
+      "Type"      : "8x8"                        ,
+      "Resolution": "2048"                       ,
+      "Credits"   : "?"
+    },
+    "hi": {
+      "Texture"   : "rbxassetid://128210052988784",
+      "Type"      : "8x8"                         ,
+      "Resolution": "2048"                        ,
+      "Credits"   : "?"
+    },
+    "god3": {
+      "Texture"   : "rbxassetid://99368290914413",
+      "Type"      : "2x2"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "god2": {
+      "Texture"   : "rbxassetid://92030563889675",
+      "Type"      : "2x2"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "SpikeyCircleAttack": {
+      "Texture"   : "rbxassetid://129291711717930",
+      "Type"      : "Static"                      ,
+      "Resolution": "4088"                        ,
+      "Credits"   : "?"
+    },
+    "Shard": {
+      "Texture"   : "rbxassetid://70678005122902",
+      "Type"      : "Static"                     ,
+      "Resolution": "3300"                       ,
+      "Credits"   : "?"
+    },
+    "8": {
+      "Texture"   : "rbxassetid://109705511764823",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "Wing": {
+      "Texture"   : "rbxassetid://134808738613775",
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "yee": {
+      "Texture"   : "rbxassetid://116213970344441",
+      "Type"      : "2x2"                         ,
+      "Resolution": "1024"                        ,
       "Credits"   : "?"
     }
   },
