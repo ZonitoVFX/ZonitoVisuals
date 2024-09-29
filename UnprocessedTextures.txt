@@ -1,4 +1,228 @@
 {
+  "Swirl": {
+    "Swirls1": {
+      "Texture"   : "rbxassetid://76837787912373",
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls2": {
+      "Texture"   : "rbxassetid://112534150791266",
+      "Type"      : "Static"                      ,
+      "Resolution": "604"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls3": {
+      "Texture"   : "rbxassetid://71471490981713",
+      "Type"      : "Static"                     ,
+      "Resolution": "604"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls4": {
+      "Texture"   : "rbxassetid://96804865965117",
+      "Type"      : "Static"                     ,
+      "Resolution": "604"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls5": {
+      "Texture"   : "rbxassetid://87312114105689",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Swirls6": {
+      "Texture"   : "rbxassetid://89486235528411",
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Swirls7": {
+      "Texture"   : "rbxassetid://110310905039842",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls8": {
+      "Texture"   : "rbxassetid://127505721201182",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls9": {
+      "Texture"   : "rbxassetid://136503215400480",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls10": {
+      "Texture"   : "rbxassetid://105389335615373",
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls11": {
+      "Texture"   : "rbxassetid://72531587777063",
+      "Type"      : "Static"                     ,
+      "Resolution": "420"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls12": {
+      "Texture"   : "rbxassetid://102501924203243",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls13": {
+      "Texture"   : "rbxassetid://134384899875611",
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls14": {
+      "Texture"   : "rbxassetid://138923760615400",
+      "Type"      : "2x2"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls15": {
+      "Texture"   : "rbxassetid://125315542080455",
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls16": {
+      "Texture"   : "rbxassetid://81909554389446",
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls17": {
+      "Texture"   : "rbxassetid://86747291022053",
+      "Type"      : "4x4"                        ,
+      "Resolution": "1024"                       ,
+      "Credits"   : "?"
+    },
+    "Swirls18": {
+      "Texture"   : "rbxassetid://109861185498326",
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls19": {
+      "Texture"   : "rbxassetid://131715289371065",
+      "Type"      : "Static"                      ,
+      "Resolution": "604"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls20": {
+      "Texture"   : "rbxassetid://122386861359557",
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls21": {
+      "Texture"   : "rbxassetid://121951082575709",
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls22": {
+      "Texture"   : "rbxassetid://130275026276053",
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls23": {
+      "Texture"   : "rbxassetid://71667687428593",
+      "Type"      : "Static"                     ,
+      "Resolution": "256"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls24": {
+      "Texture"   : "rbxassetid://113396696715156",
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls25": {
+      "Texture"   : "rbxassetid://132104215282447",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls26": {
+      "Texture"   : "rbxassetid://113851034993546",
+      "Type"      : "4x4"                         ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls27": {
+      "Texture"   : "rbxassetid://101795579020586",
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls28": {
+      "Texture"   : "rbxassetid://127784224445658",
+      "Type"      : "4x4"                         ,
+      "Resolution": "601"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls29": {
+      "Texture"   : "rbxassetid://135190266136069",
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls30": {
+      "Texture"   : "rbxassetid://76945224384237",
+      "Type"      : "Static"                     ,
+      "Resolution": "420"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls31": {
+      "Texture"   : "rbxassetid://131719429354175",
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls32": {
+      "Texture"   : "rbxassetid://126210087056584",
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls33": {
+      "Texture"   : "rbxassetid://137470528415577",
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls36": {
+      "Texture"   : "rbxassetid://74174863626781",
+      "Type"      : "Static"                     ,
+      "Resolution": "399 x 420"                  ,
+      "Credits"   : "?"
+    },
+    "Swirls37": {
+      "Texture"   : "rbxassetid://81599636911424",
+      "Type"      : "Static"                     ,
+      "Resolution": "420"                        ,
+      "Credits"   : "?"
+    },
+    "Swirls38": {
+      "Texture"   : "rbxassetid://137282478020057",
+      "Type"      : "Static"                      ,
+      "Resolution": "601"                         ,
+      "Credits"   : "?"
+    },
+    "Swirls39": {
+      "Texture"   : "rbxassetid://123255036338820",
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Credits"   : "?"
+    }
+  },
   "Wind": {
     "Wind1": {
       "Texture"   : "rbxassetid://76109550912270",
