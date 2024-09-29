@@ -1776,7 +1776,7 @@
       "Resolution": "4096"                       ,
       "Credits"   : "?"
     },
-    "Squares": {
+    "SquaresFlipbook": {
       "Texture"   : "rbxassetid://85934232161511",
       "Type"      : "4x4"                        ,
       "Resolution": "4096"                       ,
@@ -1890,19 +1890,19 @@
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
-    "12": {
+    "CursedEnergy": {
       "Texture"   : "rbxassetid://124779729086745",
       "Type"      : "4x4"                         ,
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
-    "no": {
+    "WhiteParticles": {
       "Texture"   : "rbxassetid://139537068536932",
       "Type"      : "4x4"                         ,
       "Resolution": "4096"                        ,
       "Credits"   : "?"
     },
-    "mid": {
+    "GrayParticles": {
       "Texture"   : "rbxassetid://124670957420319",
       "Type"      : "4x4"                         ,
       "Resolution": "4096"                        ,
@@ -1914,7 +1914,7 @@
       "Resolution": "4096"                        ,
       "Credits"   : "?"
     },
-    "Image1": {
+    "4x4B&Wflipbook": {
       "Texture"   : "rbxassetid://107208953701225",
       "Type"      : "4x4"                         ,
       "Resolution": "4096"                        ,
@@ -1926,67 +1926,67 @@
       "Resolution": "1024"                       ,
       "Credits"   : "?"
     },
-    "11": {
+    "CyberpunkTypeThingy": {
       "Texture"   : "rbxassetid://123194807277238",
       "Type"      : "Static"                      ,
       "Resolution": "512"                         ,
       "Credits"   : "?"
     },
-    "10": {
+    "AnotherCyberpunkThingy": {
       "Texture"   : "rbxassetid://127819988209717",
       "Type"      : "Static"                      ,
       "Resolution": "512"                         ,
       "Credits"   : "?"
     },
-    "9": {
+    "FuturisticCircle": {
       "Texture"   : "rbxassetid://125641241789183",
       "Type"      : "Static"                      ,
       "Resolution": "512"                         ,
       "Credits"   : "?"
     },
-    "7": {
+    "PlainCircle": {
       "Texture"   : "rbxassetid://77506113203554",
       "Type"      : "Static"                     ,
       "Resolution": "512"                        ,
       "Credits"   : "?"
     },
-    "6": {
+    "WhiteLine": {
       "Texture"   : "rbxassetid://83667033932759",
       "Type"      : "Static"                     ,
       "Resolution": "512"                        ,
       "Credits"   : "?"
     },
-    "5": {
+    "LoadingCircle": {
       "Texture"   : "rbxassetid://75688846869594",
       "Type"      : "Static"                     ,
       "Resolution": "512"                        ,
       "Credits"   : "?"
     },
-    "new1": {
+    "EightXEightBlack&WhiteFlipbook": {
       "Texture"   : "rbxassetid://139748286814178",
       "Type"      : "8x8"                         ,
       "Resolution": "2048"                        ,
       "Credits"   : "?"
     },
-    "3": {
-      "Texture"   : "rbxassetid://74852054961139",
-      "Type"      : "8x8"                        ,
-      "Resolution": "2048"                       ,
+    "ParticlesFlipbook": {
+      "Texture"   : "rbxassetid://116903401256996",
+      "Type"      : "8x8"                         ,
+      "Resolution": "2048"                        ,
       "Credits"   : "?"
     },
-    "2": {
+    "BlackAndWhiteParticlesFlipbook": {
       "Texture"   : "rbxassetid://125627415267513",
       "Type"      : "8x8"                         ,
       "Resolution": "2048"                        ,
       "Credits"   : "?"
     },
-    "Comp_2": {
+    "TransmutationCircle": {
       "Texture"   : "rbxassetid://135240981665802",
       "Type"      : "Static"                      ,
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
-    "pt1_circ3": {
+    "DiamondShaped": {
       "Texture"   : "rbxassetid://96813665081707",
       "Type"      : "Static"                     ,
       "Resolution": "1630"                       ,
@@ -1998,13 +1998,13 @@
       "Resolution": "1920"                        ,
       "Credits"   : "?"
     },
-    "1": {
+    "WhiteSukunaMarks": {
       "Texture"   : "rbxassetid://84019705611024",
       "Type"      : "8x8"                        ,
       "Resolution": "2048"                       ,
       "Credits"   : "?"
     },
-    "hi": {
+    "OvalFlipbook": {
       "Texture"   : "rbxassetid://128210052988784",
       "Type"      : "8x8"                         ,
       "Resolution": "2048"                        ,
@@ -2029,15 +2029,15 @@
       "Credits"   : "?"
     },
     "Shard": {
-      "Texture"   : "rbxassetid://70678005122902",
+      "Texture"   : "rbxassetid://92983879312424",
       "Type"      : "Static"                     ,
       "Resolution": "3300"                       ,
       "Credits"   : "?"
     },
-    "8": {
-      "Texture"   : "rbxassetid://109705511764823",
-      "Type"      : "Static"                      ,
-      "Resolution": "512"                         ,
+    "SwirlThingy": {
+      "Texture"   : "rbxassetid://82912790564034",
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
       "Credits"   : "?"
     },
     "Wing": {
@@ -2046,7 +2046,7 @@
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
-    "yee": {
+    "KiAura": {
       "Texture"   : "rbxassetid://116213970344441",
       "Type"      : "2x2"                         ,
       "Resolution": "1024"                        ,
