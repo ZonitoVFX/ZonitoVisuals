@@ -80,7 +80,7 @@
     },
     "Swirls14": {
       "Texture"   : "rbxassetid://138923760615400",
-      "Type"      : "2x2"                         ,
+      "Type"      : "8x8"                         ,
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
@@ -164,7 +164,7 @@
     },
     "Swirls28": {
       "Texture"   : "rbxassetid://127784224445658",
-      "Type"      : "4x4"                         ,
+      "Type"      : "Static"                         ,
       "Resolution": "601"                         ,
       "Credits"   : "?"
     },
@@ -201,7 +201,7 @@
     "Swirls36": {
       "Texture"   : "rbxassetid://74174863626781",
       "Type"      : "Static"                     ,
-      "Resolution": "399 x 420"                  ,
+      "Resolution": "399"                  ,
       "Credits"   : "?"
     },
     "Swirls37": {
@@ -4409,7 +4409,7 @@
     "Star6": {
       "Texture"   : "rbxassetid://17062447216",
       "Type"      : "8x8"                     ,
-      "Resolution": "512"                     ,
+      "Resolution": "1024"                     ,
       "Credits"   : "?"
     },
     "Star19": {
