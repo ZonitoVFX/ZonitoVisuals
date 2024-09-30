@@ -80,7 +80,7 @@
     },
     "Swirls14": {
       "Texture"   : "rbxassetid://138923760615400",
-      "Type"      : "2x2"                         ,
+      "Type"      : "8x8"                         ,
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
@@ -164,7 +164,7 @@
     },
     "Swirls28": {
       "Texture"   : "rbxassetid://127784224445658",
-      "Type"      : "4x4"                         ,
+      "Type"      : "Static"                         ,
       "Resolution": "601"                         ,
       "Credits"   : "?"
     },
