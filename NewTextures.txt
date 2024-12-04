@@ -484,7 +484,7 @@
     },
     "slashspace2": {
       "Texture"   : "rbxassetid://137489378032843",
-      "Type"      : "2x2"                         ,
+      "Type"      : "4x4"                         ,
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
@@ -502,7 +502,7 @@
     },
     "WhiteStars4x4": {
       "Texture"   : "rbxassetid://100913293288247",
-      "Type"      : "2x2"                         ,
+      "Type"      : "4x4"                         ,
       "Resolution": "4096"                        ,
       "Credits"   : "?"
     },
