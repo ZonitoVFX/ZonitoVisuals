@@ -2742,12 +2742,6 @@
       "Resolution": "1024"                        ,
       "Credits"   : "?"
     },
-    "GhostOther": {
-      "Texture"   : "rbxassetid://125283151882051",
-      "Type"      : "Static"                      ,
-      "Resolution": "900"                         ,
-      "Credits"   : "?"
-    },
     "GhostOther2": {
       "Texture"   : "rbxassetid://125566487608800",
       "Type"      : "2x2"                         ,
@@ -4128,7 +4122,7 @@
     },
     "Smoke777": {
       "Texture"   : "rbxassetid://95791849628501",
-      "Type"      : "Static"                     ,
+      "Type"      : "4x4"                     ,
       "Resolution": "512"                        ,
       "Credits"   : "?"
     },
