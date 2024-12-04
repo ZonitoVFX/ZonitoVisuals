@@ -7544,169 +7544,169 @@
     }
   },
   "Beams": {
-    "NewBeam1": {
+    "BeamNew1": {
       "Texture"   : "rbxassetid://124411921429725",
       "Type"      : "Static"                      ,
       "Resolution": "429"                         ,
       "Credits"   : "?"
     },
-    "NewBeam2": {
+    "BeamNew2": {
       "Texture"   : "rbxassetid://122320794951414",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam3": {
+    "BeamNew3": {
       "Texture"   : "rbxassetid://114801472716755",
       "Type"      : "Static"                      ,
       "Resolution": "512"                         ,
       "Credits"   : "?"
     },
-    "NewBeam4": {
+    "BeamNew4": {
       "Texture"   : "rbxassetid://116327992912684",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam5": {
+    "BeamNew5": {
       "Texture"   : "rbxassetid://115789305736770",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam6": {
+    "BeamNew6": {
       "Texture"   : "rbxassetid://128318729526779",
       "Type"      : "Static"                      ,
       "Resolution": "420"                         ,
       "Credits"   : "?"
     },
-    "NewBeam7": {
+    "BeamNew7": {
       "Texture"   : "rbxassetid://86053242044615",
       "Type"      : "Static"                     ,
       "Resolution": "512"                        ,
       "Credits"   : "?"
     },
-    "NewBeam8": {
+    "BeamNew8": {
       "Texture"   : "rbxassetid://80655387469782",
       "Type"      : "Static"                     ,
       "Resolution": "250x500"                    ,
       "Credits"   : "?"
     },
-    "NewBeam9": {
+    "BeamNew9": {
       "Texture"   : "rbxassetid://119590273574302",
       "Type"      : "Static"                      ,
       "Resolution": "256"                         ,
       "Credits"   : "?"
     },
-    "NewBeam10": {
+    "BeamNew10": {
       "Texture"   : "rbxassetid://123209614620605",
       "Type"      : "Static"                      ,
       "Resolution": "72x253"                      ,
       "Credits"   : "?"
     },
-    "NewBeam11": {
+    "BeamNew11": {
       "Texture"   : "rbxassetid://76798449828516",
       "Type"      : "Static"                     ,
       "Resolution": "256"                        ,
       "Credits"   : "?"
     },
-    "NewBeam12": {
+    "BeamNew12": {
       "Texture"   : "rbxassetid://119588180395545",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam13": {
+    "BeamNew13": {
       "Texture"   : "rbxassetid://104373810333920",
       "Type"      : "Static"                      ,
       "Resolution": "128x256"                     ,
       "Credits"   : "?"
     },
-    "NewBeam16": {
+    "BeamNew16": {
       "Texture"   : "rbxassetid://73412414750929",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
       "Credits"   : "?"
     },
-    "NewBeam17": {
+    "BeamNew17": {
       "Texture"   : "rbxassetid://72913160820888",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
       "Credits"   : "?"
     },
-    "NewBeam21": {
+    "BeamNew21": {
       "Texture"   : "rbxassetid://74182529874469",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
       "Credits"   : "?"
     },
-    "NewBeam27": {
+    "BeamNew27": {
       "Texture"   : "rbxassetid://96941693638745",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
       "Credits"   : "?"
     },
-    "NewBeam28": {
+    "BeamNew28": {
       "Texture"   : "rbxassetid://124705490306449",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam29": {
+    "BeamNew29": {
       "Texture"   : "rbxassetid://140270052807018",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam31": {
+    "BeamNew31": {
       "Texture"   : "rbxassetid://97439587549403",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
       "Credits"   : "?"
     },
-    "NewBeam33": {
+    "BeamNew33": {
       "Texture"   : "rbxassetid://74030335093492",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
       "Credits"   : "?"
     },
-    "NewBeam38": {
+    "BeamNew38": {
       "Texture"   : "rbxassetid://130226715316647",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam39": {
+    "BeamNew39": {
       "Texture"   : "rbxassetid://101306257408934",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam40": {
+    "BeamNew40": {
       "Texture"   : "rbxassetid://99738052437667",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
       "Credits"   : "?"
     },
-    "NewBeam41": {
+    "BeamNew41": {
       "Texture"   : "rbxassetid://101456967622056",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam44": {
+    "BeamNew44": {
       "Texture"   : "rbxassetid://125283151882051",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam45": {
+    "BeamNew45": {
       "Texture"   : "rbxassetid://116614201058459",
       "Type"      : "Static"                      ,
       "Resolution": "120x253"                     ,
       "Credits"   : "?"
     },
-    "NewBeam48": {
+    "BeamNew48": {
       "Texture"   : "rbxassetid://86656744660395",
       "Type"      : "Static"                     ,
       "Resolution": "120x253"                    ,
