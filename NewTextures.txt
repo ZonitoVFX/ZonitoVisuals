@@ -1698,6 +1698,12 @@
     }
   },
   "Ground": {
+    "Thin": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://87001521331112"
+    },
     "Ground1": {
       "Texture"   : "rbxassetid://88037682586646",
       "Type"      : "Static"                     ,
@@ -2664,6 +2670,240 @@
     }
   },
   "Other": {
+    "Abstract Diamond": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403128022"
+    },
+    "Gradient Symbol": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Texture"   : "rbxassetid://83016606478749"
+    },
+    "Hologram Box 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "895"                     ,
+      "Texture"   : "rbxassetid://17841074130"
+    },
+    "Spiked Cross": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362765929"
+    },
+    "Text 5": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://118072404253090"
+    },
+    "Moon Symbol 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403142404"
+    },
+    "Paint": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "586"                     ,
+      "Texture"   : "rbxassetid://12444054132"
+    },
+    "Text 3": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://95021516837022"
+    },
+    "Painted Symbol 1": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "768"                         ,
+      "Texture"   : "rbxassetid://126841848619080"
+    },
+    "Star Symbol": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://130807463044790"
+    },
+    "Box 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "358"                     ,
+      "Texture"   : "rbxassetid://17837655315"
+    },
+    "Four Sided Symbol": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "800"                     ,
+      "Texture"   : "rbxassetid://14198043798"
+    },
+    "Spiked Shield": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403165446"
+    },
+    "Eye Symbol 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403116585"
+    },
+    "Fire Symbol": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "1024"                  ,
+      "Texture"   : "rbxassetid://265788038"
+    },
+    "Eye Symbol 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1000"                    ,
+      "Texture"   : "rbxassetid://10225452993"
+    },
+    "Clock Hand 5": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://70556913153050"
+    },
+    "Text 2": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://103832117709724"
+    },
+    "Moon Symbol 5": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362764109"
+    },
+    "Symbol Painted": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "768"                        ,
+      "Texture"   : "rbxassetid://91448842457982"
+    },
+    "3D Clock": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://15518729175"
+    },
+    "Sun Moon Symbol": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403141153"
+    },
+    "Clock hand 7": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "500"                        ,
+      "Texture"   : "rbxassetid://89613831210143"
+    },
+    "Kanji 1": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://79129682296813"
+    },
+    "Dripping Moon": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403147523"
+    },
+    "Clock hand 4": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "403"                     ,
+      "Texture"   : "rbxassetid://18391409702"
+    },
+    "Clock hand 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "600"                     ,
+      "Texture"   : "rbxassetid://17243361926"
+    },
+    "Diamond Symbol": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403099647"
+    },
+    "Long Symbol": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403141690"
+    },
+    "UpsideDown Triangle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12389942584"
+    },
+    "Question Marks": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://81081149331665"
+    },
+    "Clock hand": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "600"                     ,
+      "Texture"   : "rbxassetid://17243401293"
+    },
+    "Clock hand 2": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://136462169893755"
+    },
+    "Hologram Box 2": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://125485962153426"
+    },
+    "Cross": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403072872"
+    },
+    "Painted Symbol 2": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "768"                        ,
+      "Texture"   : "rbxassetid://72172458554681"
+    },
+    "Hologram Box 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "576"                     ,
+      "Texture"   : "rbxassetid://17842467061"
+    },
+    "Flower 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403102126"
+    },
+    "Dark Symbol Square": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "593"                     ,
+      "Texture"   : "rbxassetid://18648347460"
+    },
     "1Other": {
       "Texture"   : "rbxassetid://83146942466399",
       "Type"      : "static"                     ,
@@ -4122,7 +4362,7 @@
     },
     "Smoke777": {
       "Texture"   : "rbxassetid://95791849628501",
-      "Type"      : "4x4"                     ,
+      "Type"      : "4x4"                        ,
       "Resolution": "512"                        ,
       "Credits"   : "?"
     },
@@ -6534,6 +6774,1194 @@
     }
   },
   "Circles": {
+    "Simple Focus": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362784177"
+    },
+    "Thin Symbol Circle 0": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "256"                     ,
+      "Texture"   : "rbxassetid://16618677089"
+    },
+    "Outline Gaps": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://111047838522006"
+    },
+    "Glowing Alchemy Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "564"                         ,
+      "Texture"   : "rbxassetid://104968379808371"
+    },
+    "Swirled Alchemy Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "540"                     ,
+      "Texture"   : "rbxassetid://14197254601"
+    },
+    "Low Quality Layered Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "245"                     ,
+      "Texture"   : "rbxassetid://18391527082"
+    },
+    "Eight Sided Jagged Focus": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://113974948433764"
+    },
+    "Sun": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://15044756997"
+    },
+    "Spaced Text Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "500"                         ,
+      "Texture"   : "rbxassetid://120896998850693"
+    },
+    "Pointed Sun": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "256"                   ,
+      "Texture"   : "rbxassetid://794950602"
+    },
+    "Ouroboros": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "600"                     ,
+      "Texture"   : "rbxassetid://11902373427"
+    },
+    "Pixel Circle 5": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "128"                     ,
+      "Texture"   : "rbxassetid://11902428695"
+    },
+    "Black Swirled Thin Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://11902212788"
+    },
+    "Glowing Triangle Layered Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://80959485106111"
+    },
+    "Fading Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362702029"
+    },
+    "Thin Descriptive Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://120180279691243"
+    },
+    "Simple Layered Outline": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://136756889473734"
+    },
+    "Black Layered Swirl": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "190"                     ,
+      "Texture"   : "rbxassetid://11902304637"
+    },
+    "Abstract Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "339"                     ,
+      "Texture"   : "rbxassetid://14197229649"
+    },
+    "Focus Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12389949860"
+    },
+    "Sketched Star Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://108359596251756"
+    },
+    "Triangle Cog Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403146281"
+    },
+    "Holographic Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://17826236534"
+    },
+    "Double Star Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "600"                     ,
+      "Texture"   : "rbxassetid://14197272066"
+    },
+    "Three Sided Dotted Target": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "658"                   ,
+      "Texture"   : "rbxassetid://224019254"
+    },
+    "Spectrum Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403143548"
+    },
+    "Thick Target": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "892"                         ,
+      "Texture"   : "rbxassetid://111724750239368"
+    },
+    "Magic Circle Symbol Glow": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12389946314"
+    },
+    "Triangle Hourglass Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://17426622391"
+    },
+    "Detailed Abstract Circle Filled": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://125462816766133"
+    },
+    "3D Holograph": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Texture"   : "rbxassetid://102222743448425"
+    },
+    "Three Sided Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12389949289"
+    },
+    "Star Circle 2": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://90657399709937"
+    },
+    "Text Circle Barrier": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://99168122269093"
+    },
+    "Thin Dotted Outline 3": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "516"                         ,
+      "Texture"   : "rbxassetid://119187610315484"
+    },
+    "Dull Pent": {
+      "Credits"   : "?"                      ,
+      "Type"      : "Static"                 ,
+      "Resolution": "512"                    ,
+      "Texture"   : "rbxassetid://7216854161"
+    },
+    "Symbol Circle 12": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "525"                        ,
+      "Texture"   : "rbxassetid://83949941285638"
+    },
+    "Wall Clock Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1020"                       ,
+      "Texture"   : "rbxassetid://90649252477858"
+    },
+    "Planet": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "200"                     ,
+      "Texture"   : "rbxassetid://17852245890"
+    },
+    "Jagged Crack Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://16446615384"
+    },
+    "Eye Circle 4": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "256"                        ,
+      "Texture"   : "rbxassetid://90642301292470"
+    },
+    "Filled Magic Circle 15": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "658"                     ,
+      "Texture"   : "rbxassetid://14197211075"
+    },
+    "3D Triangle Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://13280229340"
+    },
+    "Eye Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://14191659579"
+    },
+    "Clock Ring": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://99902889120231"
+    },
+    "Onesided Outline": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://107563407849922"
+    },
+    "Jagged Hollow Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12402928708"
+    },
+    "Square Cross Circle 13": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "289"                     ,
+      "Texture"   : "rbxassetid://18391493666"
+    },
+    "Hex Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "900"                         ,
+      "Texture"   : "rbxassetid://119764335151801"
+    },
+    "Clock Circle 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "900"                     ,
+      "Texture"   : "rbxassetid://14197297037"
+    },
+    "Line Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403138547"
+    },
+    "Symbol Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "420"                     ,
+      "Texture"   : "rbxassetid://15109315424"
+    },
+    "Four Pointed Alchemy": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://11902327902"
+    },
+    "Hollow Star Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Texture"   : "rbxassetid://135228436795648"
+    },
+    "Text Circle 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://16397769425"
+    },
+    "Seven Sided Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://17426619371"
+    },
+    "Splash Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "256"                     ,
+      "Texture"   : "rbxassetid://16878080262"
+    },
+    "Clock Circle 3": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "512"                        ,
+      "Texture"   : "rbxassetid://85593413197045"
+    },
+    "Text Circle Small": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://111589920618215"
+    },
+    "Two Sided Target": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362765032"
+    },
+    "Halftone Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "256"                         ,
+      "Texture"   : "rbxassetid://128868118139297"
+    },
+    "Focus Circle 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362780784"
+    },
+    "Black Layered Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "894"                     ,
+      "Texture"   : "rbxassetid://11902630396"
+    },
+    "Low Quality Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "174"                     ,
+      "Texture"   : "rbxassetid://14119772343"
+    },
+    "Black Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://11902281087"
+    },
+    "Basic Magic Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://16446611978"
+    },
+    "Simple Square Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://16924969332"
+    },
+    "Sketched Text Circle 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "776"                     ,
+      "Texture"   : "rbxassetid://14197322805"
+    },
+    "No Blur Magic Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "500"                        ,
+      "Texture"   : "rbxassetid://73396121023189"
+    },
+    "Prism Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://136488378522949"
+    },
+    "Jagged Swirled Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "360"                         ,
+      "Texture"   : "rbxassetid://111373150574454"
+    },
+    "Red Magic Circle": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "270"                   ,
+      "Texture"   : "rbxassetid://691179887"
+    },
+    "Cross Circle Spikey": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://15268071837"
+    },
+    "Dot Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "658"                     ,
+      "Texture"   : "rbxassetid://14197223901"
+    },
+    "Disconnected Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Texture"   : "rbxassetid://131954827538984"
+    },
+    "Glowing Alchemy Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "564"                     ,
+      "Texture"   : "rbxassetid://12402888837"
+    },
+    "Jagged Smokey Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://16878119374"
+    },
+    "Alchemy Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://11902406031"
+    },
+    "Snowflake Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362775289"
+    },
+    "Faded Clock Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://101423825010627"
+    },
+    "Swirled Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "190"                     ,
+      "Texture"   : "rbxassetid://14191644242"
+    },
+    "Dotted Line Circle 0": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362749008"
+    },
+    "Hollow Eye Circle 4": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403137010"
+    },
+    "Simple Jagged Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://92606481798283"
+    },
+    "Skull Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403115387"
+    },
+    "Moon Circle 9": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403133283"
+    },
+    "Circle105": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "894"                     ,
+      "Texture"   : "rbxassetid://14197207222"
+    },
+    "Dull Triangular Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "593"                     ,
+      "Texture"   : "rbxassetid://16511726823"
+    },
+    "Dotted Outside": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403125823"
+    },
+    "Low Res Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "174"                     ,
+      "Texture"   : "rbxassetid://14119772788"
+    },
+    "Black Star Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "300"                     ,
+      "Texture"   : "rbxassetid://11902285919"
+    },
+    "Black Triangle Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://114241902234463"
+    },
+    "Pixel Circle 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "128"                     ,
+      "Texture"   : "rbxassetid://11902439743"
+    },
+    "Infinity Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "892"                         ,
+      "Texture"   : "rbxassetid://135141028133816"
+    },
+    "Layered Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "900"                     ,
+      "Texture"   : "rbxassetid://14197309228"
+    },
+    "Sketched Diamond Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "499"                        ,
+      "Texture"   : "rbxassetid://94642151480448"
+    },
+    "3D Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://17837865472"
+    },
+    "Four Sided Simple Focus": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://140248623110087"
+    },
+    "Lion Circle 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "256"                     ,
+      "Texture"   : "rbxassetid://14197333869"
+    },
+    "Dull Simple Circle": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "540"                   ,
+      "Texture"   : "rbxassetid://564847326"
+    },
+    "Glowing Four Sided Circle 0": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "437"                     ,
+      "Texture"   : "rbxassetid://12402881551"
+    },
+    "3D Circle 2": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://76217104129357"
+    },
+    "Strange eye": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403146983"
+    },
+    "Smokey Element Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Texture"   : "rbxassetid://106866141379050"
+    },
+    "Squashed Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "782"                         ,
+      "Texture"   : "rbxassetid://112282882729962"
+    },
+    "Smooth Target": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362769346"
+    },
+    "Dotted Line Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403131901"
+    },
+    "Ankh Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "256"                     ,
+      "Texture"   : "rbxassetid://16511732405"
+    },
+    "Overglow Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://16511918707"
+    },
+    "Thin Diamond Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://18921751176"
+    },
+    "Hollow Flare Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12363693596"
+    },
+    "Spiked Circle 3": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://106532762843715"
+    },
+    "Empty Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "500"                         ,
+      "Texture"   : "rbxassetid://131702476953975"
+    },
+    "Cross Target": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12402871480"
+    },
+    "Thin Bulky Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "525"                         ,
+      "Texture"   : "rbxassetid://123621823431078"
+    },
+    "Magic Symbol 4": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://13280240913"
+    },
+    "Black Pointed Ring": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403135098"
+    },
+    "Faded Pointed Diamond Circle 13": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "483"                         ,
+      "Texture"   : "rbxassetid://131289392854639"
+    },
+    "Sketched Glowing Star": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://95829570716137"
+    },
+    "Double Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://128389339609442"
+    },
+    "Text Circle 14": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://139136564191390"
+    },
+    "Swirled Jagged Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12547629571"
+    },
+    "Pointed Triangle Sun": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://16494986663"
+    },
+    "Sketched Painted Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "360"                         ,
+      "Texture"   : "rbxassetid://110616238659613"
+    },
+    "Pixel Circle 14": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12402869217"
+    },
+    "Cross Circle 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403140363"
+    },
+    "Simple Thick Star Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403133859"
+    },
+    "Diamond Shape Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://90153176003587"
+    },
+    "Clock Overlay": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://130325127087986"
+    },
+    "Cross": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "256"                        ,
+      "Texture"   : "rbxassetid://75733984111735"
+    },
+    "Focus Circle 9": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://100887971756500"
+    },
+    "Faded Detailed Magic Circle 03": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "860"                        ,
+      "Texture"   : "rbxassetid://81400439625843"
+    },
+    "Clock Circle 6": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://100505870999306"
+    },
+    "Glowing Detailed Pointed Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://14197243565"
+    },
+    "Asmoday": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "347"                     ,
+      "Texture"   : "rbxassetid://14191651608"
+    },
+    "Sketched Semicircle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://14197216945"
+    },
+    "Magic Circle12 noring": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://118558273816607"
+    },
+    "Spawnpoint": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "256"                     ,
+      "Texture"   : "rbxassetid://17426572844"
+    },
+    "Faded Filled Magic Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "347"                     ,
+      "Texture"   : "rbxassetid://11902401640"
+    },
+    "Target Circle 0": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362766880"
+    },
+    "Acidic Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362774632"
+    },
+    "Thin Layered Circle 0": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Texture"   : "rbxassetid://102367309102388"
+    },
+    "Hollow Simple Star Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362720771"
+    },
+    "Glowing Circlular Star": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "564"                     ,
+      "Texture"   : "rbxassetid://12402883115"
+    },
+    "Pointed Circle 2": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "872"                         ,
+      "Texture"   : "rbxassetid://102790439571584"
+    },
+    "Black Star Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "347"                     ,
+      "Texture"   : "rbxassetid://11902398938"
+    },
+    "Glowing Fang Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "564"                     ,
+      "Texture"   : "rbxassetid://12402882116"
+    },
+    "Faded Detailed Star Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12389950520"
+    },
+    "Black Eye Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://11902581685"
+    },
+    "Black semicircle": {
+      "Credits"   : "?"                      ,
+      "Type"      : "Static"                 ,
+      "Resolution": "1024"                   ,
+      "Texture"   : "rbxassetid://2384354542"
+    },
+    "Square Middle Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "347"                     ,
+      "Texture"   : "rbxassetid://11902410656"
+    },
+    "Eye Star": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403135724"
+    },
+    "Spaced Out Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://73592354394571"
+    },
+    "Pointed Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Texture"   : "rbxassetid://138194271979463"
+    },
+    "Filled Star Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403114323"
+    },
+    "Stretched Star Circle": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "658"                   ,
+      "Texture"   : "rbxassetid://223123319"
+    },
+    "Ouroboros 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "600"                     ,
+      "Texture"   : "rbxassetid://14197348275"
+    },
+    "Squashed Magic Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362783431"
+    },
+    "Dull Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Texture"   : "rbxassetid://111070876307110"
+    },
+    "Three Sided Target": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://17426553699"
+    },
+    "Four Sided Target": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362776008"
+    },
+    "Thin Basic Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403130595"
+    },
+    "Glowing Symbol Outline": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://14221329252"
+    },
+    "Text Circle 0": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "633"                         ,
+      "Texture"   : "rbxassetid://100396643636322"
+    },
+    "Smooth Inside Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "500"                         ,
+      "Texture"   : "rbxassetid://110974154905533"
+    },
+    "Water Circle 15": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://111623010592158"
+    },
+    "Dotted Square Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362745817"
+    },
+    "Glitched Clock": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "420"                         ,
+      "Texture"   : "rbxassetid://129880122276615"
+    },
+    "Hexagon Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "564"                     ,
+      "Texture"   : "rbxassetid://12402885547"
+    },
+    "Sun Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "350"                     ,
+      "Texture"   : "rbxassetid://12402884790"
+    },
+    "Hexagon": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://17426615364"
+    },
+    "Detailed Thin Circle Square": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "500"                        ,
+      "Texture"   : "rbxassetid://78300633972663"
+    },
+    "Swirled Four Point": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12403155274"
+    },
+    "Glowing Star Circle 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "256"                     ,
+      "Texture"   : "rbxassetid://14197282370"
+    },
+    "Clock Corner": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "420"                        ,
+      "Texture"   : "rbxassetid://90964239058388"
+    },
+    "Plant Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12402911865"
+    },
+    "Diamond Circle Eye": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "339"                     ,
+      "Texture"   : "rbxassetid://11902545845"
+    },
+    "Smooth Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "640"                        ,
+      "Texture"   : "rbxassetid://82634208863762"
+    },
+    "Text Circle 7": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://136674083788994"
+    },
+    "Black Jagged Swirl Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://11902557897"
+    },
+    "Filled Text Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "500"                     ,
+      "Texture"   : "rbxassetid://18746917664"
+    },
+    "Astaroth": {
+      "Credits"   : "?"                      ,
+      "Type"      : "Static"                 ,
+      "Resolution": "512"                    ,
+      "Texture"   : "rbxassetid://7216854028"
+    },
+    "Two Layers Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12364075145"
+    },
+    "Smokey Glowing Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Texture"   : "rbxassetid://100708312805540"
+    },
+    "Star Circle 1": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "498"                        ,
+      "Texture"   : "rbxassetid://81591229555708"
+    },
+    "Leaf Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://12402912430"
+    },
+    "Alarm": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "512"                         ,
+      "Texture"   : "rbxassetid://123314899160423"
+    },
+    "Thin Star Outline": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": 601,
+      "Texture": "rbxassetid://11902268345"
+    },
+    "Blurred Text Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://17630394991"
+    },
+    "Bright Magic Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "270"                     ,
+      "Texture"   : "rbxassetid://14197236586"
+    },
+    "Descriptive Circle": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "300"                     ,
+      "Texture"   : "rbxassetid://14191668646"
+    },
+    "Spiked Sketched Circle": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "470"                        ,
+      "Texture"   : "rbxassetid://76475262724303"
+    },
+    "Glass Circle": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://121665727484427"
+    },
+    "Overlay Circle Infinity": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "892"                         ,
+      "Texture"   : "rbxassetid://136999003015785"
+    },
+    "Dull Circle 4": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "540"                     ,
+      "Texture"   : "rbxassetid://14197257578"
+    },
+    "Black Alchemy Circle": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "900"                   ,
+      "Texture"   : "rbxassetid://511898588"
+    },
+    "Long Line Outline": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "512"                     ,
+      "Texture"   : "rbxassetid://12362738407"
+    },
+    "Pixel Circle 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "128"                     ,
+      "Texture"   : "rbxassetid://11902442693"
+    },
     "WavyCirclesFlipBook": {
       "Texture"   : "rbxassetid://83627180154255",
       "Type"      : "4x4"                        ,
