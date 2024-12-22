@@ -2012,6 +2012,24 @@
     }
   },
   "Flares": {
+    "Glow": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13189667061"
+    },
+    "Blurred Flare": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://105427977618886"
+    },
+    "Arc": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://72766370524616"
+    },
     "Flare1New": {
       "Texture": "rbxassetid://934589012102431",
       "Type": "Static",
@@ -4174,6 +4192,12 @@
     }
   },
   "Specs": {
+    "Coloured Spec": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "128",
+      "Texture": "rbxassetid://82555475355022"
+    },
     "Spec19": {
       "Texture": "rbxassetid://16879789169",
       "Type": "Static",
@@ -6398,6 +6422,174 @@
     }
   },
   "Stars": {
+    "Tall Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15796221784"
+    },
+    "Pixel Star 3": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://8733414465"
+    },
+    "Growing Star 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14454506302"
+    },
+    "Small Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17000879366"
+    },
+    "Regular Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://137439303725875"
+    },
+    "Swirling Star": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://139959661465737"
+    },
+    "Stylized Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17517651294"
+    },
+    "Space Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://79705556595545"
+    },
+    "Smudged Star": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://89272816038619"
+    },
+    "Glitching Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://92552711821642"
+    },
+    "Shifting Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15652409265"
+    },
+    "Wide Star": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "512",
+      "Texture": "rbxassetid://94431438472232"
+    },
+    "Pixel Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13448020277"
+    },
+    "Drawn Star": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14052685115"
+    },
+    "Chromatic Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14454141205"
+    },
+    "Thick Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://116403982640393"
+    },
+    "Circle Star 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12156297119"
+    },
+    "Circular Star": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "512",
+      "Texture": "rbxassetid://124514297394536"
+    },
+    "Coloured Star": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12224333321"
+    },
+    "Blurred Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17387207972"
+    },
+    "Precise Star": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://104287260780961"
+    },
+    "Effect Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15783804541"
+    },
+    "Pixel Star 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15268170416"
+    },
+    "Dull Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://117665795699820"
+    },
+    "Pointy Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12452578181"
+    },
+    "Short Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://125196793561851"
+    },
+    "Fading Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://117847360319396"
+    },
+    "Pulsing Star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16940423887"
+    },
     "Star9": {
       "Texture": "rbxassetid://17062451848",
       "Type": "Static",
