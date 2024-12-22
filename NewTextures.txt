@@ -2670,6 +2670,66 @@
     }
   },
   "Other": {
+    "Moon 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "800"                     ,
+      "Texture"   : "rbxassetid://16995596040"
+    },
+    "Money Symbol": {
+      "Credits"   : "?"                     ,
+      "Type"      : "Static"                ,
+      "Resolution": "420"                   ,
+      "Texture"   : "rbxassetid://256038800"
+    },
+    "Moon 1": {
+      "Credits"   : "?"                      ,
+      "Type"      : "Static"                 ,
+      "Resolution": "500"                    ,
+      "Texture"   : "rbxassetid://4513115659"
+    },
+    "Wing 3": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://13326678344"
+    },
+    "Wing 2": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://16509992918"
+    },
+    "Computer Text 2": {
+      "Credits"   : "?"                          ,
+      "Type"      : "Static"                     ,
+      "Resolution": "1024"                       ,
+      "Texture"   : "rbxassetid://74091612379656"
+    },
+    "Wing 1": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "420"                     ,
+      "Texture"   : "rbxassetid://13267054240"
+    },
+    "Smiley Face": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "420"                     ,
+      "Texture"   : "rbxassetid://16510074656"
+    },
+    "Computer Text": {
+      "Credits"   : "?"                           ,
+      "Type"      : "Static"                      ,
+      "Resolution": "1024"                        ,
+      "Texture"   : "rbxassetid://128697005192835"
+    },
+    "Virtual Overlay": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "1024"                    ,
+      "Texture"   : "rbxassetid://17842357017"
+    },
     "Abstract Diamond": {
       "Credits"   : "?"                       ,
       "Type"      : "Static"                  ,
@@ -8966,6 +9026,24 @@
     }
   },
   "Beams": {
+    "BeamSideways Trail": {
+      "Credits"   : "?"                      ,
+      "Type"      : "Static"                 ,
+      "Resolution": "500"                    ,
+      "Texture"   : "rbxassetid://6671348341"
+    },
+    "BeamScratchy Trail": {
+      "Credits"   : "?"                       ,
+      "Type"      : "Static"                  ,
+      "Resolution": "232"                     ,
+      "Texture"   : "rbxassetid://13991337233"
+    },
+    "BeamSideways Trail 2": {
+      "Credits"   : "?"                      ,
+      "Type"      : "Static"                 ,
+      "Resolution": "420"                    ,
+      "Texture"   : "rbxassetid://6203493685"
+    },
     "BeamNew1": {
       "Texture"   : "rbxassetid://124411921429725",
       "Type"      : "Static"                      ,
