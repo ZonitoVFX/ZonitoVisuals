@@ -550,6 +550,246 @@
     }
   },
   "Text": {
+    "ThreeClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://17401271931"
+    },
+    "Four": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622914823"
+    },
+    "Back": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18921681533"
+    },
+    "Help": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333554830"
+    },
+    "One3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622910157"
+    },
+    "Three": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622913348"
+    },
+    "TwoClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://17401270878"
+    },
+    "Zero": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622908605"
+    },
+    "Two2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622911838"
+    },
+    "NineClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://18511876754"
+    },
+    "Nobody": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "600",
+      "Texture": "rbxassetid://16510170322"
+    },
+    "Error": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18981921256"
+    },
+    "Dmg": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://16924450474"
+    },
+    "Stay": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333562947"
+    },
+    "Destiny": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "600",
+      "Texture": "rbxassetid://16510180240"
+    },
+    "Nine": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622922991"
+    },
+    "SixClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://17401277349"
+    },
+    "Exclamation": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "300",
+      "Texture": "rbxassetid://17426600101"
+    },
+    "FiveClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://18511652417"
+    },
+    "ZeroClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://18524749520"
+    },
+    "Here": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333556718"
+    },
+    "SevenClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://17401278494"
+    },
+    "One": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13318061510"
+    },
+    "There": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333569095"
+    },
+    "Dont": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18921681721"
+    },
+    "OneClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://17401265236"
+    },
+    "EightClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://17401279565"
+    },
+    "Worry": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333561085"
+    },
+    "Fears": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "600",
+      "Texture": "rbxassetid://16510173329"
+    },
+    "Seven": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622920397"
+    },
+    "That": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333557885"
+    },
+    "Wake": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333573704"
+    },
+    "Six": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622918721"
+    },
+    "X": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "300",
+      "Texture": "rbxassetid://17426601269"
+    },
+    "Now": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333565511"
+    },
+    "From": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333567502"
+    },
+    "Eight": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622921572"
+    },
+    "Take": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://18333559507"
+    },
+    "Five": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12622916288"
+    },
+    "FourClock": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "781",
+      "Texture": "rbxassetid://17401276267"
+    },
     "dingbats-496 - Copy": {
       "Texture": "rbxassetid://126523097298283",
       "Type": "Static",
