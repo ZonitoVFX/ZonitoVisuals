@@ -1462,6 +1462,12 @@
     }
   },
   "Grid": {
+    "Grid Pattern": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://17713866288"
+    },
     "Faded Design": {
       "Credits": "?",
       "Type": "Static",
@@ -2760,6 +2766,144 @@
     }
   },
   "Other": {
+    "Strange Flower": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16511415159"
+    },
+    "Loading Circle": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "600",
+      "Texture": "rbxassetid://6430084331"
+    },
+    "Magic Circle": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10547506060"
+    },
+    "Eye Drawing": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://133046681582945"
+    },
+    "Z Fading": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17635358235"
+    },
+    "KO Animation": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762151233"
+    },
+    "Bread": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14004727601"
+    },
+    "Arc Shrinking": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18102807707"
+    },
+    "Emoji": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "512",
+      "Texture": "rbxassetid://121604844293818"
+    },
+    "Hex Shield": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://98807301396500"
+    },
+    "Dragon": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://121821632609494"
+    },
+    "Drawn Wing": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://100753447239359"
+    },
+    "Crown": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15229101950"
+    },
+    "Realistic Portal": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197058775"
+    },
+    "Loading Arc": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18102805523"
+    },
+    "GO Animation": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762165826"
+    },
+    "Noisy Text": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14990829312"
+    },
+    "Loading Bar 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://122073922365921"
+    },
+    "Loading Bar": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://119159832478793"
+    },
+    "Coloured Portal": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762069832"
+    },
+    "Target Symbols": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16504172101"
+    },
+    "Aura Growing": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197063144"
+    },
+    "Wing Animation 2": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://84434739678137"
+    },
     "Moon 2": {
       "Credits": "?",
       "Type": "Static",
@@ -6924,6 +7068,18 @@
     }
   },
   "Circles": {
+    "Tech Circle": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "615",
+      "Texture": "rbxassetid://140276501876592"
+    },
+    "Animation": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16511904372"
+    },
     "Magma": {
       "Credits": "?",
       "Type": "Static",
