@@ -6924,6 +6924,18 @@
     }
   },
   "Circles": {
+    "Magma": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "370",
+      "Texture": "rbxassetid://7207952712"
+    },
+    "Chromatic": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "900",
+      "Texture": "rbxassetid://14221278722"
+    },
     "Simple Focus": {
       "Credits": "?",
       "Type": "Static",
