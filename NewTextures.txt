@@ -4432,6 +4432,186 @@
     }
   },
   "Specs": {
+    "Regular Blur": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://12189101933"
+    },
+    "Dull Circle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://11724444882"
+    },
+    "Medium Dot 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8944132974"
+    },
+    "Triangle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://8952321410"
+    },
+    "Blurred Square 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://8952410722"
+    },
+    "Bubble": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://1084987256"
+    },
+    "Medium Dot Noisy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://11037546319"
+    },
+    "Blurred Triangle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://8952323069"
+    },
+    "Bubble 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "227",
+      "Texture": "rbxassetid://9541054556"
+    },
+    "Hollow Circle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "593",
+      "Texture": "rbxassetid://18921716806"
+    },
+    "Triangle 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://10335420522"
+    },
+    "Star": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8944378436"
+    },
+    "Square Big": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://8952292685"
+    },
+    "Filled Hexagon": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://8952274388"
+    },
+    "Heart": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8944375071"
+    },
+    "Noisy Spec": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11037544815"
+    },
+    "Big Dot 12": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11037544121"
+    },
+    "Big Dot 4": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://11724440407"
+    },
+    "Big Dot 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11037545775"
+    },
+    "Hexagon": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://8952270157"
+    },
+    "Big Dot 14": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://1084962479"
+    },
+    "Hollow Square": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "600",
+      "Texture": "rbxassetid://9533204713"
+    },
+    "Big Dot 5": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://11037546803"
+    },
+    "Medium Dot 1": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11037545255"
+    },
+    "Small Dot 1": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9533204568"
+    },
+    "Medium Dot 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11037543126"
+    },
+    "Medium Dot 6": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11037541614"
+    },
+    "Big Dot 1": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://8952318629"
+    },
+    "Big Dot 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://8952312592"
+    },
+    "Medium Dot 4": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11724119559"
+    },
     "Line Spec 1": {
       "Credits": "?",
       "Type": "Static",
@@ -7698,6 +7878,12 @@
     }
   },
   "Circles": {
+    "Sun Realistic": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11037288610"
+    },
     "Tech Circle": {
       "Credits": "?",
       "Type": "2x2",
