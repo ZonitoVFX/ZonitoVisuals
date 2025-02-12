@@ -1708,6 +1708,18 @@
       "Resolution": "512",
       "Texture": "rbxassetid://17713866288"
     },
+    "Abstract Square": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "336",
+      "Texture": "rbxassetid://18614257863"
+    },
+    "Faded Square": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "223",
+      "Texture": "rbxassetid://18618625614"
+    },
     "Faded Design": {
       "Credits": "?",
       "Type": "Static",
@@ -3029,6 +3041,534 @@
       "Type": "8x8",
       "Resolution": "1024",
       "Texture": "rbxassetid://16511415159"
+    },
+    "Detailed Artwork": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12369043537"
+    },
+    "Hourglass Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364208788"
+    },
+    "Spike Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364322692"
+    },
+    "Fading Box": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "211",
+      "Texture": "rbxassetid://18731751375"
+    },
+    "Abstract Moon": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364770457"
+    },
+    "Eye Triangle Circle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364200989"
+    },
+    "Weird Shape": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364304932"
+    },
+    "Club": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364743787"
+    },
+    "Wing Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364349766"
+    },
+    "Half Filled Heart": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364747646"
+    },
+    "Heart Wings": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364341401"
+    },
+    "Swirled Spike": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364344134"
+    },
+    "Mirrored Artwork": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364795198"
+    },
+    "Horn Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364307280"
+    },
+    "Focus Inward": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8214519369"
+    },
+    "Fancy Design": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364314257"
+    },
+    "Abstract Heart": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364794526"
+    },
+    "Abstract Artwork 5": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364800805"
+    },
+    "Strange Diamond": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364281874"
+    },
+    "Diamond Artwork": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364203049"
+    },
+    "Three Piece Triangle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://11037285276"
+    },
+    "Feather Sigil 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364753261"
+    },
+    "Spiral Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364342622"
+    },
+    "Crown 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364697401"
+    },
+    "Fancy Eight": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364323338"
+    },
+    "Detailed Spect": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364793026"
+    },
+    "Anchor": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "357",
+      "Texture": "rbxassetid://18828480564"
+    },
+    "Sword Stand": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364306509"
+    },
+    "Pointed Triangles": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8214517928"
+    },
+    "Flower Sigil 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364755275"
+    },
+    "Crown Spikey": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364283256"
+    },
+    "Pitchfork": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364280265"
+    },
+    "Spiral": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364282549"
+    },
+    "Four Sided Leaf Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364751810"
+    },
+    "Abstract Artwork 4": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364793847"
+    },
+    "Slanted Hourglass": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364325233"
+    },
+    "Four Sided Spike Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364343309"
+    },
+    "Star Inner Circles": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364203743"
+    },
+    "Flower Tower": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364761178"
+    },
+    "Stylized Wings": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364294641"
+    },
+    "Crown 1": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364695083"
+    },
+    "Wiggly Line": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364351981"
+    },
+    "Needle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364340657"
+    },
+    "Stylized Bolt": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364315513"
+    },
+    "Box Corners": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "64",
+      "Texture": "rbxassetid://11037285611"
+    },
+    "Layered Swirl": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364295937"
+    },
+    "Mirrored Artwork 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364796219"
+    },
+    "Detailed Abstract Flower": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364297252"
+    },
+    "Half Filled Diamond": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364263768"
+    },
+    "Three Windows": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364760530"
+    },
+    "Glowing Lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "222",
+      "Texture": "rbxassetid://18612733944"
+    },
+    "Flower Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364715336"
+    },
+    "Window": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8944413317"
+    },
+    "Arrow Star": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364210424"
+    },
+    "Triangle Sigil Grouped": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364256168"
+    },
+    "Blurry Flower": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364350533"
+    },
+    "Abstract Wings": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364190973"
+    },
+    "Crown 5": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364296655"
+    },
+    "Crown 4": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364698149"
+    },
+    "Abstract Filled Heart": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364193011"
+    },
+    "Blade Stylized": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364333691"
+    },
+    "Mirrored Image": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12369039090"
+    },
+    "S Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364341958"
+    },
+    "Crown 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364696561"
+    },
+    "Shield Bug": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364303424"
+    },
+    "S Dragon": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364264472"
+    },
+    "Shuriken": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364332259"
+    },
+    "Crownpiece": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364334782"
+    },
+    "Abstract Flower": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12369033027"
+    },
+    "Shield Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364324369"
+    },
+    "Fork Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364305676"
+    },
+    "Six Sided Focus": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8214518341"
+    },
+    "Clover Shield": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364705002"
+    },
+    "Thick Prism": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364771116"
+    },
+    "Eye Sigil Star": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364219400"
+    },
+    "Intertwined": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8214518056"
+    },
+    "Swan Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364297769"
+    },
+    "Eye Crown": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364244276"
+    },
+    "Penta Star": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364202444"
+    },
+    "Ace": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364747107"
+    },
+    "Glowing Cube": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "220",
+      "Texture": "rbxassetid://11037285896"
+    },
+    "Abstract Artwork 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12369040847"
+    },
+    "Eyecube": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364193809"
+    },
+    "Mirrored Flower": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12369032226"
+    },
+    "Abstract Artwork 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12369042782"
+    },
+    "Moon Circle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364271656"
+    },
+    "Abstract Shape": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364768351"
+    },
+    "Feather Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364752430"
     },
     "Loading Circle": {
       "Credits": "?",
@@ -7883,6 +8423,48 @@
       "Type": "Static",
       "Resolution": "512",
       "Texture": "rbxassetid://11037288610"
+    },
+    "Rounded Focus": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14396673907"
+    },
+    "Octagon Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "249",
+      "Texture": "rbxassetid://18731737602"
+    },
+    "Prism": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364226061"
+    },
+    "Circle Star 33": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364217419"
+    },
+    "Target Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://8214518976"
+    },
+    "Triangle Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364191712"
+    },
+    "Leaf Sigil": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12364218241"
     },
     "Tech Circle": {
       "Credits": "?",
