@@ -10921,7 +10921,7 @@
       "Credits": "?",
       "Type": "4x4",
       "Resolution": "1024",
-      "Texture": "rbxassetid://14727016281"
+      "Texture": "rbxassetid://14560297845"
     },
     "Realistic Glowing Flame": {
       "Credits": "?",
