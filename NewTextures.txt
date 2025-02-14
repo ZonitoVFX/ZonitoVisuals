@@ -10903,7 +10903,7 @@
       "Credits": "?",
       "Type": "4x4",
       "Resolution": "1024",
-      "Texture": "rbxassetid://132125856027392"
+      "Texture": "rbxassetid://18456244650"
     },
     "Low Fire": {
       "Credits": "?",
@@ -10987,7 +10987,7 @@
       "Credits": "?",
       "Type": "2x2",
       "Resolution": "1024",
-      "Texture": "rbxassetid://12800314611"
+      "Texture": "rbxassetid://14475651883"
     },
     "Coloured Fire Glow": {
       "Credits": "?",
@@ -11011,7 +11011,7 @@
       "Credits": "?",
       "Type": "4x4",
       "Resolution": "1024",
-      "Texture": "rbxassetid://16504113471"
+      "Texture": "rbxassetid://15398180787"
     },
     "Flame Burst": {
       "Credits": "?",
