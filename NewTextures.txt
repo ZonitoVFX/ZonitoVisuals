@@ -6396,12 +6396,6 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://9293679454"
     },
-    "Constellation": {
-      "Credits": "?",
-      "Type": "4x4",
-      "Resolution": "1024",
-      "Texture": "rbxassetid://13803331652"
-    },
     "Heart Burst": {
       "Credits": "?",
       "Type": "4x4",
@@ -7754,7 +7748,7 @@
     },
     "1Other": {
       "Texture": "rbxassetid://83146942466399",
-      "Type": "static",
+      "Type": "Static",
       "Resolution": "256",
       "Credits": "?"
     },
@@ -7766,7 +7760,7 @@
     },
     "4Other": {
       "Texture": "rbxassetid://130406000210034",
-      "Type": "static",
+      "Type": "Static",
       "Resolution": "256",
       "Credits": "?"
     },
@@ -11896,7 +11890,7 @@
     "Realism Bubble": {
       "Credits": "?",
       "Type": "4x4",
-      "Resolution": "1024",
+      "Resolution": "512",
       "Texture": "rbxassetid://136362935142359"
     },
     "Realistic 3D Blobs": {
