@@ -1314,6 +1314,60 @@
       "Resolution": "512",
       "Credits": "?"
     },
+    "Swirling InOut": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://111209754502342"
+    },
+    "Colour removed swirl": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13765047699"
+    },
+    "Swirling overlay": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15810716118"
+    },
+    "Thin swirl 3": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://136104048569538"
+    },
+    "Blackhole swirl": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://73047393905693"
+    },
+    "Growing swirl explosion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16047576636"
+    },
+    "Charging swirl 2": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197070443"
+    },
+    "Whole swirl": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17612139917"
+    },
+    "Overlayed swirl": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15755035567"
+    },
     "Swirl Again": {
       "Credits": "?",
       "Type": "4x4",
@@ -2249,6 +2303,48 @@
       "Type": "Static",
       "Resolution": "1024",
       "Texture": "rbxassetid://87001521331112"
+    },
+    "Unfinished fade": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13452273491"
+    },
+    "Dark Ground Crack": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13784241004"
+    },
+    "Outlined crack 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13791531657"
+    },
+    "Fading dark ground crack": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13782885260"
+    },
+    "Evaporating Crack": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13452217224"
+    },
+    "Basic crack": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16456027820"
+    },
+    "Finished fade": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13781849388"
     },
     "Ground1": {
       "Texture": "rbxassetid://88037682586646",
@@ -3245,6 +3341,420 @@
       "Type": "8x8",
       "Resolution": "1024",
       "Texture": "rbxassetid://16511415159"
+    },
+    "Something": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12517923720"
+    },
+    "Almost transparent": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://90520792878218"
+    },
+    "Web Shockwave 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13795445083"
+    },
+    "Specs Swirl": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://124284659328694"
+    },
+    "Wiggling fading energy halo": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13712002536"
+    },
+    "Charging Particles": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762641231"
+    },
+    "Coloured Diagonal Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13724252630"
+    },
+    "Small realistic energy burst": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16509892607"
+    },
+    "Weird Curving Line": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16511635074"
+    },
+    "Changed Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16940439225"
+    },
+    "Faded Tower": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://83727995611577"
+    },
+    "Expanding darkness": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12994153008"
+    },
+    "Chromatic Water shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://113638059819125"
+    },
+    "Liquid Heart": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "420",
+      "Texture": "rbxassetid://12800149611"
+    },
+    "Windy Expanding Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13793551259"
+    },
+    "Realistic Explosion gif": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15194500627"
+    },
+    "Thin realistic shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12906276200"
+    },
+    "Flipbook Energy Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12844593455"
+    },
+    "Chromatic Mirrored Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13580371343"
+    },
+    "Weird static blob": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "512",
+      "Texture": "rbxassetid://16510890569"
+    },
+    "Fractured Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15433074325"
+    },
+    "Noisy Star Shaped Explosion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15708701217"
+    },
+    "Fading Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://127341143600263"
+    },
+    "Nuclear Blast 2": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762381639"
+    },
+    "Mirrored Painted Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://89925372009251"
+    },
+    "Expanding Square": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13856026435"
+    },
+    "Glow Grey": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18227093452"
+    },
+    "No LE Energy AOE": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13580367777"
+    },
+    "Shining Greyscaled Ripple": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://106176780591471"
+    },
+    "Galaxy Burst": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14953093603"
+    },
+    "Realistic Energy AOE LE": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11895782540"
+    },
+    "Medium Realism LE": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11749129449"
+    },
+    "Upward Blob Rise": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13794844031"
+    },
+    "Glowing Black Energy": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17511030724"
+    },
+    "Fractal": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13992197350"
+    },
+    "Off centered explosion 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "593",
+      "Texture": "rbxassetid://81332183400819"
+    },
+    "Seperating Pixel Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16310643442"
+    },
+    "Star blast": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16924846577"
+    },
+    "MC Blast": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://8734114950"
+    },
+    "Low Res LE Shape": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://9612436472"
+    },
+    "Grainy realistic LE": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12386017408"
+    },
+    "Medium realistic Energy burst": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13582043821"
+    },
+    "Wiggling energy shockwave 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12360899465"
+    },
+    "Dust waves": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://94891811694457"
+    },
+    "Nuclear Cloud": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762108198"
+    },
+    "Firework Sparks": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://110270707713024"
+    },
+    "background removed": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14050611407"
+    },
+    "Sparking Explosion": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14793182993"
+    },
+    "Short blob": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14141676861"
+    },
+    "Fading halo": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15011478368"
+    },
+    "Rotating Expanding Smoke Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13189668031"
+    },
+    "Splitting Pixel": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14522793999"
+    },
+    "Grainy Bright Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11866455263"
+    },
+    "Black grey fractal": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13992190852"
+    },
+    "Circle remake 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16940393267"
+    },
+    "Game styled explosion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11338731954"
+    },
+    "Something 2": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://92483239339858"
+    },
+    "High shadow shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14480839965"
+    },
+    "Grey Outline Burst": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13764868184"
+    },
+    "Colourless charging": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197067494"
+    },
+    "Fading Diamond": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17277489248"
+    },
+    "Shape with gaps": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://71674524738228"
+    },
+    "Cut off explosion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13800461961"
+    },
+    "Falling Energy": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14004145197"
+    },
+    "Shockwave twice": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17511047347"
+    },
+    "Star shaped shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13580358178"
+    },
+    "Circles explosion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17612094537"
+    },
+    "Looping LE Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13392259542"
+    },
+    "Breaking Returning AOE": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13795988483"
     },
     "Deteriorating Pixels": {
       "Credits": "?",
@@ -6490,6 +7000,18 @@
       "Resolution": "420",
       "Texture": "rbxassetid://12189101933"
     },
+    "Spiked Spec": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12800351319"
+    },
+    "Exploding Spec": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14377841732"
+    },
     "Glass Shard Spec": {
       "Credits": "?",
       "Type": "2x2",
@@ -7598,6 +8120,186 @@
       "Type": "Static",
       "Resolution": "512",
       "Credits": "?"
+    },
+    "Breaking Open Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11842007223"
+    },
+    "Curved": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13724238656"
+    },
+    "Drawn Smoke 23": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11857153748"
+    },
+    "Darkening realism": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11866794293"
+    },
+    "Stylized Smoke 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17612093017"
+    },
+    "Sideways Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16924719592"
+    },
+    "Stretched smoke 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13743820968"
+    },
+    "Shaded Poof": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12447064407"
+    },
+    "Tall Realistic Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11867375448"
+    },
+    "Expanding Breaking Smoke": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11632052078"
+    },
+    "Thick Smoke Puff": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16924714763"
+    },
+    "Spiked Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13764992917"
+    },
+    "Glowing Smoke Puff": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16924852505"
+    },
+    "Coloured version smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11841836676"
+    },
+    "Pixelated Smoke Diagonal": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11847035494"
+    },
+    "Non-Pixelated smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11845281419"
+    },
+    "Low res gray smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12356442287"
+    },
+    "Rounded Erased Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11842149409"
+    },
+    "Pixelated Smoke Puff": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11866495294"
+    },
+    "Darkening Outlined Grey": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13764075574"
+    },
+    "Greying Smoke 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13743936715"
+    },
+    "Coloured Smoke Orange": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11509655546"
+    },
+    "Layered Grey Smoke 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11827618350"
+    },
+    "Taller Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13765167337"
+    },
+    "Pixel Smoke 34": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11842749937"
+    },
+    "Onesided Smoke Puff": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16924727059"
+    },
+    "Three Puffed Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11773081059"
+    },
+    "Cartoon Smoke Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15068135889"
+    },
+    "Cartoony Swirled Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://135240404113255"
+    },
+    "Poof": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15855917528"
     },
     "RightUp Smoke": {
       "Credits": "?",
@@ -8801,6 +9503,180 @@
       "Resolution": "1024",
       "Credits": "?"
     },
+    "Round Spikey  Impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18350947061"
+    },
+    "Red Impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "512",
+      "Texture": "rbxassetid://18763190680"
+    },
+    "Blue impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "256",
+      "Texture": "rbxassetid://17511019583"
+    },
+    "Glowing Spiked Impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "256",
+      "Texture": "rbxassetid://16504055084"
+    },
+    "Fast Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://17323225068"
+    },
+    "Claw impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://15118104864"
+    },
+    "White Outline Version": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13736993818"
+    },
+    "Dark Outline Impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "256",
+      "Texture": "rbxassetid://13370283312"
+    },
+    "Galaxy Impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://99655586710070"
+    },
+    "Blank White 2x2": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "256",
+      "Texture": "rbxassetid://13801373992"
+    },
+    "Push": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14379736824"
+    },
+    "Breaking Impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17170913066"
+    },
+    "Fast spiky wave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17612128831"
+    },
+    "Large impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "512",
+      "Texture": "rbxassetid://16924349086"
+    },
+    "4x4 Impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12800352216"
+    },
+    "Circle Impact Glowing": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10198434999"
+    },
+    "Growing star": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13370267318"
+    },
+    "Right Spike": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14052683457"
+    },
+    "Spiked Right Impact 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14379746490"
+    },
+    "Dramatic tower": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://89314095553227"
+    },
+    "Spike to circle": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11137621942"
+    },
+    "Spike Impact 2x2": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18457400581"
+    },
+    "Downward Impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13997926164"
+    },
+    "Sparked Impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "256",
+      "Texture": "rbxassetid://13801456121"
+    },
+    "Flickering impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://15343221274"
+    },
+    "Yellow outlined": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12795814652"
+    },
+    "Slash impact": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441071743"
+    },
+    "Shorter impact 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14379744080"
+    },
+    "Returning Impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13416693677"
+    },
     "Impact45": {
       "Texture": "rbxassetid://16892359595",
       "Type": "Static",
@@ -9126,6 +10002,24 @@
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "?"
+    },
+    "Breaking Splash": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13795304468"
+    },
+    "Low Res Splash 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "256",
+      "Texture": "rbxassetid://12347630409"
+    },
+    "Pixel bubble": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11868250246"
     },
     "Pixelated Splash": {
       "Credits": "?",
@@ -9488,6 +10382,150 @@
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "?"
+    },
+    "Lightning Impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14366190868"
+    },
+    "Diagonal LE Lightning 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12939135233"
+    },
+    "Lightning glow slow": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197135879"
+    },
+    "Lightning Line 2x2": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12800316260"
+    },
+    "Circling lightning2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14367406033"
+    },
+    "Chain Lightning AOE": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10546862157"
+    },
+    "Point lightning": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://121722681077222"
+    },
+    "Sudden lightning 8x8": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197156344"
+    },
+    "Off centered LE": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://9173514669"
+    },
+    "Lightning Radius": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15011441052"
+    },
+    "Colourless sparks": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197130288"
+    },
+    "Lightning Impact 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14953431234"
+    },
+    "Flickering line of lightning": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13771935078"
+    },
+    "AOE Lightning Grey": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197133127"
+    },
+    "Dark shadow linear lightning 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11861841517"
+    },
+    "Slightly Diagonal": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11861802341"
+    },
+    "Lightning recreation": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14999219540"
+    },
+    "Lightning swirl 3": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14197126377"
+    },
+    "Lightning Tower": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://70391591954811"
+    },
+    "Tiny Lightning": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16503965065"
+    },
+    "Tall lightning 3": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11613913346"
+    },
+    "Glowing Saturated LE": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10546888337"
+    },
+    "Short Upward LE Lightning": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762235290"
+    },
+    "Foursided Lightning": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://100512814535493"
     },
     "Updown 2x2 Lightning": {
       "Credits": "?",
@@ -11751,6 +12789,30 @@
       "Resolution": "1024",
       "Credits": "?"
     },
+    "Tri-Fire": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18227138407"
+    },
+    "Clean Flame Blast": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11843575561"
+    },
+    "Fireball Right": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11362249226"
+    },
+    "Fire coloured blast": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13990048171"
+    },
     "Sketched Flame 2": {
       "Credits": "?",
       "Type": "2x2",
@@ -12364,6 +13426,300 @@
       "Type": "Static",
       "Resolution": "512",
       "Texture": "rbxassetid://11037288610"
+    },
+    "Layered Animated AOE": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13793478538"
+    },
+    "Slight Chromatic Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14057043166"
+    },
+    "Galaxy Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://120465821342768"
+    },
+    "Rippling galaxy": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://108748322229474"
+    },
+    "Simple Gapped Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16924410706"
+    },
+    "Outward Noise Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://92991665171281"
+    },
+    "Multilayer shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13793926944"
+    },
+    "Pixelart Circle": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11817698226"
+    },
+    "Thin blurred expanding": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15014002418"
+    },
+    "Glowing Thin Fading Gif": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://119057920510209"
+    },
+    "Outlined ripple 14": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13793976664"
+    },
+    "Smoke circle 5": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://139445984471521"
+    },
+    "Thick Layered Breaking": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16509197144"
+    },
+    "Solar flare": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16512044971"
+    },
+    "Mirrored Fading Noise": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://140261203966626"
+    },
+    "Absorbing Circle Thin": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14057339637"
+    },
+    "Inward Ripple Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://125490991548421"
+    },
+    "Magic Starred Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://101163436678837"
+    },
+    "Diagonal Orb 3D": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14483718869"
+    },
+    "Inner glow circle 14": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13378717718"
+    },
+    "Wind Lines": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13189665112"
+    },
+    "Fading magic circle 3": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18355741830"
+    },
+    "Fast polar": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11817596219"
+    },
+    "Pixel circle expanding 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11865130475"
+    },
+    "LE Fancy Halo": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13370279230"
+    },
+    "3D Stylized Orb": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://114129466322789"
+    },
+    "Thin Animated Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://72695959330064"
+    },
+    "No LE Fractal Halo": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14050610023"
+    },
+    "High glow shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13992202083"
+    },
+    "Quick circular explosion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13914836240"
+    },
+    "Edited expansion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16940431172"
+    },
+    "Layered Blank Ripple": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11864614229"
+    },
+    "illusion circle": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16511350735"
+    },
+    "Greyscaled Absorbing Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16503522199"
+    },
+    "Circle outlines": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://93664782251648"
+    },
+    "Semicircle expanding": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18102802600"
+    },
+    "Slightly glowing": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14152113700"
+    },
+    "Opening Circle": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12156505819"
+    },
+    "Fading Alchemy Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18370147332"
+    },
+    "3D Circle Impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18406755478"
+    },
+    "Energy AOE": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://139489780275726"
+    },
+    "Rainbow Expansion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13972693228"
+    },
+    "Breaking Mirror SW": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16940454301"
+    },
+    "Darkening Energy Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13655845087"
+    },
+    "Black n white layered ripple": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13794002023"
+    },
+    "High Quality LE Ripple": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14833562946"
+    },
+    "Fancy Ripple 8x8": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16503485900"
+    },
+    "Polar Circle": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16511260690"
+    },
+    "Circle shaped specs": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://109230620745070"
     },
     "Expanding Fading Circles": {
       "Credits": "?",
