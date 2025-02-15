@@ -1314,6 +1314,18 @@
       "Resolution": "512",
       "Credits": "?"
     },
+    "Absorbing LE": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10536262477"
+    },
+    "Thin FX": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17113590856"
+    },
     "Swirling InOut": {
       "Credits": "?",
       "Type": "4x4",
@@ -3341,6 +3353,156 @@
       "Type": "8x8",
       "Resolution": "1024",
       "Texture": "rbxassetid://16511415159"
+    },
+    "Absorb Swirl": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15048784530"
+    },
+    "Explosion Cloud": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762392932"
+    },
+    "Cartoon Boom": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10767982872"
+    },
+    "Anime Sequence 2": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762646373"
+    },
+    "Purple Energy Portal": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10547437936"
+    },
+    "Chromatic Senses": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13486409973"
+    },
+    "Stylized Beam": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17116642688"
+    },
+    "Cartoon Explosion": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10767971441"
+    },
+    "Pixel Explosion Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11858773923"
+    },
+    "Coloured Pixel Burst": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14262112027"
+    },
+    "Pixel Plus": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "256",
+      "Texture": "rbxassetid://16877443344"
+    },
+    "Pixel Circle FX": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15004620425"
+    },
+    "Pixel Splash 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11823051025"
+    },
+    "Realistic Portal Opening": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10547469190"
+    },
+    "Anime Sequence": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762653221"
+    },
+    "Pixel Puff FX": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11844402871"
+    },
+    "Fade in fade out": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16511753369"
+    },
+    "Purple Explosion": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762366892"
+    },
+    "Strange VFX": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18369800560"
+    },
+    "ExplosionFX": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11696029985"
+    },
+    "Pixel Water Splash": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13934751437"
+    },
+    "Vortex Ripple 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://129596865128056"
+    },
+    "Rotating Disk Ripple": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17517654542"
+    },
+    "Mirrored Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17000896359"
+    },
+    "Barrage": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17116638691"
     },
     "Something": {
       "Credits": "?",
@@ -8121,6 +8283,42 @@
       "Resolution": "512",
       "Credits": "?"
     },
+    "Dust Cloud 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15828867903"
+    },
+    "Cartoony Swirled Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11855544753"
+    },
+    "Dark Chromatic Static Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13927257008"
+    },
+    "Pixel Smoke 5": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11826888424"
+    },
+    "Scarlet Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://18765222232"
+    },
+    "Blue Smoke": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14374273963"
+    },
     "Breaking Open Smoke": {
       "Credits": "?",
       "Type": "4x4",
@@ -8289,7 +8487,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://15068135889"
     },
-    "Cartoony Swirled Smoke": {
+    "Cartoony Swirled Smoke 2": {
       "Credits": "?",
       "Type": "4x4",
       "Resolution": "1024",
@@ -8313,7 +8511,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://14727016281"
     },
-    "Dark Chromatic Static Smoke": {
+    "Dark Chromatic Static Smoke 2": {
       "Credits": "?",
       "Type": "8x8",
       "Resolution": "1024",
@@ -8955,7 +9153,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://11355845008"
     },
-    "Blue Smoke": {
+    "Blue Smoke 2": {
       "Credits": "?",
       "Type": "4x4",
       "Resolution": "512",
@@ -9503,6 +9701,48 @@
       "Resolution": "1024",
       "Credits": "?"
     },
+    "Arrow Impact": {
+      "Credits": "?",
+      "Type": "2x2",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://104431684789902"
+    },
+    "Blue LE": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10536437810"
+    },
+    "Circular Smack": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18140248952"
+    },
+    "Glowing Impact 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13990234027"
+    },
+    "Basic Hit": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14379750639"
+    },
+    "Star Hit Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11372772717"
+    },
+    "Dusty Impact": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10198439352"
+    },
     "Round Spikey  Impact": {
       "Credits": "?",
       "Type": "2x2",
@@ -10003,6 +10243,12 @@
       "Resolution": "1024",
       "Credits": "?"
     },
+    "Water Explosion": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15814918201"
+    },
     "Breaking Splash": {
       "Credits": "?",
       "Type": "4x4",
@@ -10383,6 +10629,96 @@
       "Resolution": "1024",
       "Credits": "?"
     },
+    "Realism Shaking Lightning": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://9732664178"
+    },
+    "Sparks": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10546930830"
+    },
+    "Random Lightning Arcs": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10546855182"
+    },
+    "Low Res Realistic Blue Strike": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10547087675"
+    },
+    "Lightning Strike 2": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10547286472"
+    },
+    "Bright Lightning": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://9173485470"
+    },
+    "Lightning Impact LE": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10524184224"
+    },
+    "Expanding Realism": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10546914001"
+    },
+    "High Pixel Lightning": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11864126141"
+    },
+    "Deep Blue Lightning": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10546953217"
+    },
+    "Realistic Strike": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10547263850"
+    },
+    "Pixel Sparks": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11864126734"
+    },
+    "Short Lightning Sequence": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10547093732"
+    },
+    "Blue Orb Lightning": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10767845491"
+    },
+    "Pixel Lightning Beam": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://11864126449"
+    },
     "Lightning Impact": {
       "Credits": "?",
       "Type": "4x4",
@@ -10641,7 +10977,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://14197083420"
     },
-    "High Pixel Lightning": {
+    "High Pixel Lightning 2": {
       "Credits": "?",
       "Type": "4x4",
       "Resolution": "1024",
@@ -12337,6 +12673,24 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://15796221784"
     },
+    "Star Flip": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762758519"
+    },
+    "Star Animation": {
+      "Credits": "?",
+      "Type": "8x8",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10762715160"
+    },
+    "Star Flipbook": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15438447436"
+    },
     "Star Pulse": {
       "Credits": "?",
       "Type": "4x4",
@@ -12788,6 +13142,30 @@
       "Type": "4x4",
       "Resolution": "1024",
       "Credits": "?"
+    },
+    "Chromatic Fire": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14198246675"
+    },
+    "Heat": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11388840312"
+    },
+    "Orange Flame 2": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "256",
+      "Texture": "rbxassetid://11362338440"
+    },
+    "Stylized Flame Burst": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16924803990"
     },
     "Tri-Fire": {
       "Credits": "?",
@@ -13426,6 +13804,60 @@
       "Type": "Static",
       "Resolution": "512",
       "Texture": "rbxassetid://11037288610"
+    },
+    "Expanding Pixely Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13811816636"
+    },
+    "Thick Pixel Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14162037963"
+    },
+    "Fancy Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://110017652984281"
+    },
+    "Jagged Shockwave": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13799700420"
+    },
+    "Swirly Circle 3": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13799487197"
+    },
+    "Rotating Wind Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18281460865"
+    },
+    "Rotating Disk Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17517670087"
+    },
+    "Chromatic Fading Circle": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18254173589"
+    },
+    "Noisy Growth Circles": {
+      "Credits": "?",
+      "Type": "4x4",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17086390547"
     },
     "Layered Animated AOE": {
       "Credits": "?",
