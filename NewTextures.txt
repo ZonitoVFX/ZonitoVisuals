@@ -8728,6 +8728,60 @@
       "Resolution": "420",
       "Texture": "rbxassetid://12189101933"
     },
+    "Grass debris": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1000",
+      "Texture": "rbxassetid://392758851"
+    },
+    "Wooden Debris": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://425665059"
+    },
+    "Nature Debris Leaves": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://394323831"
+    },
+    "Brown debris": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://394144370"
+    },
+    "More debris": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14050848235"
+    },
+    "Stretched Fade": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "64",
+      "Texture": "rbxassetid://9841273413"
+    },
+    "Crosses": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://426579110"
+    },
+    "Leaf debris": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632169630"
+    },
+    "Yellow dots": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://9741376996"
+    },
     "Spiked Spec": {
       "Credits": "?",
       "Type": "2x2",
@@ -18726,6 +18780,1650 @@
       "Type": "Static",
       "Resolution": "500",
       "Texture": "rbxassetid://6671348341"
+    },
+    "BeamBlurred beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://15398093472"
+    },
+    "BeamChain 4": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632168658"
+    },
+    "BeamFaded": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://5320396458"
+    },
+    "BeamGlow edition": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13703813488"
+    },
+    "BeamMagic symbol": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12781812529"
+    },
+    "BeamDrawn waves": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://15937992836"
+    },
+    "BeamMany lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13673635164"
+    },
+    "BeamDownwards Arrows": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17476697388"
+    },
+    "BeamWater greyscaled": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "480",
+      "Texture": "rbxassetid://1246346065"
+    },
+    "BeamVery thin": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://1849531275"
+    },
+    "BeamLayered waving": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "275",
+      "Texture": "rbxassetid://2549928235"
+    },
+    "BeamZigzag": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "765",
+      "Texture": "rbxassetid://17635275548"
+    },
+    "BeamUnmirrored": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "627",
+      "Texture": "rbxassetid://15270687013"
+    },
+    "BeamThin Chain": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "900",
+      "Texture": "rbxassetid://9462760467"
+    },
+    "BeamSmall details": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://134030281358188"
+    },
+    "BeamWavey fog": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "325",
+      "Texture": "rbxassetid://12251461261"
+    },
+    "BeamCompressed swirl blank": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "80",
+      "Texture": "rbxassetid://1135136643"
+    },
+    "BeamThin white outlines 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://9754641205"
+    },
+    "BeamThick shaded lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://16616701583"
+    },
+    "BeamEnergy LE": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12781804519"
+    },
+    "BeamWave 4": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12781825592"
+    },
+    "BeamDark Outline": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781848822"
+    },
+    "BeamDark inside": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://124842922755932"
+    },
+    "BeamWider lens": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1000",
+      "Texture": "rbxassetid://245996148"
+    },
+    "BeamSame beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14987393762"
+    },
+    "BeamChain fixed": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://15938396604"
+    },
+    "BeamDrag Thick": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "250",
+      "Texture": "rbxassetid://5155825850"
+    },
+    "BeamLens again": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12363860111"
+    },
+    "BeamBlank fractal": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://84577820022939"
+    },
+    "BeamTwo Fur": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15811506507"
+    },
+    "BeamFilled wavey": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://18925205019"
+    },
+    "BeamFancy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://14191591663"
+    },
+    "BeamWave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "232",
+      "Texture": "rbxassetid://13801691431"
+    },
+    "BeamThin wiggle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "800",
+      "Texture": "rbxassetid://96719058831183"
+    },
+    "BeamChunky outline": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781849590"
+    },
+    "BeamChromatic Thick": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://108170985018134"
+    },
+    "BeamPulled lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "723",
+      "Texture": "rbxassetid://5259392291"
+    },
+    "BeamLong flare": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12363860289"
+    },
+    "BeamDecreasing": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "64",
+      "Texture": "rbxassetid://12402902689"
+    },
+    "BeamWide Spiked smoke": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://18762827354"
+    },
+    "BeamLink Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://6081900013"
+    },
+    "BeamLightning 34": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://16726908900"
+    },
+    "BeamWater ripples": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://18824145778"
+    },
+    "BeamThin Energy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "413",
+      "Texture": "rbxassetid://15507852294"
+    },
+    "BeamComplex lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11724340397"
+    },
+    "BeamShadow lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "71",
+      "Texture": "rbxassetid://16616694813"
+    },
+    "BeamSmokey fading beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15811402156"
+    },
+    "BeamUnfinished beam 23": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781856168"
+    },
+    "BeamTransparent Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://117681058875712"
+    },
+    "BeamFaded Outlines Inward": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://86470467217654"
+    },
+    "BeamSwirl": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "315",
+      "Texture": "rbxassetid://6479047126"
+    },
+    "BeamAura Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12713360567"
+    },
+    "BeamDrag needle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://1503030545"
+    },
+    "BeamLE Wavey": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14364462554"
+    },
+    "BeamMagical dust": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://13580357222"
+    },
+    "BeamGuidelines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "618",
+      "Texture": "rbxassetid://17635258784"
+    },
+    "BeamWavey outlines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "400",
+      "Texture": "rbxassetid://1177196540"
+    },
+    "BeamCorners": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://5699911427"
+    },
+    "BeamGlowing transparent": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15939596990"
+    },
+    "BeamMiddle gap": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781852969"
+    },
+    "BeamBeam399": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://13712010201"
+    },
+    "BeamChalk": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632170989"
+    },
+    "BeamSideways Water": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://12781873863"
+    },
+    "BeamScratching beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://108232888731244"
+    },
+    "BeamNo LE Version": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14050985655"
+    },
+    "BeamWave 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://8415143764"
+    },
+    "BeamFull Overlay": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://10816143374"
+    },
+    "BeamOutlines erased 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://18664812275"
+    },
+    "BeamSlanted grey": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://15000399146"
+    },
+    "BeamDrag 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "703",
+      "Texture": "rbxassetid://1367858734"
+    },
+    "BeamThick wave 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "483",
+      "Texture": "rbxassetid://16656589764"
+    },
+    "BeamMultiple flares": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12363860994"
+    },
+    "BeamFractal outlines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://10528782340"
+    },
+    "BeamSmoke beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15253860988"
+    },
+    "BeamLightning Wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12781820353"
+    },
+    "BeamHex": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://5889807991"
+    },
+    "BeamFish": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9070448657"
+    },
+    "BeamCracked beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632170778"
+    },
+    "BeamLong arc": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14364460918"
+    },
+    "BeamBlank wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "720",
+      "Texture": "rbxassetid://4975465603"
+    },
+    "BeamSlash": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11744201766"
+    },
+    "BeamColoured outlines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15824433636"
+    },
+    "BeamStars": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "794",
+      "Texture": "rbxassetid://17636295291"
+    },
+    "BeamGlowing basic": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://446111271"
+    },
+    "BeamThicker wave LE": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "627",
+      "Texture": "rbxassetid://15270701529"
+    },
+    "BeamSpec Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://1191605952"
+    },
+    "BeamMusic notes 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632168895"
+    },
+    "BeamHigh glow beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14987385912"
+    },
+    "BeamRain": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://3339218899"
+    },
+    "BeamLow Res Water": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://14919848175"
+    },
+    "BeamHigh pixelated": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://14339578398"
+    },
+    "BeamThick Chain Bulk": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://52513855"
+    },
+    "BeamLightning Simple": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14050984567"
+    },
+    "BeamDrag glow": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "380",
+      "Texture": "rbxassetid://1858602290"
+    },
+    "BeamDisco": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "595",
+      "Texture": "rbxassetid://89582771264382"
+    },
+    "BeamThin Scribble": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15846210358"
+    },
+    "BeamTechnology specs": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://10001969939"
+    },
+    "BeamNoise cloud": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15253421443"
+    },
+    "BeamChunky debris": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://5638168890"
+    },
+    "BeamThin Lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15270205079"
+    },
+    "BeamThinner fractal": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781853708"
+    },
+    "BeamThick Energy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14050983225"
+    },
+    "BeamBinary": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "600",
+      "Texture": "rbxassetid://14060013421"
+    },
+    "BeamLight Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12363861216"
+    },
+    "BeamHigh transparency loop": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15846241206"
+    },
+    "BeamGrey uneven": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16726866463"
+    },
+    "BeamDebris": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "640",
+      "Texture": "rbxassetid://4511013898"
+    },
+    "BeamLine wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://8120278361"
+    },
+    "BeamLines more": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "778",
+      "Texture": "rbxassetid://17635263040"
+    },
+    "BeamMultiple swirls glow": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "84",
+      "Texture": "rbxassetid://15881443696"
+    },
+    "BeamUpward lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://1277447946"
+    },
+    "BeamMelting Wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1000",
+      "Texture": "rbxassetid://7031264716"
+    },
+    "BeamEnergy wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://12781774532"
+    },
+    "BeamWave 7": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://12781775362"
+    },
+    "BeamBasic wiggling line": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://4537255327"
+    },
+    "BeamGlowing Lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://10317055952"
+    },
+    "BeamSame overlay": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13280050232"
+    },
+    "BeamSpaced lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "782",
+      "Texture": "rbxassetid://17635273526"
+    },
+    "BeamWide curve": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "350",
+      "Texture": "rbxassetid://81065240898614"
+    },
+    "BeamMirrored flame smoke": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "400",
+      "Texture": "rbxassetid://6045867277"
+    },
+    "BeamGlowing drawn swirl": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://6806785166"
+    },
+    "BeamSideways line": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://9841253965"
+    },
+    "BeamLow res energy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://16310670422"
+    },
+    "BeamThinner lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "283",
+      "Texture": "rbxassetid://7151842823"
+    },
+    "BeamShadow glow lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "283",
+      "Texture": "rbxassetid://7151777149"
+    },
+    "BeamSideways lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1022",
+      "Texture": "rbxassetid://81896358276668"
+    },
+    "BeamGlow strays": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://12781750620"
+    },
+    "BeamLightning Wide": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://1277456789"
+    },
+    "BeamFixed fancy coloured": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://135363279337264"
+    },
+    "BeamBackwards flare": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1000",
+      "Texture": "rbxassetid://7103213059"
+    },
+    "BeamHeartbeat": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "433",
+      "Texture": "rbxassetid://5830549480"
+    },
+    "BeamFull Chromatic": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://18837564141"
+    },
+    "BeamWind": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://14029063178"
+    },
+    "BeamBlack n White": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://18658531"
+    },
+    "BeamMagic dust": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15325756429"
+    },
+    "BeamFilled Smoke": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://12352572126"
+    },
+    "BeamSmoke beam LE": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://18664247912"
+    },
+    "BeamHigh glow lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "663",
+      "Texture": "rbxassetid://6091329339"
+    },
+    "BeamAncient": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "723",
+      "Texture": "rbxassetid://8098345726"
+    },
+    "BeamDebris 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://5320395820"
+    },
+    "BeamBasic white beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://18664874807"
+    },
+    "BeamCurved smoke beam 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://13315699616"
+    },
+    "BeamGlowing Magic": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "550",
+      "Texture": "rbxassetid://6091474388"
+    },
+    "BeamBackwards water drag": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://8187307611"
+    },
+    "BeamFlower petals": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "723",
+      "Texture": "rbxassetid://8091475665"
+    },
+    "BeamMiddle wiggle LE": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "627",
+      "Texture": "rbxassetid://15270678260"
+    },
+    "BeamDrag tendrils": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "150",
+      "Texture": "rbxassetid://7332661633"
+    },
+    "BeamWave 5": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://12781880888"
+    },
+    "BeamFading beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://18470684136"
+    },
+    "BeamCondensed smoke": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://119739213231431"
+    },
+    "BeamWater shaded": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://14050817630"
+    },
+    "BeamRubble Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632168313"
+    },
+    "BeamFull waving": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://27691595"
+    },
+    "BeamThicker less ripple": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781852245"
+    },
+    "BeamSideways speed drag": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://4480871448"
+    },
+    "BeamBroken chain": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://17591220689"
+    },
+    "BeamSmoke beam 3": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12823611043"
+    },
+    "BeamMusic notes 10": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "400",
+      "Texture": "rbxassetid://14050988728"
+    },
+    "BeamCool": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://101843421256922"
+    },
+    "BeamSmaller outlines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://9149045341"
+    },
+    "BeamBasic white lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://18664848453"
+    },
+    "BeamDrag": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "158",
+      "Texture": "rbxassetid://13526884654"
+    },
+    "BeamScratchy beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://136845497262223"
+    },
+    "BeamFull water": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://15414469049"
+    },
+    "BeamSpiral greyscaled": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://16692310127"
+    },
+    "BeamChain 7": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "291",
+      "Texture": "rbxassetid://11729593148"
+    },
+    "BeamBlue beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://9930746090"
+    },
+    "BeamChromatic": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "423",
+      "Texture": "rbxassetid://134095631127258"
+    },
+    "BeamFog two": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://16114023603"
+    },
+    "BeamWavey chain": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16412020661"
+    },
+    "BeamDrag shard": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "210",
+      "Texture": "rbxassetid://13546935092"
+    },
+    "BeamThinning lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "782",
+      "Texture": "rbxassetid://17635269276"
+    },
+    "BeamFancy fog": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://12278581364"
+    },
+    "BeamHalf beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12386384198"
+    },
+    "BeamHigh transparency": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://15584566438"
+    },
+    "BeamFilled fog 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://18470709110"
+    },
+    "BeamLow Res Full": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://10365550877"
+    },
+    "BeamDBeam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12352703565"
+    },
+    "BeamFixed wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://1379899761"
+    },
+    "BeamClean beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14191603094"
+    },
+    "BeamColoured flames": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://16511723109"
+    },
+    "Beambasic wiggling line 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://11829306338"
+    },
+    "BeamFancy smoke 4": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://8965648552"
+    },
+    "BeamHalved beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://15502820561"
+    },
+    "BeamBroken Fractal": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781855685"
+    },
+    "BeamThick low glow": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://18837316844"
+    },
+    "BeamWave 6": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "64",
+      "Texture": "rbxassetid://12781879644"
+    },
+    "BeamDrag smoke": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://10240434007"
+    },
+    "BeamSideways jagged": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://14191581119"
+    },
+    "BeamZigzag blur": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://1263079249"
+    },
+    "BeamDark outline wiggle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://13280245934"
+    },
+    "BeamSideways water": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://8187305308"
+    },
+    "BeamCleaned version": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15271488130"
+    },
+    "BeamSlight specs": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://15398097961"
+    },
+    "BeamGlitch": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1023",
+      "Texture": "rbxassetid://107624017803706"
+    },
+    "BeamCheckerboard beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14364459325"
+    },
+    "BeamGlowing abstract": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "723",
+      "Texture": "rbxassetid://8091408769"
+    },
+    "BeamSharp upward": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://119237127898216"
+    },
+    "BeamDrag again": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "600",
+      "Texture": "rbxassetid://2443461141"
+    },
+    "BeamMirrored smoke two": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://18837319394"
+    },
+    "BeamRipple": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781850191"
+    },
+    "BeamFull LE": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15271715625"
+    },
+    "BeamSharp drag": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://9421370805"
+    },
+    "BeamVery thin lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "773",
+      "Texture": "rbxassetid://17635261209"
+    },
+    "BeamFilled wind": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12842713075"
+    },
+    "BeamWispy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "64",
+      "Texture": "rbxassetid://13486415669"
+    },
+    "BeamGrey fractal": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15734209306"
+    },
+    "BeamClouds": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15253351292"
+    },
+    "BeamDebris pieces": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632170583"
+    },
+    "BeamTechnology Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://18664821028"
+    },
+    "BeamSlight shards": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12781855094"
+    },
+    "BeamBeginning wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "418",
+      "Texture": "rbxassetid://14995083532"
+    },
+    "BeamFractal": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://98530933683176"
+    },
+    "BeamFilled slight chromatic": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://13280046773"
+    },
+    "BeamMirrored fractal thin": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632171167"
+    },
+    "BeamLow Res Crunch": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://106679516623895"
+    },
+    "BeamWave 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1000",
+      "Texture": "rbxassetid://11938379208"
+    },
+    "BeamTwo Lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://15954898244"
+    },
+    "BeamErased swirl": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://7071778278"
+    },
+    "BeamStretched Wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://14543379496"
+    },
+    "BeamNo shadow": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://16616702945"
+    },
+    "BeamStylized Water": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://10302438478"
+    },
+    "BeamArcane": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://18761889926"
+    },
+    "BeamPixel Chain": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://12721435220"
+    },
+    "BeamLightning Beam Fade": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "177",
+      "Texture": "rbxassetid://16616706916"
+    },
+    "BeamJagged": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://10429012965"
+    },
+    "BeamSpiked wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13280058094"
+    },
+    "BeamSnow": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://5638170046"
+    },
+    "BeamOutlines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://16783333427"
+    },
+    "BeamPixelated gradient": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "520",
+      "Texture": "rbxassetid://14261159751"
+    },
+    "BeamGlitchy lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://140461182261529"
+    },
+    "BeamSides": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "800",
+      "Texture": "rbxassetid://16510025756"
+    },
+    "BeamAgain copy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14397689597"
+    },
+    "BeamClipping outlines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14050986957"
+    },
+    "BeamBlank slight wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "540",
+      "Texture": "rbxassetid://14004879118"
+    },
+    "BeamFull wind 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://14050906710"
+    },
+    "BeamWhite version": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://4979919970"
+    },
+    "BeamCrunchy lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632166076"
+    },
+    "BeamGrey version": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14050932611"
+    },
+    "BeamStretched version": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://7135001284"
+    },
+    "BeamFire beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11767688250"
+    },
+    "BeamLines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "777",
+      "Texture": "rbxassetid://17635264505"
+    },
+    "BeamMirrored Wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://5272064342"
+    },
+    "BeamFour Lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17405360386"
+    },
+    "BeamOutlined version": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "750",
+      "Texture": "rbxassetid://4955566540"
+    },
+    "BeamFire beam 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "120",
+      "Texture": "rbxassetid://15937996601"
+    },
+    "BeamSpect": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://13575900089"
+    },
+    "BeamDouble sided flare": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "420",
+      "Texture": "rbxassetid://10938996384"
+    },
+    "BeamLow Res Wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "128",
+      "Texture": "rbxassetid://9912938274"
+    },
+    "BeamStylized Water 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "594",
+      "Texture": "rbxassetid://13819728176"
+    },
+    "BeamLE Glow": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12111970343"
+    },
+    "BeamThicker fog LE": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15488087891"
+    },
+    "BeamSwirling Spiral": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12781785184"
+    },
+    "BeamDoublesided": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://993217981"
+    },
+    "BeamThicker Lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://11975011689"
+    },
+    "BeamDrag lines fade": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "464",
+      "Texture": "rbxassetid://1470871817"
+    },
+    "BeamAudio": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14364454897"
+    },
+    "BeamTwo Beams": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://12713358525"
+    },
+    "BeamMany Lines": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "400",
+      "Texture": "rbxassetid://18494845717"
+    },
+    "BeamBasic fade": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://107598860822563"
+    },
+    "BeamFractal outline blank middle": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "174",
+      "Texture": "rbxassetid://13556805948"
+    },
+    "BeamFeather trail": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632169876"
+    },
+    "BeamGlow line": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://15441362369"
+    },
+    "BeamHigh pixels beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "119",
+      "Texture": "rbxassetid://14339514555"
+    },
+    "BeamThin energy": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "256",
+      "Texture": "rbxassetid://15488087736"
+    },
+    "BeamFire wave": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "64",
+      "Texture": "rbxassetid://15938018250"
+    },
+    "BeamMovement": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://13075025861"
+    },
+    "BeamSpace beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://12866501827"
+    },
+    "BeamCondensed Lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://14050918169"
+    },
+    "BeamSpace wave 2": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://128120435243451"
+    },
+    "BeamCompressed thin lightning": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "500",
+      "Texture": "rbxassetid://9632171388"
+    },
+    "BeamMusic Notes": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "400",
+      "Texture": "rbxassetid://12653999373"
+    },
+    "BeamGlitchy Beam": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://92726008667025"
+    },
+    "BeamLightning Clip": {
+      "Credits": "?",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://7216850022"
     },
     "BeamScratchy Trail": {
       "Credits": "?",
