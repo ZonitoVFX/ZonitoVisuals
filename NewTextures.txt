@@ -10689,12 +10689,6 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://11355872735"
     },
-    "Blurring Out Smoke": {
-      "Credits": "?",
-      "Type": "4x4",
-      "Resolution": "1024",
-      "Texture": "rbxassetid://13826565206"
-    },
     "White Energy Blank Smoke": {
       "Credits": "?",
       "Type": "4x4",
