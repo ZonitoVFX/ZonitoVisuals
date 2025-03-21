@@ -8734,6 +8734,60 @@
       "Resolution": "420",
       "Texture": "rbxassetid://12189101933"
     },
+    "Off centered glowing dot": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://87442265401764"
+    },
+    "Basic Blurry Spec": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://77024587778878"
+    },
+    "Blurred Diamond Spec": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://95858524615906"
+    },
+    "Diamond Spec": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://81729442315187"
+    },
+    "Basic Spec": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://132654312582150"
+    },
+    "Off centered dot": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://86053465625060"
+    },
+    "Less Blurred Diamond": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://106697767954486"
+    },
+    "Off centered blurred dot": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://124005197513236"
+    },
+    "Basic Glowing Spec": {
+      "Credits": "not_s3v",
+      "Type": "Static",
+      "Resolution": "512",
+      "Texture": "rbxassetid://107251295851688"
+    },
     "New218": {
       "Credits": "?",
       "Type": "Static",
@@ -8890,7 +8944,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://15553173363"
     },
-    "Diamond Spec": {
+    "Diamond Spec 2": {
       "Credits": "?",
       "Type": "4x4",
       "Resolution": "1024",
