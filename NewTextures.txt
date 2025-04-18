@@ -18687,12 +18687,6 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://113002044854369"
     },
-    "Windy Crescent": {
-      "Credits": "?",
-      "Type": "4x4",
-      "Resolution": "1024",
-      "Texture": "rbxassetid://15011468690"
-    },
     "Basic Expanding Crescent": {
       "Credits": "?",
       "Type": "4x4",
