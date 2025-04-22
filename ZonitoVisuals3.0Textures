@@ -1,7 +1,7 @@
 {
   "Meshes": {},
   "Textures": {
-    "Effects": {
+    "Effect": {
       "kajwater": {
         "Texture": "rbxassetid://111590250909913",
         "Type": "4x4",
@@ -2377,7 +2377,7 @@
         "Credits": "?"
       }
     },
-    "Flares": {
+    "Flare": {
       "Glow": {
         "Credits": "?",
         "Type": "4x4",
@@ -8341,7 +8341,7 @@
         "Credits": "?"
       }
     },
-    "Specs": {
+    "Spec": {
       "Regular Blur": {
         "Credits": "?",
         "Type": "Static",
@@ -16477,7 +16477,7 @@
         "Credits": "?"
       }
     },
-    "Slashes": {
+    "Slash": {
       "Slash5": {
         "Texture": "rbxassetid://17062568784",
         "Type": "4x4",
@@ -17050,7 +17050,7 @@
         "Credits": "?"
       }
     },
-    "Crescents": {
+    "Crescent": {
       "Crescent33": {
         "Type": "Static",
         "New": true,
@@ -18807,7 +18807,7 @@
         "Credits": "?"
       }
     },
-    "Stars": {
+    "Star": {
       "Tall Star": {
         "Credits": "?",
         "Type": "4x4",
@@ -20431,7 +20431,7 @@
         "Credits": "?"
       }
     },
-    "Circles": {
+    "Circle": {
       "Sun Realistic": {
         "Credits": "?",
         "Type": "Static",
