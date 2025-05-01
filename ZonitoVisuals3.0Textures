@@ -891,7 +891,7 @@
       },
       "arcane_explosionRing": {
         "Texture": "rbxassetid://84225088133015",
-        "Type": "static",
+        "Type": "Static",
         "Resolution": "256",
         "Credits": "?"
       },
@@ -8213,7 +8213,7 @@
       },
       "leaf2Other": {
         "Texture": "rbxassetid://124618167412528",
-        "Type": "static",
+        "Type": "Static",
         "Resolution": "128",
         "Credits": "?"
       },
@@ -8225,7 +8225,7 @@
       },
       "leaf (2)Other": {
         "Texture": "rbxassetid://140375476348171",
-        "Type": "static",
+        "Type": "Static",
         "Resolution": "256",
         "Credits": "?"
       },
@@ -8237,7 +8237,7 @@
       },
       "branchOther": {
         "Texture": "rbxassetid://76600307145719",
-        "Type": "static",
+        "Type": "Static",
         "Resolution": "256",
         "Credits": "?"
       },
@@ -8255,7 +8255,7 @@
       },
       "GhostOther2": {
         "Texture": "rbxassetid://125566487608800",
-        "Type": "2x2",
+        "Type": "Static",
         "Resolution": "512",
         "Credits": "?"
       },
@@ -11365,7 +11365,7 @@
       },
       "Smoke": {
         "Texture": "rbxassetid://85201790820909",
-        "Type": "2x2",
+        "Type": "Static",
         "Resolution": "512",
         "Credits": "?"
       },
