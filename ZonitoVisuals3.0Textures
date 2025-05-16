@@ -1209,6 +1209,24 @@
         "Resolution": "781",
         "Texture": "rbxassetid://17401271931"
       },
+      "Arise": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://76217079921610"
+      },
+      "Sae Numbers": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://70398650177917"
+      },
+      "Comic Boom": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://115310070742547"
+      },
       "Magic Symbols 2": {
         "Credits": "?",
         "Type": "8x8",
@@ -2932,6 +2950,12 @@
         "Type": "Static",
         "Resolution": "1024",
         "Texture": "rbxassetid://87001521331112"
+      },
+      "Attack Indicator": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://137985425880808"
       },
       "Unfinished fade": {
         "Credits": "?",
@@ -5343,6 +5367,54 @@
       }
     },
     "Other": {
+      "Puzzle": {
+        "Credits": "@brxin",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://129393954089360"
+      },
+      "Health Plus": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12072054746"
+      },
+      "Sung Eyes": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://133719077124660"
+      },
+      "Atomic Floor Overlay": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://81186045017277"
+      },
+      "Fangs Bite": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://71609331678173"
+      },
+      "Glowing Puzzle": {
+        "Credits": "@brxin",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://107240388732510"
+      },
+      "Glowing Butterfly": {
+        "Credits": "@brxin",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://101250157730321"
+      },
+      "Glowing Sideways Butterfly": {
+        "Credits": "@brxin",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://111233394922527"
+      },
       "Strange Flower": {
         "Credits": "?",
         "Type": "8x8",
@@ -16361,6 +16433,12 @@
         "Resolution": "1024",
         "Credits": "?"
       },
+      "Double Lightning": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://130816273370709"
+      },
       "Realism Shaking Lightning": {
         "Credits": "?",
         "Type": "4x4",
@@ -24945,6 +25023,48 @@
         "Resolution": "256",
         "Texture": "rbxassetid://12781774532"
       },
+      "Beam Slash 1": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://132896267631926"
+      },
+      "Beam Slash 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://118758348149908"
+      },
+      "Number Beam 1": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://74614021916565"
+      },
+      "Number Beam 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://97253527250377"
+      },
+      "Number Beam 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://123221086735076"
+      },
+      "Number Beam 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://83141991681936"
+      },
+      "Number Beam 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://138622181242685"
+      },
       "BeamChain 4": {
         "Credits": "?",
         "Type": "Static",
@@ -26269,6 +26389,12 @@
         "Resolution": "128",
         "Texture": "rbxassetid://13712010201"
       },
+      "Inverted Energy Beam": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://113721094979137"
+      },
       "Beam95": {
         "Credits": "?",
         "Type": "Static",
@@ -26760,6 +26886,148 @@
     }
   },
   "Artists": {
+    "alsonot_fishy": {
+      "Water Wave": {
+        "Credits": "@alsonot_fishy",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://138007436749122"
+      },
+      "Stylized Eye": {
+        "Credits": "@alsonot_fishy",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://99648502242923"
+      },
+      "Fishy Lightning": {
+        "Credits": "@alsonot_fishy",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://120212371638970"
+      },
+      "Fishy Void": {
+        "Credits": "@alsonot_fishy",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://76062429559142"
+      }
+    },
+    "nyght_corn": {
+      "Blurred Spikey Shockwave": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://84630942022861"
+      },
+      "Lines Star": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://88551704812064"
+      },
+      "Animated Blob": {
+        "Credits": "@nyght_corn",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://70592426555117"
+      },
+      "Stylized Line Spec": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://74170157633112"
+      },
+      "Fading Glow": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://107821950776778"
+      },
+      "Halftone": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://109985324958700"
+      },
+      "Noisy Fading Glow": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://127984119352635"
+      },
+      "Paint Circle": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://123038424953936"
+      },
+      "Half Paint Circle": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://78362729022955"
+      },
+      "Thin Paint Circle": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://106163707175106"
+      },
+      "Thin Half Paint Circle": {
+        "Credits": "@nyght_corn",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://91226621741069"
+      },
+      "Blocky Rain": {
+        "Credits": "@nyght_corn",
+        "Type": "2x2",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://114661551199190"
+      },
+      "Thick Aura": {
+        "Credits": "@nyght_corn",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://87468849497097"
+      },
+      "Bezier Wisp": {
+        "Credits": "@nyght_corn",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://113810119342855"
+      },
+      "Bezier Wisp 2": {
+        "Credits": "@nyght_corn",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://96251872953688"
+      },
+      "Kaledio": {
+        "Credits": "@nyght_corn",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://97395302007983"
+      },
+      "Nyght Energy": {
+        "Credits": "@nyght_corn",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://79855087214487"
+      },
+      "Nyght Energy 2": {
+        "Credits": "@nyght_corn",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://140615656756520"
+      },
+      "Bright Thick Aura": {
+        "Credits": "@nyght_corn",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://123018465891858"
+      }
+    },
     "purpl3_": {
       "Strike": {
         "Texture": "rbxassetid://15441646481",
