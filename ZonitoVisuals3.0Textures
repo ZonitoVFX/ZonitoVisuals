@@ -26988,7 +26988,7 @@
       "Thick Aura": {
         "Credits": "@nyght_corn",
         "Type": "4x4",
-        "Resolution": "1024",
+        "Resolution": "512",
         "Texture": "rbxassetid://87468849497097"
       },
       "Bezier Wisp": {
