@@ -10465,7 +10465,7 @@
     "Smoke": {
       "Paint (1)": {
         "Texture": "rbxassetid://137794865219648",
-        "Type": "Static",
+        "Type": "4x4",
         "Resolution": "512",
         "Credits": "?"
       },
