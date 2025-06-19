@@ -26887,6 +26887,14 @@
     }
   },
   "Artists": {
+    "brxin": {
+      "Fancy Bubble": {
+        "Credits": "@brxin",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://99182108515283"
+      }
+    },
     "Light09": {
       "Aura20": {
         "Credits": "@Light09",
