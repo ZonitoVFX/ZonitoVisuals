@@ -1962,6 +1962,336 @@
         "Resolution": "512",
         "Credits": "?"
       },
+      "Grey Energy Swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://105620597187485"
+      },
+      "Full Foggy Swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050169911"
+      },
+      "Blank Swirl 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7447854952"
+      },
+      "Dual Swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://917188138"
+      },
+      "Orange Energy Swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362824448"
+      },
+      "Blank Swirl 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12656836563"
+      },
+      "Condensed Swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15232727384"
+      },
+      "Ghost Swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://851544940"
+      },
+      "Blank Swirl 1": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8133326767"
+      },
+      "Triple Swirl Details": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15394187273"
+      },
+      "foggy swirl2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050423054"
+      },
+      "lime swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362825510"
+      },
+      "golden swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362825255"
+      },
+      "dark gray swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://136170711471701"
+      },
+      "foggy swirl 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037478866"
+      },
+      "simplistic swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10423611313"
+      },
+      "swirl 6": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15265627476"
+      },
+      "light blue swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362824631"
+      },
+      "swirl 11": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050094484"
+      },
+      "swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13580353396"
+      },
+      "cosmic swirl 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13401485317"
+      },
+      "purple swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362824138"
+      },
+      "blue swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362825943"
+      },
+      "bright swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037471389"
+      },
+      "swirl with sparkles": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8210105100"
+      },
+      "fur swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037470566"
+      },
+      "gray swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://341277531"
+      },
+      "swirl 7": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12728141088"
+      },
+      "green swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362824903"
+      },
+      "small swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13548578562"
+      },
+      "swirl3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://95981596731268"
+      },
+      "cyan swirl2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362825073"
+      },
+      "cyan swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362825740"
+      },
+      "spiky swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17511002885"
+      },
+      "smoke-like swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14475273913"
+      },
+      "foggy swirl 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037471932"
+      },
+      "swirl 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050102591"
+      },
+      "swirl2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://76056597100004"
+      },
+      "thin swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://134911108569224"
+      },
+      "simplistic swirl 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1244829143"
+      },
+      "swirl with a hole on the middle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14242123773"
+      },
+      "realistic swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037470119"
+      },
+      "blurred swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://110469202363763"
+      },
+      "blurred swirl2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037470938"
+      },
+      "simplistic swirl 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://281625948"
+      },
+      "swirl 12": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050146678"
+      },
+      "cosmic swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://99819905288900"
+      },
+      "swirl 10": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050133507"
+      },
+      "swirl with a huge gap": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17492085149"
+      },
+      "foggy swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037784515"
+      },
+      "swirl4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://126203834853784"
+      },
+      "swirl 9": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050424199"
+      },
+      "swirl 8": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050124950"
+      },
+      "cartoonish swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://321556991"
+      },
+      "dark blue swirl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17066801130"
+      },
       "Spiked Flower 2": {
         "Credits": "?",
         "Type": "Static",
@@ -15534,6 +15864,438 @@
         "Resolution": "512",
         "Credits": "?"
       },
+      "smoke 7": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9841245689"
+      },
+      "wavy smoke 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11414312820"
+      },
+      "smoke 18": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://965116971"
+      },
+      "smoke 36": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://102071926154708"
+      },
+      "smoke 10": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7405798505"
+      },
+      "partially visible smoke 6": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13958163726"
+      },
+      "smoke 17": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13388193136"
+      },
+      "smoke 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://107546478946602"
+      },
+      "blurry smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8779210242"
+      },
+      "realistic smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12634056613"
+      },
+      "smoke 42": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13380517587"
+      },
+      "smoke 31": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9841246256"
+      },
+      "smoke 46": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1525327413"
+      },
+      "smoke 40": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13366434456"
+      },
+      "smoke 29": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9841245569"
+      },
+      "smoke 34": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14265652323"
+      },
+      "smoke 38": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1084987899"
+      },
+      "smoke 14": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://2671910894"
+      },
+      "smoke 39": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216851225"
+      },
+      "spiky smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://883906867"
+      },
+      "realistic smoke 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13279976915"
+      },
+      "cloud like smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037787560"
+      },
+      "smoke 15": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216851879"
+      },
+      "partially visible smoke 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11808623574"
+      },
+      "partially visible smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7648565918"
+      },
+      "smoke 30": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://2122546039"
+      },
+      "smoke 13": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216851474"
+      },
+      "smoke 20": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9544354287"
+      },
+      "wavy smoke 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13958110279"
+      },
+      "smoke 33": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://98792625311685"
+      },
+      "smoke 21": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13556798897"
+      },
+      "smoke 51": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15271738362"
+      },
+      "smoke 44": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8684351794"
+      },
+      "dust-like smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://112708591036613"
+      },
+      "realistic smoke 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8250000734"
+      },
+      "smoke 49": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037787050"
+      },
+      "smoke with holes": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17227327193"
+      },
+      "smoke 24": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050364977"
+      },
+      "partially visible smoke 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13958188811"
+      },
+      "smoke 27": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://387288028"
+      },
+      "wavy smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050078974"
+      },
+      "small smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14197917722"
+      },
+      "smoke 45": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1012159668"
+      },
+      "smoke 41": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9841245813"
+      },
+      "smoke 19": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9668592056"
+      },
+      "smoke 12": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13400373656"
+      },
+      "smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037480609"
+      },
+      "foggy smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050492427"
+      },
+      "partially visible smoke 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://3318493505"
+      },
+      "smoke 37": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10180479311"
+      },
+      "smoke 47": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037788516"
+      },
+      "smoke ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216850983"
+      },
+      "smoke 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13188459800"
+      },
+      "smoke 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9345352897"
+      },
+      "smoke 8": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050231318"
+      },
+      "smoke with holes 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13958153112"
+      },
+      "smoke 26": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://122434532"
+      },
+      "smoke 48": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037788072"
+      },
+      "smoke 6": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15753663130"
+      },
+      "smoke 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://258128463"
+      },
+      "smoke 16": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15270482724"
+      },
+      "smoke 35": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6928325971"
+      },
+      "partially visible smoke 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://134160165648626"
+      },
+      "smoke 28": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216851326"
+      },
+      "smoke 50": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050358959"
+      },
+      "smoke 23": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10890181552"
+      },
+      "cartoonish smoke": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10352566235"
+      },
+      "smoke 43": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13958121160"
+      },
+      "smoke 9": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037784926"
+      },
+      "smoke 25": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://178107563"
+      },
+      "smoke 22": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://4510290214"
+      },
+      "smoke 32": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://619393574"
+      },
       "Stylized Smoke24": {
         "Credits": "?",
         "Type": "4x4",
@@ -25342,6 +26104,78 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://15796221784"
       },
+      "small star": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216848493"
+      },
+      "golden cartoonish star": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1079347435"
+      },
+      "5 pointed star": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://71064277488085"
+      },
+      "star with shading 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363987488"
+      },
+      "radiant star 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8944218470"
+      },
+      "layered star": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362724900"
+      },
+      "star with shading": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363987062"
+      },
+      "small star 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362732821"
+      },
+      "Star outline": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14043612483"
+      },
+      "radiant star": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216853770"
+      },
+      "chunky star": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6749866161"
+      },
+      "classic star": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6031265978"
+      },
       "Fading Star": {
         "Credits": "?",
         "Type": "Static",
@@ -27367,6 +28201,450 @@
         "Type": "Static",
         "Resolution": "512",
         "Texture": "rbxassetid://11037288610"
+      },
+      "glowing ring 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12946041355"
+      },
+      "glowing target": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037305244"
+      },
+      "spiral ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://118195003770928"
+      },
+      "inward curving circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15267480607"
+      },
+      "2 layers thick ring 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363802624"
+      },
+      "wavy small ring 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15846220330"
+      },
+      "cosmic circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13899344931"
+      },
+      "circle with a curve on top": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12547888947"
+      },
+      "electrified ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://112496740337235"
+      },
+      "ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7394759196"
+      },
+      "thick ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://4936211373"
+      },
+      "ring 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10423603715"
+      },
+      "necrotic ring 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13244082271"
+      },
+      "liquid circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15024914905"
+      },
+      "target with glowing outline": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216854285"
+      },
+      "glowing ring 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216856402"
+      },
+      "smoky circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://72302626415815"
+      },
+      "spiky circle 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363667534"
+      },
+      "wavy circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://140448995422099"
+      },
+      "spiky ring on inside": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15268112675"
+      },
+      "spiky circle 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363668164"
+      },
+      "solar circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14202019268"
+      },
+      "ring 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363805299"
+      },
+      "moon": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15442573511"
+      },
+      "golden circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12386383371"
+      },
+      "thick ring 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6654271542"
+      },
+      "fan 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14380641979"
+      },
+      "spiral ring 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10365549270"
+      },
+      "circle with a star on inside": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363776113"
+      },
+      "necrotic halo": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15383402967"
+      },
+      "spiral ring 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://112820470758894"
+      },
+      "fan": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10365553921"
+      },
+      "thick ring 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15268062056"
+      },
+      "rainbow circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8581659659"
+      },
+      "irregular ring with dot": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13322016160"
+      },
+      "spiky circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363670953"
+      },
+      "partial glowing ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9142631906"
+      },
+      "moon 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://119869447323954"
+      },
+      "small ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9563784745"
+      },
+      "glowing ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13580366694"
+      },
+      "glitch ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://135407002016092"
+      },
+      "thick ring 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15058135927"
+      },
+      "saw ": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17635427457"
+      },
+      "radiant sunburst 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363802821"
+      },
+      "liquid circle 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14050109275"
+      },
+      "circle with fading inside": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14191271598"
+      },
+      "circle with a chunky outline": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13273851652"
+      },
+      "fan 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://16501451316"
+      },
+      "wavy small ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15846262285"
+      },
+      "spiral ring 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://18453513096"
+      },
+      "spiral pixelated ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://18453281504"
+      },
+      "circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14017129441"
+      },
+      "big ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://95193033436930"
+      },
+      "partially visible spiral": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://91003672042650"
+      },
+      "ring3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15268063791"
+      },
+      "spiky ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12398254928"
+      },
+      "fading ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15268040323"
+      },
+      "necrotic halo 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13254493534"
+      },
+      "energy circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037288131"
+      },
+      "radiant sunburst": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12363803936"
+      },
+      "eclipse ": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10423607514"
+      },
+      "circle with a chunky outline 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://94562809294046"
+      },
+      "blurred ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15611941586"
+      },
+      "layered circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17227319824"
+      },
+      "ring 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://5466155927"
+      },
+      "ring with glowing borders": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7185650557"
+      },
+      "irregular circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6603835352"
+      },
+      "2 layers thick ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15268066299"
+      },
+      "magical ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://16924558323"
+      },
+      "magical circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17653963471"
+      },
+      "eclipse ring": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7504062906"
+      },
+      "cosmic circle 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://122202539980340"
+      },
+      "pixelated circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13425486384"
+      },
+      "liquid circle 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13712006924"
       },
       "Ring with star on inside": {
         "Credits": "?",
