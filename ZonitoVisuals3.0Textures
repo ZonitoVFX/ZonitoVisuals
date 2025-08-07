@@ -818,6 +818,245 @@
         "Resolution": "1024",
         "Credits": "?"
       },
+      "lime green energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362864669"
+      },
+      "smoky energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9841301124"
+      },
+      "plasma energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://359293256"
+      },
+      "plasma energy 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362824310"
+      },
+      "plasma energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://463023400"
+      },
+      "dbz ki 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://358965513"
+      },
+      "dbz ki": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://288392896"
+      },
+      "electric energy orb": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362865001"
+      },
+      "mystical energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362865862"
+      },
+      "faint glowing light 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6528210403"
+      },
+      "glowing energy particles": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362865655"
+      },
+      "light blue energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362864388"
+      },
+      "energy droplets": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15057274418"
+      },
+      "dark blue energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362865198"
+      },
+      "faint glowing light": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6531295492"
+      },
+      "anime energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://755925534"
+      },
+      "dbz ki 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://250186345"
+      },
+      "cosmic energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://167063256"
+      },
+      "smoky energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362864857"
+      },
+      "dbz ki 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://530839385"
+      },
+      "gray energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024"
+      },
+      "red energy 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362866761"
+      },
+      "glowing dark blue energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362867051"
+      },
+      "cosmic energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1038410267"
+      },
+      "glowing light greenenergy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362865454"
+      },
+      "mystical energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362863325"
+      },
+      "red energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1196395249"
+      },
+      "golden energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362862883"
+      },
+      "windy energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://243740013"
+      },
+      "golden energy 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362863729"
+      },
+      "glowing green energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362864010"
+      },
+      "red energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://569507596"
+      },
+      "golden energy 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362867268"
+      },
+      "dbz ki 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1360388830"
+      },
+      "cosmic energy 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://283710844"
+      },
+      "glowing red energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362863542"
+      },
+      "golden energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362866621"
+      },
+      "energy blast": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12389943946"
+      },
+      "dark green energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://243474653"
+      },
+      "electric energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12362863192"
+      },
       "Energy Effect": {
         "Credits": "?",
         "Type": "8x8",
@@ -6514,6 +6753,438 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://129393954089360"
       },
+      "Glowing leaf": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17671379919"
+      },
+      "punisher skull": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7245682360"
+      },
+      "snowflake": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://112443398099861"
+      },
+      "cartoonish X": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14721382247"
+      },
+      "fading sword": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13839776497"
+      },
+      "crown": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6947809971"
+      },
+      "feather": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14992689187"
+      },
+      "energy pulse": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://18227621394"
+      },
+      "short ghost": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://5655747881"
+      },
+      "glowing outline heart": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12469099344"
+      },
+      "pixelated crossed swords": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14261327670"
+      },
+      "glowing leaf": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://73999252840073"
+      },
+      "magical flame": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15955933046"
+      },
+      "moon": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8922788417"
+      },
+      "musical note 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://243331916"
+      },
+      "glitchy X 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://82081182694901"
+      },
+      "musical note 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17145866801"
+      },
+      "coin": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037286849"
+      },
+      "energy gathering": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6700009498"
+      },
+      "realistic bubble": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://121602418371942"
+      },
+      "musical note 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6337277439"
+      },
+      "Tix": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://256038163"
+      },
+      "aura 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15004585172"
+      },
+      "aura 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://10365553156"
+      },
+      "blurred skull": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://16004765449"
+      },
+      "ghost": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://5697446711"
+      },
+      "realistic glowing skeleton": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14198040720"
+      },
+      "small x": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://9563819936"
+      },
+      "painted caution symbol": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://16129837741"
+      },
+      "lightning": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://130594856614032"
+      },
+      "coin 4": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://8581764815"
+      },
+      "glowing pink heart": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://36721240"
+      },
+      "robux icon": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11560341824"
+      },
+      "halftone circle": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://1084974286"
+      },
+      "v shaped energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12745412435"
+      },
+      "pixelated scribble": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14242243419"
+      },
+      "snowflake 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12389944487"
+      },
+      "heart": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6479321476"
+      },
+      "v shaped energy 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://12745435209"
+      },
+      "arrow head": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11316960161"
+      },
+      "coin 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037287309"
+      },
+      "coin 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037287744"
+      },
+      "white daisy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://16896822643"
+      },
+      "aura": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13366419059"
+      },
+      "scroll": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://397458963"
+      },
+      "small +": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://97336637983665"
+      },
+      "glowing checkmark": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17426569877"
+      },
+      "skull": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://242223105"
+      },
+      "cartoonish skull": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6053278241"
+      },
+      "cartoonish cube": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://16608498288"
+      },
+      "small heart": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7216848586"
+      },
+      "musical note 5": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6337281108"
+      },
+      "brushtoke texture": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://243665208"
+      },
+      "overlapping rings": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6700008769"
+      },
+      "musical note": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://15448668775"
+      },
+      "sunburst symbol": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6947810416"
+      },
+      "3d rendered bowl": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://16505028339"
+      },
+      "broken half heart": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17278805871"
+      },
+      "glitchy X": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://139992348913802"
+      },
+      "glowing exclamation mark": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://107759572530254"
+      },
+      "horizontal droplet": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://6602421253"
+      },
+      "glowing leaf 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17671381935"
+      },
+      "butterfly": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://13875044490"
+      },
+      "Plus icon": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14425197841"
+      },
+      "energy": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://11037774023"
+      },
+      "ground crack": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14960668916"
+      },
+      "glitchy X 3": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://75684284598376"
+      },
+      "droplet 2": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7104844885"
+      },
+      "droplet": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://7096972007"
+      },
+      "Paper": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://389222402"
+      },
+      "retro style texture": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://14162128187"
+      },
+      "broken other half heart": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://17278805287"
+      },
       "simpled angled line": {
         "Credits": "?",
         "Type": "Static",
@@ -6724,7 +7395,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://12547762260"
       },
-      "skull": {
+      "skull2": {
         "Credits": "?",
         "Type": "Static",
         "Resolution": "1024",
@@ -7288,7 +7959,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://12364024743"
       },
-      "moon": {
+      "moon2": {
         "Credits": "?",
         "Type": "Static",
         "Resolution": "1024",
@@ -7564,7 +8235,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://12362697198"
       },
-      "crown": {
+      "crown2": {
         "Credits": "?",
         "Type": "Static",
         "Resolution": "1024",
@@ -8224,7 +8895,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://12363852473"
       },
-      "ghost": {
+      "ghost2": {
         "Credits": "?",
         "Type": "Static",
         "Resolution": "1024",
@@ -12204,7 +12875,7 @@
         "Resolution": "1024",
         "Credits": "?"
       },
-      "snowflake": {
+      "snowflake2": {
         "Texture": "rbxassetid://111463968547579",
         "Type": "Static",
         "Resolution": "360",
