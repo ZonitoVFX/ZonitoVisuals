@@ -36816,6 +36816,42 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://107039578133610"
       },
+      "Inverted Star Nyght": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://73458184089485"
+      },
+      "Vortex Nyght": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://136340899228643"
+      },
+      "Anime Star Nyght": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://130183405823734"
+      },
+      "Wavy Star Nyght": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://105028339609218"
+      },
+      "Sketch Star Nyght": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://103694697563612"
+      },
+      "Expanding Circle Nyght": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://108828046934039"
+      },
       "Nyght Flame": {
         "Credits": "@nyght_corn",
         "Type": "8x8",
