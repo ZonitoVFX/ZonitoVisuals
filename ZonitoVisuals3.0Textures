@@ -24440,6 +24440,336 @@
         "Resolution": "1024",
         "Credits": "?"
       },
+      "Blurry Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://123522575031715"
+      },
+      "Blurry Thin Chromatic Slash": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://137271201477981"
+      },
+      "Chromatic Energy Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://77965205489008"
+      },
+      "Chromatic Glowing Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://125392484648382"
+      },
+      "Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://135667646891512"
+      },
+      "Chromatic Swap Energy Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://94179440426423"
+      },
+      "Clean Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://106026865867667"
+      },
+      "Clean Solid Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "4096",
+        "Texture": "rbxassetid://96539412839713"
+      },
+      "Colored Water Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://90722344408573"
+      },
+      "Dark Flame Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://81596196878789"
+      },
+      "Dark Flame Slash - Red-Black": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://123742703186401"
+      },
+      "Dark Glitchy Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://71395313051147"
+      },
+      "Dark Glowing Energy Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://130966341311174"
+      },
+      "Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://83450112691185"
+      },
+      "Fading Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://84332905699898"
+      },
+      "Glitchy Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://96963259443072"
+      },
+      "Glowing Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://92176785465115"
+      },
+      "Glowing Fire Slash": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://91414861884931"
+      },
+      "Glowing Spark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://98549349211436"
+      },
+      "Glowing Stylized Energy Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://132317034274952"
+      },
+      "Jagged Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://71361063421189"
+      },
+      "Medium Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://74039042585753"
+      },
+      "Medium Glowing Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://107491452097107"
+      },
+      "Medium Simple Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "ID"
+      },
+      "Patchy Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://109326101118222"
+      },
+      "Simple Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://127087388329713"
+      },
+      "Simple Dark Slash": {
+        "Credits": "?",
+        "Type": "Static",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://90466536189029"
+      },
+      "Simple Medium Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://85267322690769"
+      },
+      "Simple Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://70626665050216"
+      },
+      "Simple Small Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://105915368495700"
+      },
+      "Simple Wide Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://136336100439013"
+      },
+      "Thin Blur Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://114411271060480"
+      },
+      "Small Dark Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://73124501841006"
+      },
+      "Small Flame Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://101469925472369"
+      },
+      "Small Glitchy Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://123007234119221"
+      },
+      "Small Simple Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://115084026332573"
+      },
+      "Small Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://75216686943735"
+      },
+      "Solid Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://130817789143587"
+      },
+      "Spark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://71599203500188"
+      },
+      "Stylized Dark Energy Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://109058369881332"
+      },
+      "Stylized Energy Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://93140607979000"
+      },
+      "Stylized Fire Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://124528317992705"
+      },
+      "Thick Stylized Fire Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://133087069076054"
+      },
+      "Thick Dark Fire Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://124020904579345"
+      },
+      "Thick Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://134816804451781"
+      },
+      "Thick Flame Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://88707519893186"
+      },
+      "Thick Flashy Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://95484479669715"
+      },
+      "Thick Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "ID"
+      },
+      "Thick Wispy Stylized Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://91177557611983"
+      },
+      "Thin Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://124418454611041"
+      },
+      "Water Slash": {
+        "Credits": "?",
+        "Type": "8x8",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://113872215729966"
+      },
+      "Wide Chromatic Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://129250574898298"
+      },
+      "Wide Dark Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://104673447334638"
+      },
+      "Wispy Glowing Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://121638687248235"
+      },
+      "Wispy Slash": {
+        "Credits": "?",
+        "Type": "4x4",
+        "Resolution": "1024",
+        "Texture": "rbxassetid://95661643509594"
+      },
       "Water Slash 2": {
         "Credits": "?",
         "Type": "4x4",
@@ -24524,7 +24854,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://16924704235"
       },
-      "Simple Slash": {
+      "Simple Slash 3": {
         "Credits": "?",
         "Type": "4x4",
         "Resolution": "1024",
@@ -24680,7 +25010,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://13580369776"
       },
-      "Thick Slash": {
+      "Thick Slash 2": {
         "Credits": "?",
         "Type": "4x4",
         "Resolution": "1024",
@@ -24692,7 +25022,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://15441079125"
       },
-      "Chromatic Slash": {
+      "Chromatic Slash 2": {
         "Credits": "?",
         "Type": "4x4",
         "Resolution": "1024",
@@ -24716,7 +25046,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://15374461494"
       },
-      "Water Slash": {
+      "Water Slash 3": {
         "Credits": "?",
         "Type": "4x4",
         "Resolution": "1024",
@@ -24740,7 +25070,7 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://13580352561"
       },
-      "Jagged Slash": {
+      "Jagged Slash 2": {
         "Credits": "?",
         "Type": "4x4",
         "Resolution": "1024",
@@ -24770,13 +25100,13 @@
         "Resolution": "1024",
         "Texture": "rbxassetid://15547440125"
       },
-      "Small Slash": {
+      "Small Slash 2": {
         "Credits": "?",
         "Type": "4x4",
         "Resolution": "1024",
         "Texture": "rbxassetid://13580362430"
       },
-      "Water Slash 3": {
+      "Water Slash 4": {
         "Credits": "?",
         "Type": "4x4",
         "Resolution": "1024",
