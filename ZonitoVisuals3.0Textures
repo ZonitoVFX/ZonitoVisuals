@@ -24448,7 +24448,7 @@
       },
       "Blurry Thin Chromatic Slash": {
         "Credits": "?",
-        "Type": "Static",
+        "Type": "4x4",
         "Resolution": "1024",
         "Texture": "rbxassetid://137271201477981"
       },
@@ -24544,7 +24544,7 @@
       },
       "Glowing Fire Slash": {
         "Credits": "?",
-        "Type": "Static",
+        "Type": "4x4",
         "Resolution": "1024",
         "Texture": "rbxassetid://91414861884931"
       },
@@ -24598,7 +24598,7 @@
       },
       "Simple Dark Slash": {
         "Credits": "?",
-        "Type": "Static",
+        "Type": "4x4",
         "Resolution": "1024",
         "Texture": "rbxassetid://90466536189029"
       },
