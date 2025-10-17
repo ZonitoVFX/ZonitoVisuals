@@ -4491,6 +4491,144 @@
         "Resolution": "1024",
         "Texture"   : "rbxassetid://87001521331112"
       },
+      "Chromatic Glass Ground Shatter": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "256",
+        "Texture"   : "rbxassetid://109404610458318"
+      },
+      "Chromatic Glass Shatter": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://91530327901049"
+      },
+      "Chromatic Glitchy Shatter": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://86501395089413"
+      },
+      "Chromatic Ground Air Impact": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://72241451692192"
+      },
+      "Chromatic Ground Glare": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "1080",
+        "Texture"   : "rbxassetid://96821054632727"
+      },
+      "chromatic radial crack": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://114542308573914"
+      },
+      "Circular Crack": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "256",
+        "Texture"   : "rbxassetid://115684066676652"
+      },
+      "Glass Ground Shatter": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "256",
+        "Texture"   : "rbxassetid://98117877536249"
+      },
+      "Glass Shatter": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://123537613064060"
+      },
+      "Glitchy Shatter": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://120506201600091"
+      },
+      "Glowing Glass Shatter": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://96768078986783"
+      },
+      "Glowing Pixelated Cracks": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://72774667624473"
+      },
+      "Ground Air Impact Extrusion": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "256",
+        "Texture"   : "rbxassetid://82444414387879"
+      },
+      "Ground Air Impact": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://72361795955009"
+      },
+      "Ground Glare": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "1080",
+        "Texture"   : "rbxassetid://137715456777490"
+      },
+      "Pixelated Cracks": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://103262017166314"
+      },
+      "Simple Chromatic Ground Impact": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://137858940723772"
+      },
+      "simple crack": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "256",
+        "Texture"   : "rbxassetid://94057358812878"
+      },
+      "Simple Ground Impact": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://135009508323458"
+      },
+      "Stylized Chromatic Ground Cracks4x4": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://103809786001643"
+      },
+      "Stylized Ground Impact 1": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "736",
+        "Texture"   : "rbxassetid://97582512496870"
+      },
+      "Stylized Ground Impact 2": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "736",
+        "Texture"   : "rbxassetid://114808767712712"
+      },
+      "Thin Glitchy Cracks": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://97133838974087"
+      },
       "Attack Indicator": {
         "Credits"   : "?",
         "Type"      : "4x4",
@@ -30135,6 +30273,204 @@
         "Resolution": "1024",
         "Credits"   : "?"
       },
+      "Abstract Fire Shrinking 4x4": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://112211056852497"
+      },
+      "Chromatic Stylized Flame": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://74587256673315"
+      },
+      "Chromatic Wispy Stylized Fire": {
+        "Credits"   : "?",
+        "Type"      : "2x2",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://136014056459211"
+      },
+      "Dark Jagged Stylized Flame 4x4": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://125622804106191"
+      },
+      "Dark Stylized Flame": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://135363316118060"
+      },
+      "Fire Dispersing": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://123447873199405"
+      },
+      "Fire Emoji 2": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://134780515823286"
+      },
+      "Fire Emoji": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://122381675697189"
+      },
+      "Flame Circle Pop": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://109920824813240"
+      },
+      "Chromatic Fire": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://127233082760420"
+      },
+      "Low Res Chromatic Fire": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://70604202165202"
+      },
+      "Glowing Jagged Stylized Flame": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://125804937717119"
+      },
+      "Pixelated Fire": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://115177254017876"
+      },
+      "Simple Black Stylized Flame": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://136488132756972"
+      },
+      "Simple Flame Disperse": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://96908061195552"
+      },
+      "Simple Flame": {
+        "Credits"   : "?",
+        "Type"      : "Static",
+        "Resolution": "256",
+        "Texture"   : "rbxassetid://124129133609650"
+      },
+      "Simple Glowing Flame Disperse": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://88371933114448"
+      },
+      "Simple Stylized Flame": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://102970167758724"
+      },
+      "Simple Brush Fire": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://128704967293590"
+      },
+      "Brush Fire": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://101708277637345"
+      },
+      "Stylized Flame Flickering4x4": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://138419037247220"
+      },
+      "Stylized Glowing Flame Flickering": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://79114375497368"
+      },
+      "Unique Abstract Fire Explosion 2": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "rbxassetid://81940139830263",
+        "Texture"   : "ID"
+      },
+      "Unique Abstract Fire Explosion": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://90281990645863"
+      },
+      "Unique Dark Fire Explosion": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://134891334210388"
+      },
+      "Unique Dark Glowing Fire Explosion": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://78802745294135"
+      },
+      "Unique Fire Explosion": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://86644934246125"
+      },
+      "Unique Glowing Fire Disperse": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://133976235134932"
+      },
+      "Unique Light Fire Explosion": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://101214951207162"
+      },
+      "Unique Shaded Fire Explosion": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://119515356396363"
+      },
+      "Wide Flame Shard": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://109612779616996"
+      },
+      "Wispy Flame Fade": {
+        "Credits"   : "?",
+        "Type"      : "4x4",
+        "Resolution": "512",
+        "Texture"   : "rbxassetid://120006456413419"
+      },
+      "Wispy Stylized Fire": {
+        "Credits"   : "?",
+        "Type"      : "2x2",
+        "Resolution": "1024",
+        "Texture"   : "rbxassetid://93516560780964"
+      },
       "Realistic Fire 23": {
         "Credits"   : "?",
         "Type"      : "Static",
@@ -30423,7 +30759,7 @@
         "Resolution": "1024",
         "Texture"   : "rbxassetid://12362837503"
       },
-      "Chromatic Fire": {
+      "Chromatic Fire 2": {
         "Credits"   : "?",
         "Type"      : "4x4",
         "Resolution": "1024",
