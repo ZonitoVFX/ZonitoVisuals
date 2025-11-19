@@ -67916,1423 +67916,2102 @@
     }
   },
   "Artists": {
-    "thawux": {
-      "Thaw Blur": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://76668908828802"
-      },
-      "Thaw Beam 1": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://89913670314336"
-      },
-      "Thaw Beam 2": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://101722937549738"
-      },
-      "Thaw Shard": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://132993285121946"
-      },
-      "Thaw Star": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://88658353631421"
-      },
-      "Thaw Yinyang": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://120202265997041"
-      },
-      "Thaw pumpkin": {
-        "Texture": "rbxassetid://92384397507951",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw star": {
-        "Texture": "rbxassetid://114382649395514",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw off centered": {
-        "Texture": "rbxassetid://124256470781966",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw blob 4x4 2": {
-        "Texture": "rbxassetid://112968636104375",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw flare 2": {
-        "Texture": "rbxassetid://79485011518974",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw energy swirl": {
-        "Texture": "rbxassetid://78467141337852",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw swirl": {
-        "Texture": "rbxassetid://90082552866818",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw blob 4x4": {
-        "Texture": "rbxassetid://84050463504621",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw big spec": {
-        "Texture": "rbxassetid://132853690330427",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw blob 8x8": {
-        "Texture": "rbxassetid://90209504778646",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Thaw Circle 1": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://103111872922608"
-      },
-      "Thaw Circle 2": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://71741749599073"
-      },
-      "Thaw Flare 1": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@thawux",
-        "Texture": "rbxassetid://104254946757697"
-      }
+    "Aura20": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://103084150331122",
+      "Resolution": "1024",
+      "Credits": "@Light09"
     },
-    "oladipz": {
-      "Ola Shockwave 11": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://104335891286989"
-      },
-      "Ola Slash 8": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://121453593178287"
-      },
-      "Strange Uptilt": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://132084923570429"
-      },
-      "Ola Slash 3": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://84987071948908"
-      },
-      "Ola Crescent": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://110794572627467"
-      },
-      "Glow Flipbook": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://73856152671005"
-      },
-      "Ola Shockwave 8": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://134219262271656"
-      },
-      "Ola Slash 5": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://88298133265379"
-      },
-      "Chalk Flipbook": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://133385396394294"
-      },
-      "Ola Shockwave 4": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://138207303614644"
-      },
-      "Ola Slash 7": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://98401612159983"
-      },
-      "Normal Star": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://73171092733740"
-      },
-      "Ola Slash 4": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://85289770001830"
-      },
-      "Spec Field 2": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://70970568944667"
-      },
-      "Linear Shockwave 5": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://134952914804198"
-      },
-      "Ola Shockwave 9": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://133360926969457"
-      },
-      "Noisy Ola Crescent": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://107323381142169"
-      },
-      "Ola Shockwave 2": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://92669389891050"
-      },
-      "Ola Shockwave 1": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://126167972209787"
-      },
-      "Star Field": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://102258667972239"
-      },
-      "Linear Shockwave 7": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://86488106737304"
-      },
-      "Shrinking Star": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://83841937662573"
-      },
-      "More Stars": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://134678107719923"
-      },
-      "Ola Slash 2": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://123995057459504"
-      },
-      "3D Cube Fall": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://99686614246773"
-      },
-      "Ola Shockwave 5": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://89155703456598"
-      },
-      "Glitch": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://76061875474120"
-      },
-      "Spec Field 1": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://72553252533865"
-      },
-      "Linear Shockwave 3": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://123876604534277"
-      },
-      "Ola Shockwave 3": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://92122414855591"
-      },
-      "Linear Shockwave 2": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://88459210396112"
-      },
-      "Duplicated Star": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://97480918073624"
-      },
-      "Linear Shockwave 1": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://84005730165289"
-      },
-      "Ola Slash 6": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://112198231301791"
-      },
-      "Ola Shockwave 6": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://99667054502882"
-      },
-      "Ola Shockwave 10": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://100207992337599"
-      },
-      "3D Cubes": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://123449281685490"
-      },
-      "Ola Shockwave 7": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://113129270518652"
-      },
-      "AnotherBoom": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://91414802344618"
-      },
-      "BlacknWhite Circle": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://133875623462779"
-      },
-      "Ola Slash 9": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://128342846304020"
-      },
-      "Growing Stars": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://92142083247998"
-      },
-      "Linear Shockwave 6": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://85993754565145"
-      },
-      "Ola Slash 1": {
-        "Resolution": "1024",
-        "Type": "4x4",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://137756802260576"
-      },
-      "Linear Shockwave 4": {
-        "Resolution": "1024",
-        "Type": "Static",
-        "Credits": "@oladipz.",
-        "Texture": "rbxassetid://129170322158636"
-      }
+    "Ola Slash 3": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://84987071948908",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
     },
-    "vinallac": {
-      "Animated Shove": {
-        "Credits": "@vinallac",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://106501538097843"
-      },
-      "Flickered Star": {
-        "Credits": "@vinallac",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://76257792639040"
-      },
-      "Animated Blink": {
-        "Credits": "@vinallac",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://135358828000703"
-      }
+    "DarkStar": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://113699048321138"
     },
-    "_maroon": {
-      "Blurred Glowing Slash": {
-        "Credits": "@_maroon",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://140405538853166"
-      },
-      "Maroon Firey Slash": {
-        "Credits": "@_maroon",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://81169998666591"
-      },
-      "Maroon Ground Crack": {
-        "Credits": "@_maroon",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://106964246716821"
-      },
-      "Maroon Ember 1": {
-        "Credits": "@_maroon",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://97922883255649"
-      },
-      "Maroon Ember 2": {
-        "Credits": "@_maroon",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://97374425539458"
-      }
+    "Nyght Energy": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://79855087214487",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
     },
-    "brxin": {
-      "Fancy Bubble": {
-        "Credits": "@brxin",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://99182108515283"
-      }
+    "Star": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://112688475903955"
     },
-    "Light09": {
-      "Aura20": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://103084150331122"
-      },
-      "YellowAura": {
-        "Credits": "@Light09",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://82891582902127"
-      },
-      "Aura23": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://122953133978379"
-      },
-      "Aura11": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://132338068829451"
-      },
-      "Aura34": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://78965345518253"
-      },
-      "StardustBreaker": {
-        "Credits": "@Light09",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://107291937137909"
-      },
-      "GradientHit3": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://119134101090365"
-      },
-      "Aura28": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://91980996342109"
-      },
-      "Aura8": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://116974015937529"
-      },
-      "Aura16": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://85501297415353"
-      },
-      "Aura31": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://100011615228376"
-      },
-      "Aura9": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://103654189280916"
-      },
-      "Aura6": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://109702052309524"
-      },
-      "Aura27": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://137422781460149"
-      },
-      "Aura37": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://114112011189623"
-      },
-      "Aura42": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://102032088949027"
-      },
-      "AuraDot": {
-        "Credits": "@Light09",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://70815597062296"
-      },
-      "Aura43": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://117632533197133"
-      },
-      "Aura2": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://95875953275203"
-      },
-      "Aura39": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://82844753560116"
-      },
-      "Cross Impact": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "512",
-        "Texture": "rbxassetid://135690160721179"
-      },
-      "KameLine": {
-        "Credits": "@Light09",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://85107719256526"
-      },
-      "Aura12": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://128372152002588"
-      },
-      "GradientHit": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://92795794254371"
-      },
-      "Aura32": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://117657940661936"
-      },
-      "Aura4": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://86902929921012"
-      },
-      "Aura45": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://111830836444847"
-      },
-      "Aura3": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://108994995347988"
-      },
-      "Aura35": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://88016651726242"
-      },
-      "SimplerLine": {
-        "Credits": "@Light09",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://126470998420827"
-      },
-      "Aura19": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://98938556329551"
-      },
-      "Aura14": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://103053978321001"
-      },
-      "Aura36": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://136339946211344"
-      },
-      "Aura10": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://119606034297095"
-      },
-      "KameLine2": {
-        "Credits": "@Light09",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://113440220220839"
-      },
-      "Aura1": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://105535930504371"
-      },
-      "Aura15": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://140063034909595"
-      },
-      "Aura22": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://86894079030943"
-      },
-      "Aura13": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://78310967482698"
-      },
-      "Aura44": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://132156997381368"
-      },
-      "GreyScribble2": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://85687834589929"
-      },
-      "Aura29": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://81355811733880"
-      },
-      "GradientHit2": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://117007319902349"
-      },
-      "Aura17": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://124780625078365"
-      },
-      "Aura25": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://118058648241817"
-      },
-      "Aura26": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://86159047250318"
-      },
-      "Aura47": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://74404526747385"
-      },
-      "Aura33": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://87186400807893"
-      },
-      "ScribbleWhite": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://107681326212935"
-      },
-      "Aura21": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://130233331551039"
-      },
-      "Aura30": {
-        "Credits": "@Light09",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://70514367978796"
-      },
-      "Aura40": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://101156220370429"
-      },
-      "Aura24": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://94432468003344"
-      },
-      "FireBeam": {
-        "Credits": "@Light09",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://96850187794446"
-      },
-      "Aura5": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://85999531417673"
-      },
-      "BrolyStar": {
-        "Credits": "@Light09",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://77377738193796"
-      },
-      "Aura7": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://83480355597360"
-      },
-      "ScribbleGrey": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://86988108206279"
-      },
-      "Aura41": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://85818000014622"
-      },
-      "Aura46": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://109537427098230"
-      },
-      "Aura18": {
-        "Credits": "@Light09",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://128004135982824"
-      },
-      "Aura38": {
-        "Credits": "@Light09",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://125333986059007"
-      }
+    "Aura27": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://137422781460149",
+      "Resolution": "1024",
+      "Credits": "@Light09"
     },
-    "alsonot_fishy": {
-      "Water Wave": {
-        "Credits": "@alsonot_fishy",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://138007436749122"
-      },
-      "Stylized Eye": {
-        "Credits": "@alsonot_fishy",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://99648502242923"
-      },
-      "Fishy Lightning": {
-        "Credits": "@alsonot_fishy",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://120212371638970"
-      },
-      "Fishy Void": {
-        "Credits": "@alsonot_fishy",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://76062429559142"
-      }
+    "Strike": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441646481"
     },
-    "nyght_corn": {
-      "Glow Specs": {
-        "Credits": "@nyght_corn",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://107039578133610"
-      },
-      "Inverted Star Nyght": {
-        "Credits": "?",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://73458184089485"
-      },
-      "Vortex Nyght": {
-        "Credits": "?",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://136340899228643"
-      },
-      "Anime Star Nyght": {
-        "Credits": "?",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://130183405823734"
-      },
-      "Wavy Star Nyght": {
-        "Credits": "?",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://105028339609218"
-      },
-      "Sketch Star Nyght": {
-        "Credits": "?",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://103694697563612"
-      },
-      "Expanding Circle Nyght": {
-        "Credits": "?",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://108828046934039"
-      },
-      "Nyght Flame": {
-        "Credits": "@nyght_corn",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://97965738621137"
-      },
-      "Nyght Expanding Circle": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://77444722493394"
-      },
-      "Nyght Smooth Crescent": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://83374616586414"
-      },
-      "Nyght Fiery Crescent": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://93109993419471"
-      },
-      "Blurred Spikey Shockwave": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://84630942022861"
-      },
-      "Lines Star": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://88551704812064"
-      },
-      "Animated Blob": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://70592426555117"
-      },
-      "Stylized Line Spec": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://74170157633112"
-      },
-      "Fading Glow": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://107821950776778"
-      },
-      "Halftone": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://109985324958700"
-      },
-      "Noisy Fading Glow": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://127984119352635"
-      },
-      "Paint Circle": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://123038424953936"
-      },
-      "Half Paint Circle": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://78362729022955"
-      },
-      "Thin Paint Circle": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://106163707175106"
-      },
-      "Thin Half Paint Circle": {
-        "Credits": "@nyght_corn",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://91226621741069"
-      },
-      "Blocky Rain": {
-        "Credits": "@nyght_corn",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://114661551199190"
-      },
-      "Thick Aura": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "512",
-        "Texture": "rbxassetid://87468849497097"
-      },
-      "Bezier Wisp": {
-        "Credits": "@nyght_corn",
-        "Type": "8x8",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://113810119342855"
-      },
-      "Bezier Wisp 2": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://96251872953688"
-      },
-      "Kaledio": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://97395302007983"
-      },
-      "Nyght Energy": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://79855087214487"
-      },
-      "Nyght Energy 2": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://140615656756520"
-      },
-      "Bright Thick Aura": {
-        "Credits": "@nyght_corn",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Texture": "rbxassetid://123018465891858"
-      }
+    "AuraDot": {
+      "Type": "Static",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://70815597062296",
+      "Resolution": "1024",
+      "Credits": "@Light09"
     },
-    "purpl3_": {
-      "Strike": {
-        "Texture": "rbxassetid://15441646481",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Water Rush": {
-        "Texture": "rbxassetid://15441459165",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Orbiting": {
-        "Texture": "rbxassetid://15442214293",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Water Rush 2": {
-        "Texture": "rbxassetid://15441534794",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Strike 2": {
-        "Texture": "rbxassetid://15441225436",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Water Orb": {
-        "Texture": "rbxassetid://15442173441",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Tendrils": {
-        "Texture": "rbxassetid://15441205775",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Zigzag": {
-        "Texture": "rbxassetid://15441900753",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Spinning Circle": {
-        "Texture": "rbxassetid://15442080545",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Three Slashes": {
-        "Texture": "rbxassetid://15441195021",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Slash": {
-        "Texture": "rbxassetid://15441174402",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Hit": {
-        "Texture": "rbxassetid://15442057794",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Zigzag 2": {
-        "Texture": "rbxassetid://15435019950",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Strike 3": {
-        "Texture": "rbxassetid://15434990762",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Hit 2": {
-        "Texture": "rbxassetid://15442005571",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Seperation": {
-        "Texture": "rbxassetid://15442260232",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Slash 2": {
-        "Texture": "rbxassetid://15434968908",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Slash 3": {
-        "Texture": "rbxassetid://15434940423",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Eye Opening": {
-        "Texture": "rbxassetid://15441333797",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Burst": {
-        "Texture": "rbxassetid://15442232437",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning Tendrils": {
-        "Texture": "rbxassetid://15924029758",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning Tendril": {
-        "Texture": "rbxassetid://15923960174",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning Strike": {
-        "Texture": "rbxassetid://15923930072",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning Zigzag": {
-        "Texture": "rbxassetid://15923888277",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning Tendrils 2": {
-        "Texture": "rbxassetid://15923272267",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning Strike 2": {
-        "Texture": "rbxassetid://15923184309",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning Strike 3": {
-        "Texture": "rbxassetid://15923017416",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Lightning": {
-        "Texture": "rbxassetid://15922928385",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Stylized Dust": {
-        "Texture": "rbxassetid://17551627147",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Stylized Strike": {
-        "Texture": "rbxassetid://17551589693",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Stylized Explosion": {
-        "Texture": "rbxassetid://17551560355",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      },
-      "Stylized Explosion 2": {
-        "Texture": "rbxassetid://17551525124",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "@purpl3_"
-      }
+    "Ola Slash 7": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://98401612159983",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
     },
-    "rocca108": {
-      "Star": {
-        "Texture": "rbxassetid://112688475903955",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "StarsFlipbook": {
-        "Texture": "rbxassetid://125409449190179",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "WhiteStar2X2": {
-        "Texture": "rbxassetid://102031115481033",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "GrayStar2X2": {
-        "Texture": "rbxassetid://106243517178943",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "BlackStar2x2": {
-        "Texture": "rbxassetid://80836162192530",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "DarkStar": {
-        "Texture": "rbxassetid://113699048321138",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "StaticStar": {
-        "Texture": "rbxassetid://124159602578257",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "BrightStars2x2": {
-        "Texture": "rbxassetid://94129642400712",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "dust3": {
-        "Texture": "rbxassetid://98108818626789",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "ember_": {
-        "Texture": "rbxassetid://138928814236581",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "dot": {
-        "Texture": "rbxassetid://70450680097255",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "dust": {
-        "Texture": "rbxassetid://124776307448265",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "coneshapedstatic": {
-        "Texture": "rbxassetid://76560807367369",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "HalfMoonShapedStatic": {
-        "Texture": "rbxassetid://122871117550724",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "SmokeyCircle": {
-        "Texture": "rbxassetid://100209021124419",
-        "Type": "Static",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Glitch_2": {
-        "Texture": "rbxassetid://78198264956362",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "Glitch2X2Variant": {
-        "Texture": "rbxassetid://72377389469176",
-        "Type": "2x2",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "SlashFlipbook": {
-        "Texture": "rbxassetid://91778241261284",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "CartoonishStars": {
-        "Texture": "rbxassetid://113857491432066",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "SquaresFlipbook": {
-        "Texture": "rbxassetid://126444925335765",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "PortalStarTien": {
-        "Texture": "rbxassetid://112764670472435",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "slashspace2": {
-        "Texture": "rbxassetid://137489378032843",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "BlackStars4x4": {
-        "Texture": "rbxassetid://131661276439824",
-        "Type": "4x4",
-        "Resolution": "2048",
-        "Credits": "?"
-      },
-      "starflip2_": {
-        "Texture": "rbxassetid://129365772874252",
-        "Type": "4x4",
-        "Resolution": "1024",
-        "Credits": "?"
-      },
-      "WhiteStars4x4": {
-        "Texture": "rbxassetid://100913293288247",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "MoreWhiteStars4x4": {
-        "Texture": "rbxassetid://111998844257055",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "circleboom2": {
-        "Texture": "rbxassetid://75804565349970",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "circleboom3": {
-        "Texture": "rbxassetid://122813387522960",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "CircleboomV2": {
-        "Texture": "rbxassetid://82448068435652",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "circleboomV3": {
-        "Texture": "rbxassetid://140552399995129",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "HeartsFlipbook": {
-        "Texture": "rbxassetid://86448734575922",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      },
-      "MoreHeartsFlipbook": {
-        "Texture": "rbxassetid://127604067697151",
-        "Type": "4x4",
-        "Resolution": "4096",
-        "Credits": "?"
-      }
+    "Maroon Ember 2": {
+      "Type": "8x8",
+      "Tags": [
+        "_maroon"
+      ],
+      "Texture": "rbxassetid://97374425539458",
+      "Resolution": "1024",
+      "Credits": "@_maroon"
+    },
+    "Cross Impact": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://135690160721179",
+      "Resolution": "512",
+      "Credits": "@Light09"
+    },
+    "KameLine": {
+      "Type": "Static",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://85107719256526",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura12": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://128372152002588",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Strike 3": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15434990762"
+    },
+    "Nyght Energy 2": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://140615656756520",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Aura45": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://111830836444847",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura43": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://117632533197133",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Water Orb": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15442173441"
+    },
+    "Aura36": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://136339946211344",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Ola Shockwave 1": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://126167972209787",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "GrayStar2X2": {
+      "Type": "2x2",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://106243517178943"
+    },
+    "Kaledio": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://97395302007983",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "3D Cube Fall": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://99686614246773",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "GradientHit2": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://117007319902349",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Bright Thick Aura": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://123018465891858",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Nyght Flame": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://97965738621137",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Aura31": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://100011615228376",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Burst": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15442232437"
+    },
+    "Thaw Beam 2": {
+      "Type": "Static",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://101722937549738",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Thaw Flare 1": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://104254946757697",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Aura40": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://101156220370429",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Hit 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15442005571"
+    },
+    "MoreHeartsFlipbook": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://127604067697151"
+    },
+    "Ola Shockwave 7": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://113129270518652",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Glitch_2": {
+      "Type": "2x2",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://78198264956362"
+    },
+    "Glitch2X2Variant": {
+      "Type": "2x2",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://72377389469176"
+    },
+    "StaticStar": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://124159602578257"
+    },
+    "coneshapedstatic": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://76560807367369"
+    },
+    "SlashFlipbook": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://91778241261284"
+    },
+    "Thaw Beam 1": {
+      "Type": "Static",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://89913670314336",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Linear Shockwave 4": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://129170322158636",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Maroon Ground Crack": {
+      "Type": "4x4",
+      "Tags": [
+        "_maroon"
+      ],
+      "Texture": "rbxassetid://106964246716821",
+      "Resolution": "1024",
+      "Credits": "@_maroon"
+    },
+    "Ola Slash 8": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://121453593178287",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura23": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://122953133978379",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "CartoonishStars": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://113857491432066"
+    },
+    "dust": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://124776307448265"
+    },
+    "SmokeyCircle": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://100209021124419"
+    },
+    "PortalStarTien": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://112764670472435"
+    },
+    "starflip2_": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://129365772874252"
+    },
+    "Wavy Star Nyght": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://105028339609218",
+      "Resolution": "1024",
+      "Credits": "?"
+    },
+    "Thaw blob 4x4 2": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://112968636104375"
+    },
+    "Linear Shockwave 1": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://84005730165289",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Thaw blob 8x8": {
+      "Type": "8x8",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://90209504778646"
+    },
+    "slashspace2": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://137489378032843"
+    },
+    "Halftone": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://109985324958700",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Aura6": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://109702052309524",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura3": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://108994995347988",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura37": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://114112011189623",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Lightning Tendrils": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15924029758"
+    },
+    "BrolyStar": {
+      "Type": "Static",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://77377738193796",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Spinning Circle": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15442080545"
+    },
+    "dust3": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://98108818626789"
+    },
+    "Lightning Strike 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15923184309"
+    },
+    "BlackStars4x4": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "2048",
+      "Texture": "rbxassetid://131661276439824"
+    },
+    "Aura44": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://132156997381368",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Thin Half Paint Circle": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://91226621741069",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "HalfMoonShapedStatic": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://122871117550724"
+    },
+    "Ola Slash 4": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://85289770001830",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura4": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://86902929921012",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Stylized Eye": {
+      "Type": "4x4",
+      "Tags": [
+        "alsonot_fishy"
+      ],
+      "Texture": "rbxassetid://99648502242923",
+      "Resolution": "1024",
+      "Credits": "@alsonot_fishy"
+    },
+    "Water Rush": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441459165"
+    },
+    "Thaw big spec": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://132853690330427"
+    },
+    "ember_": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://138928814236581"
+    },
+    "Lightning Tendril": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15923960174"
+    },
+    "Aura14": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://103053978321001",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "CircleboomV2": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://82448068435652"
+    },
+    "circleboom2": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://75804565349970"
+    },
+    "Star Field": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://102258667972239",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "circleboomV3": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://140552399995129"
+    },
+    "WhiteStar2X2": {
+      "Type": "2x2",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://102031115481033"
+    },
+    "dot": {
+      "Type": "Static",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://70450680097255"
+    },
+    "Aura13": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://78310967482698",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Anime Star Nyght": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://130183405823734",
+      "Resolution": "1024",
+      "Credits": "?"
+    },
+    "MoreWhiteStars4x4": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://111998844257055"
+    },
+    "Inverted Star Nyght": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://73458184089485",
+      "Resolution": "1024",
+      "Credits": "?"
+    },
+    "Ola Shockwave 5": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://89155703456598",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "BlackStar2x2": {
+      "Type": "2x2",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://80836162192530"
+    },
+    "WhiteStars4x4": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://100913293288247"
+    },
+    "Expanding Circle Nyght": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://108828046934039",
+      "Resolution": "1024",
+      "Credits": "?"
+    },
+    "Ola Shockwave 3": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://92122414855591",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Linear Shockwave 2": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://88459210396112",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "ScribbleWhite": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://107681326212935",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "SquaresFlipbook": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://126444925335765"
+    },
+    "StarsFlipbook": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://125409449190179"
+    },
+    "Lightning Tendrils 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15923272267"
+    },
+    "Animated Blink": {
+      "Type": "4x4",
+      "Tags": [
+        "vinallac"
+      ],
+      "Texture": "rbxassetid://135358828000703",
+      "Resolution": "1024",
+      "Credits": "@vinallac"
+    },
+    "Three Slashes": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441195021"
+    },
+    "Water Rush 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441534794"
+    },
+    "Zigzag 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15435019950"
+    },
+    "Animated Shove": {
+      "Type": "4x4",
+      "Tags": [
+        "vinallac"
+      ],
+      "Texture": "rbxassetid://106501538097843",
+      "Resolution": "1024",
+      "Credits": "@vinallac"
+    },
+    "Hit": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15442057794"
+    },
+    "GreyScribble2": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://85687834589929",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura10": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://119606034297095",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Tendrils": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441205775"
+    },
+    "Slash 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15434968908"
+    },
+    "Slash": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441174402"
+    },
+    "YellowAura": {
+      "Type": "Static",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://82891582902127",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Paint Circle": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://123038424953936",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Ola Shockwave 6": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://99667054502882",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Orbiting": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15442214293"
+    },
+    "Aura11": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://132338068829451",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Ola Crescent": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://110794572627467",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "BrightStars2x2": {
+      "Type": "2x2",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://94129642400712"
+    },
+    "Thick Aura": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://87468849497097",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "Lightning Strike": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15923930072"
+    },
+    "Ola Shockwave 8": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://134219262271656",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Lightning Strike 3": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15923017416"
+    },
+    "Fishy Lightning": {
+      "Type": "4x4",
+      "Tags": [
+        "alsonot_fishy"
+      ],
+      "Texture": "rbxassetid://120212371638970",
+      "Resolution": "1024",
+      "Credits": "@alsonot_fishy"
+    },
+    "Aura9": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://103654189280916",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Seperation": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15442260232"
+    },
+    "Lightning Zigzag": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15923888277"
+    },
+    "Thaw star": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://114382649395514"
+    },
+    "Zigzag": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441900753"
+    },
+    "Lightning": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15922928385"
+    },
+    "Stylized Explosion": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17551560355"
+    },
+    "StardustBreaker": {
+      "Type": "8x8",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://107291937137909",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura39": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://82844753560116",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Stylized Dust": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17551627147"
+    },
+    "Normal Star": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://73171092733740",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Glow Specs": {
+      "Type": "2x2",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://107039578133610",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Stylized Explosion 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17551525124"
+    },
+    "Stylized Strike": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://17551589693"
+    },
+    "Slash 3": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15434940423"
+    },
+    "Blurred Spikey Shockwave": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://84630942022861",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Spec Field 1": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://72553252533865",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Ola Shockwave 9": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://133360926969457",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura15": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://140063034909595",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura19": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://98938556329551",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Fading Glow": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://107821950776778",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Thaw swirl": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://90082552866818"
+    },
+    "Thin Paint Circle": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://106163707175106",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Bezier Wisp": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://113810119342855",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Aura1": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://105535930504371",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Half Paint Circle": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://78362729022955",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Stylized Line Spec": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://74170157633112",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Nyght Smooth Crescent": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://83374616586414",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Ola Slash 2": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://123995057459504",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "BlacknWhite Circle": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://133875623462779",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Thaw energy swirl": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://78467141337852"
+    },
+    "Aura42": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://102032088949027",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Strike 2": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441225436"
+    },
+    "Nyght Fiery Crescent": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://93109993419471",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Aura25": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://118058648241817",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura47": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://74404526747385",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura33": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://87186400807893",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Bezier Wisp 2": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://96251872953688",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "HeartsFlipbook": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://86448734575922"
+    },
+    "Aura30": {
+      "Type": "8x8",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://70514367978796",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Sketch Star Nyght": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://103694697563612",
+      "Resolution": "1024",
+      "Credits": "?"
+    },
+    "Aura24": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://94432468003344",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "3D Cubes": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://123449281685490",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Fancy Bubble": {
+      "Type": "4x4",
+      "Tags": [
+        "brxin"
+      ],
+      "Texture": "rbxassetid://99182108515283",
+      "Resolution": "1024",
+      "Credits": "@brxin"
+    },
+    "Lines Star": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://88551704812064",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "GradientHit": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://92795794254371",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "ScribbleGrey": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://86988108206279",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura41": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://85818000014622",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Linear Shockwave 6": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://85993754565145",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura18": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://128004135982824",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura38": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://125333986059007",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Ola Slash 6": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://112198231301791",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Maroon Firey Slash": {
+      "Type": "8x8",
+      "Tags": [
+        "_maroon"
+      ],
+      "Texture": "rbxassetid://81169998666591",
+      "Resolution": "1024",
+      "Credits": "@_maroon"
+    },
+    "Thaw pumpkin": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://92384397507951"
+    },
+    "Strange Uptilt": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://132084923570429",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura8": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://116974015937529",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Linear Shockwave 3": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://123876604534277",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura34": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://78965345518253",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Noisy Fading Glow": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://127984119352635",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Glow Flipbook": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://73856152671005",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Thaw flare 2": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://79485011518974"
+    },
+    "Thaw Shard": {
+      "Type": "Static",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://132993285121946",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Aura16": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://85501297415353",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Thaw Star": {
+      "Type": "Static",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://88658353631421",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Thaw blob 4x4": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://84050463504621"
+    },
+    "Ola Slash 5": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://88298133265379",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Blocky Rain": {
+      "Type": "2x2",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://114661551199190",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Thaw Blur": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://76668908828802",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Thaw Circle 1": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://103111872922608",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Ola Shockwave 4": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://138207303614644",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Thaw Circle 2": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://71741749599073",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Aura2": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://95875953275203",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Ola Shockwave 11": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://104335891286989",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Eye Opening": {
+      "Type": "4x4",
+      "Tags": [
+        "purpl3_"
+      ],
+      "Credits": "@purpl3_",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://15441333797"
+    },
+    "Aura28": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://91980996342109",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Thaw off centered": {
+      "Type": "4x4",
+      "Tags": [
+        "thawux"
+      ],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://124256470781966"
+    },
+    "Flickered Star": {
+      "Type": "4x4",
+      "Tags": [
+        "vinallac"
+      ],
+      "Texture": "rbxassetid://76257792639040",
+      "Resolution": "1024",
+      "Credits": "@vinallac"
+    },
+    "Thaw Yinyang": {
+      "Type": "Static",
+      "Tags": [
+        "thawux"
+      ],
+      "Texture": "rbxassetid://120202265997041",
+      "Credits": "@thawux",
+      "Resolution": "1024"
+    },
+    "Spec Field 2": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://70970568944667",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Linear Shockwave 5": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://134952914804198",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "AnotherBoom": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://91414802344618",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura35": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://88016651726242",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "KameLine2": {
+      "Type": "Static",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://113440220220839",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Ola Shockwave 2": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://92669389891050",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Vortex Nyght": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://136340899228643",
+      "Resolution": "1024",
+      "Credits": "?"
+    },
+    "Animated Blob": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://70592426555117",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Blurred Glowing Slash": {
+      "Type": "4x4",
+      "Tags": [
+        "_maroon"
+      ],
+      "Texture": "rbxassetid://140405538853166",
+      "Resolution": "1024",
+      "Credits": "@_maroon"
+    },
+    "Maroon Ember 1": {
+      "Type": "8x8",
+      "Tags": [
+        "_maroon"
+      ],
+      "Texture": "rbxassetid://97922883255649",
+      "Resolution": "1024",
+      "Credits": "@_maroon"
+    },
+    "circleboom3": {
+      "Type": "4x4",
+      "Tags": [
+        "rocca108"
+      ],
+      "Credits": "?",
+      "Resolution": "4096",
+      "Texture": "rbxassetid://122813387522960"
+    },
+    "Aura5": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://85999531417673",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Linear Shockwave 7": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://86488106737304",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Shrinking Star": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://83841937662573",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "More Stars": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://134678107719923",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Chalk Flipbook": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://133385396394294",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Glitch": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://76061875474120",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura21": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://130233331551039",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura17": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://124780625078365",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Ola Shockwave 10": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://100207992337599",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura26": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://86159047250318",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Growing Stars": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://92142083247998",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Ola Slash 9": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://128342846304020",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Duplicated Star": {
+      "Type": "Static",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://97480918073624",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "FireBeam": {
+      "Type": "Static",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://96850187794446",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura32": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://117657940661936",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Nyght Expanding Circle": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://77444722493394",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "GradientHit3": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://119134101090365",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura29": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://81355811733880",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Aura22": {
+      "Type": "2x2",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://86894079030943",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Ola Slash 1": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://137756802260576",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura7": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://83480355597360",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Fishy Void": {
+      "Type": "4x4",
+      "Tags": [
+        "alsonot_fishy"
+      ],
+      "Texture": "rbxassetid://76062429559142",
+      "Resolution": "1024",
+      "Credits": "@alsonot_fishy"
+    },
+    "Noisy Ola Crescent": {
+      "Type": "4x4",
+      "Tags": [
+        "oladipz"
+      ],
+      "Texture": "rbxassetid://107323381142169",
+      "Credits": "@oladipz.",
+      "Resolution": "1024"
+    },
+    "Aura46": {
+      "Type": "4x4",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://109537427098230",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "SimplerLine": {
+      "Type": "Static",
+      "Tags": [
+        "Light09"
+      ],
+      "Texture": "rbxassetid://126470998420827",
+      "Resolution": "1024",
+      "Credits": "@Light09"
+    },
+    "Water Wave": {
+      "Type": "4x4",
+      "Tags": [
+        "alsonot_fishy"
+      ],
+      "Texture": "rbxassetid://138007436749122",
+      "Resolution": "1024",
+      "Credits": "@alsonot_fishy"
     }
   }
 }
