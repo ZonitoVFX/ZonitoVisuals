@@ -42761,8 +42761,8 @@
       "Resolution": "512",
       "Texture": "rbxassetid://16878105517"
     },
-    "Chromatic Hexagon becoming hollow 8x8": {
-      "Type": "8x8",
+    "Chromatic Hexagon becoming hollow 4x4": {
+      "Type": "4x4",
       "Tags": [
         "Other"
       ],
