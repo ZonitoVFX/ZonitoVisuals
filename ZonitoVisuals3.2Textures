@@ -13953,7 +13953,7 @@
       "Credits": "?"
     },
     "Plume5": {
-      "Type": "2x2",
+      "Type": "Static",
       "Tags": [
         "Smoke"
       ],
@@ -22947,10 +22947,10 @@
       "Resolution": "1024",
       "Credits": "?"
     },
-    "Pastel Chromatic Circle": {
-      "Type": "4x4",
+    "Corrected Smoke": {
+      "Type": "8x8",
       "Tags": [
-        "Circle"
+        "Smoke"
       ],
       "Texture": "rbxassetid://11381557354",
       "Resolution": "1024",
@@ -25463,7 +25463,7 @@
       "Texture": "rbxassetid://16878186706"
     },
     "Cursed Energy Flickering": {
-      "Type": "4x4",
+      "Type": "8x8",
       "Tags": [
         "Other"
       ],
@@ -26130,9 +26130,9 @@
       "Credits": "?"
     },
     "Patchy Slash": {
-      "Type": "4x4",
+      "Type": "8x8",
       "Tags": [
-        "Slash"
+        "Slash", "Crescent"
       ],
       "Texture": "rbxassetid://109326101118222",
       "Resolution": "1024",
@@ -33341,8 +33341,8 @@
       "Resolution": "512",
       "Credits": "?"
     },
-    "Pixelated Smoke Waving 4x4": {
-      "Type": "4x4",
+    "Pixelated Smoke Waving 8x8": {
+      "Type": "8x8",
       "Tags": [
         "Smoke"
       ],
@@ -38171,10 +38171,10 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://73009616231200"
     },
-    "Pixel Circle Overlay": {
-      "Type": "4x4",
+    "Grey Corrected Smoke": {
+      "Type": "8x8",
       "Tags": [
-        "Circle"
+        "Smoke"
       ],
       "Texture": "rbxassetid://8073306083",
       "Resolution": "1024",
@@ -45842,7 +45842,7 @@
       "Texture": "rbxassetid://123040837502189"
     },
     "Smudged Star": {
-      "Type": "2x2",
+      "Type": "4x4",
       "Tags": [
         "Star"
       ],
@@ -62626,7 +62626,7 @@
         "Water"
       ],
       "Texture": "rbxassetid://103517701873039",
-      "Resolution": "1024",
+      "Resolution": "512",
       "Credits": "?"
     },
     "Flare54New": {
@@ -63643,7 +63643,7 @@
         "Smoke"
       ],
       "Credits": "?",
-      "Resolution": "512",
+      "Resolution": "1024",
       "Texture": "rbxassetid://137794865219648"
     },
     "Inverted impact shards": {
