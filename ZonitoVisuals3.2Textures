@@ -21095,13 +21095,6 @@
       "Resolution": "1024",
       "Credits": "?"
     },
-    "Inverted muddy impact": {
-      "Type": "4x4",
-      "Tags": ["Impact"],
-      "Credits": "?",
-      "Resolution": "1024",
-      "Texture": "rbxassetid://104632340635453"
-    },
     "Sideways Spec 97": {
       "Type": "Static",
       "Tags": ["Spec"],
