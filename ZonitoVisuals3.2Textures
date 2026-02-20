@@ -16486,7 +16486,7 @@
     "Pixelated Radial 2 8x8": {
       "Type": "8x8",
       "Tags": ["Circle"],
-      "Texture": "Irbxassetid://111168715726613D",
+      "Texture": "rbxassetid://111168715726613",
       "Resolution": "1024",
       "Credits": "?"
     },
