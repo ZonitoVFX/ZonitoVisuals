@@ -1,0 +1,17 @@
+{
+  "Textures": [
+    "Circle",    "Crescent",  "Effects",   "Fire",      "Flare",
+    "GUI",       "Grid",      "Ground",    "Impact",    "Lightning",
+    "Smoke",     "Spec",      "Star",      "Swirl",     "Text",
+    "Water",     "Wind",      "Other"
+  ],
+  "Beams"   : [
+    "Energy",    "Fire",      "Lightning", "Shockwave", "Trail",
+    "Smoke",     "Spiral",    "Water",     "Other"
+  ],
+  "Artists" : [
+    "Light09",       "_maroon",       "alsonot_fishy", "brxin",
+    "nyght_corn",    "oladipz",       "purpl3_",       "rocca108",
+    "thawux",        "vinallac"
+  ]
+}
