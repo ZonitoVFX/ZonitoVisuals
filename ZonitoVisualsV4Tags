@@ -1,6 +1,6 @@
 {
   "Textures": [
-    "Circle",    "Crescent",  "Effect",   "Fire",      "Flare",
+    "Circle",    "Crescent",  "Effect",    "Fire",      "Flare",
     "GUI",       "Grid",      "Ground",    "Impact",    "Lightning",
     "Smoke",     "Spec",      "Star",      "Swirl",     "Text",
     "Water",     "Wind",      "Other"
@@ -13,5 +13,9 @@
     "Light09",       "_maroon",       "alsonot_fishy", "brxin",
     "nyght_corn",    "oladipz",       "purpl3_",       "rocca108",
     "thawux",        "vinallac"
+  ],
+  "Meshes"  : [
+    "Lightning", "Shockwave", "Spheres",   "Spikes",    "Swirls",
+    "Wind",      "Other"
   ]
 }
