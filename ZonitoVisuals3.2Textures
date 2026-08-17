@@ -49644,6 +49644,272 @@
       "Texture": "rbxassetid://242213983",
       "Resolution": "1024",
       "Credits": "?"
+    },
+    "Absorbing Fixed": {
+      "Type": "8x8",
+      "Tags": ["Swirl"],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://116489954770690"
+    },
+    "Fixed Layered Swirl": {
+      "Type": "Static",
+      "Tags": ["Circle"],
+      "Credits": "?",
+      "Resolution": "190",
+      "Texture": "rbxassetid://121237221445897"
+    },
+    "Fixed Static Lens": {
+      "Type": "Static",
+      "Tags": ["Flare"],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://138080631235953"
+    },
+    "White energy cluster": {
+      "Type": "Static",
+      "Tags": ["Effect"],
+      "Texture": "rbxassetid://121600872634594",
+      "Resolution": "256x512",
+      "Credits": "?"
+    },
+    "Pixelated Flare Lines": {
+      "Type": "Static",
+      "Tags": ["Flare"],
+      "Credits": "?",
+      "Resolution": "420",
+      "Texture": "rbxassetid://136107314749359"
+    },
+    "Wick Energy": {
+      "Type": "Static",
+      "Tags": ["Effect"],
+      "Texture": "rbxassetid://86264542760129",
+      "Resolution": "128x256",
+      "Credits": "?"
+    },
+    "Nova Flare": {
+      "Type": "Static",
+      "Tags": ["Effect"],
+      "Texture": "rbxassetid://120412261895804",
+      "Resolution": "256",
+      "Credits": "?"
+    },
+    "Fixed semicircle": {
+      "Type": "Static",
+      "Tags": ["Circle"],
+      "Credits": "?",
+      "Resolution": "1024",
+      "Texture": "rbxassetid://130374570072151"
+    },
+    "Inverted Witch Rune": {
+      "Type": "Static",
+      "Tags": ["Effect"],
+      "Texture": "rbxassetid://80643261093020",
+      "Resolution": "512",
+      "Credits": "?"
+    },
+    "Thaw Dissolve 1": {
+      "Type": "5x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://97363009414421",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Thaw Dissolve 2": {
+      "Type": "5x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://124573901778836",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Thaw Dissolve 3": {
+      "Type": "5x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://137040783566185",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Thaw Dissolve 4": {
+      "Type": "5x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://86786495626741",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Thaw Dissolve 5": {
+      "Type": "5x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://127266503615439",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Thaw Dissolve 6": {
+      "Type": "5x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://132695994033487",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Thaw Dissolve 7": {
+      "Type": "5x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://138379632022078",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Thaw Dissolve 8": {
+      "Type": "4x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://120140089410785",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Outlined Dissove": {
+      "Type": "4x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://77352221613652",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Cursed Energy": {
+      "Type": "5x4",
+      "Tags": ["Effect", "Other"],
+      "Texture": "rbxassetid://103876114229258",
+      "Resolution": "1024x819",
+      "Credits": "@Thawux"
+    },
+    "Paper Outline": {
+      "Type": "2x2",
+      "Tags": ["Other"],
+      "Texture": "rbxassetid://77410220145122",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Paper Filling": {
+      "Type": "2x2",
+      "Tags": ["Other"],
+      "Texture": "rbxassetid://129488878811276",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Slash 1": {
+      "Type": "3x4",
+      "Tags": ["Slash"],
+      "Texture": "rbxassetid://108967544246860",
+      "Resolution": "768x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Slash 2": {
+      "Type": "4x6",
+      "Tags": ["Slash"],
+      "Texture": "rbxassetid://113116577242444",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Slash 3": {
+      "Type": "4x6",
+      "Tags": ["Slash"],
+      "Texture": "rbxassetid://122147594169660",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Slash 4": {
+      "Type": "4x6",
+      "Tags": ["Slash"],
+      "Texture": "rbxassetid://136889398201194",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Slash 5": {
+      "Type": "4x6",
+      "Tags": ["Slash", "Water"],
+      "Texture": "rbxassetid://140570653077776",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Slash 6": {
+      "Type": "4x6",
+      "Tags": ["Slash", "Water"],
+      "Texture": "rbxassetid://74614345770705",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Slash 7": {
+      "Type": "4x4",
+      "Tags": ["Slash"],
+      "Texture": "rbxassetid://79984918570971",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Cursed Energy 2": {
+      "Type": "4x4",
+      "Tags": ["Other", "Effect"],
+      "Texture": "rbxassetid://111184694607119",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Thaw Shaded Shockwave": {
+      "Type": "4x4",
+      "Tags": ["Circle", "Impact"],
+      "Texture": "rbxassetid://126845689584571",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Glowing Noisy Smoke": {
+      "Type": "4x4",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://79911841296944",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Metal Dissolve": {
+      "Type": "4x4",
+      "Tags": ["Other", "Effect"],
+      "Texture": "rbxassetid://90468371087534",
+      "Resolution": "1024x1024",
+      "Credits": "@Thawux"
+    },
+    "Aura Texture": {
+      "Type": "4x6",
+      "Tags": ["Effect", "Other"],
+      "Texture": "rbxassetid://108757714432707",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
+    },
+    "Dissolving Cartoony Line": {
+      "Type": "4x5",
+      "Tags": ["Spec"],
+      "Texture": "rbxassetid://124099145985955",
+      "Resolution": "819x1024",
+      "Credits": "@Thawux"
+    },
+    "Realistic Ember Smoke": {
+      "Type": "4x5",
+      "Tags": ["Smoke"],
+      "Texture": "rbxassetid://118550578555277",
+      "Resolution": "819x1024",
+      "Credits": "@Thawux"
+    },
+    "Grid Overlay": {
+      "Type": "4x5",
+      "Tags": ["Circle", "Other"],
+      "Texture": "rbxassetid://100723646700899",
+      "Resolution": "819x1024",
+      "Credits": "@Thawux"
+    },
+    "Magma Splash 1": {
+      "Type": "4x6",
+      "Tags": ["Water"],
+      "Texture": "rbxassetid://71387143811392",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
+    },
+    "Magma Splash 2": {
+      "Type": "4x6",
+      "Tags": ["Water"],
+      "Texture": "rbxassetid://81791875512052",
+      "Resolution": "683x1024",
+      "Credits": "@Thawux"
     }
   },
   "Beams": {
@@ -52782,6 +53048,13 @@
       "Texture": "rbxassetid://92726008667025",
       "Resolution": "1024",
       "Credits": "?"
+    },
+    "Thin lazer beam": {
+      "Type": "Static",
+      "Tags": ["Other"],
+      "Credits": "?",
+      "Resolution": "512",
+      "Texture": "rbxassetid://127403552769755"
     }
   },
   "Artists": {
