@@ -53513,7 +53513,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://113699048321138"
     },
-    "Nyght Energy": {
+    "Energy": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://79855087214487",
@@ -53576,7 +53576,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://15434990762"
     },
-    "Nyght Energy 2": {
+    "Energy 2": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://140615656756520",
@@ -53639,7 +53639,7 @@
       "Resolution": "1024",
       "Credits": "@nyght_corn"
     },
-    "Nyght Flame": {
+    "Flame": {
       "Type": "8x8",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://97965738621137",
@@ -53786,7 +53786,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://129365772874252"
     },
-    "Wavy Star Nyght": {
+    "Wavy Star": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://105028339609218",
@@ -53968,7 +53968,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://70450680097255"
     },
-    "Anime Star Nyght": {
+    "Anime Star": {
       "Type": "Static",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://130183405823734",
@@ -53982,7 +53982,7 @@
       "Resolution": "4096",
       "Texture": "rbxassetid://111998844257055"
     },
-    "Inverted Star Nyght": {
+    "Inverted Star": {
       "Type": "Static",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://73458184089485",
@@ -54010,7 +54010,7 @@
       "Resolution": "4096",
       "Texture": "rbxassetid://100913293288247"
     },
-    "Expanding Circle Nyght": {
+    "Expanding Circle": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://108828046934039",
@@ -54353,7 +54353,7 @@
       "Resolution": "1024",
       "Credits": "@nyght_corn"
     },
-    "Nyght Smooth Crescent": {
+    "Smooth Crescent": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://83374616586414",
@@ -54388,7 +54388,7 @@
       "Resolution": "1024",
       "Texture": "rbxassetid://15441225436"
     },
-    "Nyght Fiery Crescent": {
+    "Fiery Crescent": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://93109993419471",
@@ -54416,7 +54416,7 @@
       "Resolution": "1024",
       "Credits": "@Light09"
     },
-    "Sketch Star Nyght": {
+    "Sketch Star": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://103694697563612",
@@ -54668,7 +54668,7 @@
       "Credits": "@oladipz.",
       "Resolution": "1024"
     },
-    "Vortex Nyght": {
+    "Vortex": {
       "Type": "Static",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://136340899228643",
@@ -54773,7 +54773,7 @@
       "Resolution": "1024",
       "Credits": "@Light09"
     },
-    "Nyght Expanding Circle": {
+    "Expanding Circle": {
       "Type": "4x4",
       "Tags": ["nyght_corn"],
       "Texture": "rbxassetid://77444722493394",
@@ -54821,6 +54821,384 @@
       "Texture": "rbxassetid://138007436749122",
       "Resolution": "1024",
       "Credits": "@alsonot_fishy"
+    },
+    "VignetteCircle": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://121126911288198",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "VignetteWavy": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://86381630630341",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "SpeedlinesBlur": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://80913378876925",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "CoreGlow": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://109716995855814",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "CoreGlowOffset": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://90578675031298",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "GlowPoint": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://92227020747190",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "Heart": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://77921869397887",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "HeartArrow": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://97880944825899",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "HeartPetal": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://101958415789693",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "ImpactFlare": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://139981273927024",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "Debris": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://82545895776288",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "Debris2": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://139316846128864",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "HeartBorder": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://105109184566614",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "HeartDepth": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://84990349014191",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Orb": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://114408903279803",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "CrackSmall": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://84871857235203",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "SmokeVariation": {
+      "Type": "2x2",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://130874061759330",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "Speedlines": {
+      "Type": "2x2",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://127813805559282",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "FireDisintergrate": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://104667076476875",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "OrbDisintergrate": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://82885048186983",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Smoke1": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://138112242832405",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Smoke2": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://127889093767020",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Smoke3": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://128725612350391",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "Smoke4": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://128430668288047",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "SpikyBeam": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://81940807045941",
+      "Resolution": "128x1024",
+      "Credits": "@nyght_corn"
+    },
+    "SpikyBeam2": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://90942467662865",
+      "Resolution": "128x1024",
+      "Credits": "@nyght_corn"
+    },
+    "CenterCore": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://85107224654102",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "CenterCoreSoft": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://117482276418017",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "CrackGround": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://122327074218793",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "CenterCoreStretched": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://125025455554434",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "CrackVertical": {
+      "Type": "Static",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://134498956661631",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "SlashGround": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://98450160163037",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "SlashStylized": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://108331647831302",
+      "Resolution": "2048x2048",
+      "Credits": "@nyght_corn"
+    },
+    "BurstStylized": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://102132976342950",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "BurstStylized2": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://125851837316502",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "BurstStylized3": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://123198119298353",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "SmokeStylized": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://84993654400414",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "SmokeStylized2": {
+      "Type": "4x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://108818040219729",
+      "Resolution": "512",
+      "Credits": "@nyght_corn"
+    },
+    "SmokeStylized3": {
+      "Type": "8x8",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://104026020140768",
+      "Resolution": "1024",
+      "Credits": "@nyght_corn"
+    },
+    "WaterBubble": {
+      "Type": "8x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://94779168178336",
+      "Resolution": "2048x1024",
+      "Credits": "@nyght_corn"
+    },
+    "WaterBubble2": {
+      "Type": "8x4",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://101211765145339",
+      "Resolution": "2048x1024",
+      "Credits": "@nyght_corn"
+    },
+    "WaterBurst": {
+      "Type": "4x2",
+      "Tags": [
+        "nyght_corn"
+      ],
+      "Texture": "rbxassetid://109836422781637",
+      "Resolution": "1024x512",
+      "Credits": "@nyght_corn"
     }
   }
 }
